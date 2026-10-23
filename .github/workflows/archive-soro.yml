@@ -1,0 +1,43 @@
+name: Archive Soro articles
+
+# Every hour: save any new Soro article (English text + cover image) into this repo
+# and rebuild index.json. qgolife.com/blog reads everything from here.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["content/**", "img/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Archive new Soro articles
+        run: python tools/archive_soro.py
+      - name: Rebuild index.json
+        run: python tools/build_index.py
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "qgo-blog-bot"
+            git config user.email "qgo-blog-bot@users.noreply.github.com"
+            git add -A
+            git commit -m "Archive Soro articles $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          else
+            echo "No changes"
+          fi

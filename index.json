@@ -1,0 +1,70 @@
+{
+ "articles": [
+  {
+   "slug": "ticket-dispenser-replacement-software",
+   "pubDate": "2026-10-23T03:44:52.000Z",
+   "img": "img/ticket-dispenser-replacement-software.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/43c88941-0c61-4da5-abdf-02b2386a5738.webp",
+   "langs": {
+    "en": {
+     "title": "Ticket Dispenser Replacement Software That Fits",
+     "description": "Ticket dispenser replacement software helps stores replace paper slips, kiosk upkeep, and visible lines with simple mobile waiting updates for customers."
+    }
+   }
+  },
+  {
+   "slug": "multilingual-queue-software",
+   "pubDate": "2026-10-22T03:50:26.000Z",
+   "img": "img/multilingual-queue-software.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/102afb6b-7f1c-4df1-96c1-ecdfd3c21842.webp",
+   "langs": {
+    "en": {
+     "title": "Multilingual Queue Software That Keeps Lines Moving",
+     "description": "Multilingual queue software helps stores serve more customers with clear, mobile-first wait updates - no kiosks, tickets, downloads, or confusion for staff"
+    }
+   }
+  },
+  {
+   "slug": "digital-queue-management-software",
+   "pubDate": "2026-10-21T03:50:36.000Z",
+   "img": "img/digital-queue-management-software.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/926c29aa-2f85-4650-8015-c9033b62e78c.webp",
+   "langs": {
+    "en": {
+     "title": "Digital Queue Management Software That Fits Real Life",
+     "description": "Digital queue management software helps businesses cut visible lines, keep customers informed, and manage busy service floors with less hardware daily."
+    }
+   }
+  },
+  {
+   "slug": "no-app-queue-system",
+   "pubDate": "2026-10-20T08:00:14.000Z",
+   "img": "img/no-app-queue-system.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/f4e41248-7e53-4f27-93bd-3835d52ba258/2ddf4cab-d718-4821-bcef-f8dc92a5b8a9.webp",
+   "langs": {
+    "en": {
+     "title": "No App Queue System for Faster Store Visits",
+     "description": "See how a no app queue system gives customers live wait updates on their phones while reducing lines, hardware costs, and staff pressure at busy locations."
+    }
+   }
+  }
+ ],
+ "languages": [
+  "en",
+  "zh-tw",
+  "zh-hk",
+  "zh-cn",
+  "ja",
+  "ko",
+  "tl",
+  "fr",
+  "es",
+  "pt",
+  "ru",
+  "ar",
+  "hi",
+  "bn",
+  "id",
+  "th"
+ ]
+}
