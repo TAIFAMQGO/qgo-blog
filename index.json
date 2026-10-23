@@ -9,6 +9,66 @@
     "en": {
      "title": "Ticket Dispenser Replacement Software That Fits",
      "description": "Ticket dispenser replacement software helps stores replace paper slips, kiosk upkeep, and visible lines with simple mobile waiting updates for customers."
+    },
+    "zh-tw": {
+     "title": "取代抽號機的叫號軟體：告別號碼單，排隊更省事",
+     "description": "取代抽號機的叫號軟體，用簡單的手機排隊通知，取代號碼單、機台維護和現場人龍。"
+    },
+    "zh-hk": {
+     "title": "取代取籌機的排隊軟件：告別籌號紙，輪候更省心",
+     "description": "取代取籌機的排隊軟件，以簡單的手機輪候通知，取代籌號紙、機器保養及現場人龍。"
+    },
+    "zh-cn": {
+     "title": "取号机替代方案：更适合门店的手机排队系统",
+     "description": "取号机替代系统用简单的手机排队通知，取代纸质号码单、自助机维护和现场长队。"
+    },
+    "ja": {
+     "title": "発券機の代わりになる順番待ちシステムの選び方",
+     "description": "発券機の代替システムなら、紙の整理券や端末の維持管理、目に見える行列を、スマホでのシンプルな待ち状況のお知らせに置き換えられます。"
+    },
+    "ko": {
+     "title": "번호표 발급기를 대체하는 모바일 대기 시스템",
+     "description": "번호표 발급기 대체 소프트웨어로 종이 번호표, 키오스크 관리, 눈에 보이는 줄을 간단한 모바일 대기 안내로 바꿔 보세요."
+    },
+    "tl": {
+     "title": "Pamalit sa Ticket Dispenser: Queue Software na Swak sa Negosyo Mo",
+     "description": "Palitan ang papel na tiket, maintenance ng kiosk, at mahahabang pila ng simpleng mobile na update sa paghihintay gamit ang queue software."
+    },
+    "fr": {
+     "title": "Remplacer le distributeur de tickets par un logiciel adapté",
+     "description": "Un logiciel qui remplace le distributeur de tickets supprime papier, entretien des bornes et files visibles grâce à un suivi simple sur mobile."
+    },
+    "es": {
+     "title": "Software para reemplazar el dispensador de turnos que sí se adapta",
+     "description": "Un software que reemplaza el dispensador de turnos elimina papeletas, mantenimiento de quioscos y filas visibles con avisos móviles sencillos."
+    },
+    "pt": {
+     "title": "Software para substituir a máquina de senhas no seu negócio",
+     "description": "Um software para substituir a máquina de senhas troca papel, manutenção de totens e filas visíveis por avisos simples de espera no celular."
+    },
+    "ru": {
+     "title": "Программа вместо терминала для талонов: электронная очередь для вашего бизнеса",
+     "description": "Программа вместо терминала для талонов заменяет бумажные талоны, обслуживание киосков и живые очереди простыми уведомлениями на телефоне."
+    },
+    "ar": {
+     "title": "برنامج بديل لجهاز التذاكر يناسب نشاطك التجاري",
+     "description": "برنامج بديل لجهاز التذاكر يساعد المتاجر على الاستغناء عن التذاكر الورقية وصيانة الأجهزة والطوابير الظاهرة، بتحديثات انتظار بسيطة على الهاتف."
+    },
+    "hi": {
+     "title": "टोकन मशीन की जगह लेने वाला सही सॉफ़्टवेयर",
+     "description": "टोकन मशीन का विकल्प बनने वाला सॉफ़्टवेयर कागज़ी टोकन, कियोस्क के रखरखाव और लंबी कतारों की जगह ग्राहकों को फ़ोन पर आसान अपडेट देता है।"
+    },
+    "bn": {
+     "title": "টোকেন মেশিনের বিকল্প সফটওয়্যার: আপনার ব্যবসার জন্য সঠিক সমাধান",
+     "description": "টোকেন মেশিনের বিকল্প সফটওয়্যার কাগজের টোকেন, কিয়স্কের রক্ষণাবেক্ষণ ও লম্বা লাইনের বদলে গ্রাহকের ফোনে সহজ অপেক্ষার আপডেট দেয়।"
+    },
+    "id": {
+     "title": "Software Pengganti Mesin Tiket Antrean yang Tepat untuk Usaha Anda",
+     "description": "Software pengganti mesin tiket antrean membantu toko meninggalkan tiket kertas, perawatan kios, dan antrean fisik dengan info antrean di ponsel."
+    },
+    "th": {
+     "title": "ซอฟต์แวร์คิวแทนเครื่องกดบัตรคิว ที่เหมาะกับร้านของคุณ",
+     "description": "ซอฟต์แวร์แทนเครื่องกดบัตรคิวช่วยให้ร้านเลิกใช้บัตรคิวกระดาษ ลดภาระดูแลตู้คีออสก์ และลดแถว ด้วยการแจ้งสถานะคิวผ่านมือถือแบบง่าย ๆ"
     }
    }
   },
@@ -21,6 +81,66 @@
     "en": {
      "title": "Multilingual Queue Software That Keeps Lines Moving",
      "description": "Multilingual queue software helps stores serve more customers with clear, mobile-first wait updates - no kiosks, tickets, downloads, or confusion for staff"
+    },
+    "zh-tw": {
+     "title": "多語言叫號系統：讓排隊順暢、每位客人都看得懂",
+     "description": "多語言叫號系統用手機即時通知排隊進度，不需抽號機、號碼單或下載 App，店家服務更多客人、工作人員更輕鬆。"
+    },
+    "zh-hk": {
+     "title": "多語言取籌系統：讓人龍暢順，每位客人都看得明白",
+     "description": "多語言取籌系統以手機即時通知輪候進度，毋須取籌機、籌號紙或下載應用程式，商戶可服務更多客人，職員亦更輕鬆。"
+    },
+    "zh-cn": {
+     "title": "多语言排队取号系统：让队伍顺畅流动",
+     "description": "多语言排队取号系统用手机实时推送清晰的排队进度，无需自助机、号码单或下载 App，帮门店服务更多顾客。"
+    },
+    "ja": {
+     "title": "多言語対応の順番待ちシステムで行列をスムーズに",
+     "description": "多言語対応の順番待ちシステムなら、発券機や整理券、アプリ不要で、スマホにわかりやすく待ち状況を届けられます。"
+    },
+    "ko": {
+     "title": "다국어 대기 시스템으로 줄이 멈추지 않게",
+     "description": "다국어 대기 시스템은 키오스크, 번호표, 앱 다운로드 없이 휴대폰으로 명확한 대기 안내를 제공해 매장이 더 많은 고객을 응대하도록 돕습니다."
+    },
+    "tl": {
+     "title": "Multilingual Queue Software: Tuloy-tuloy ang Pila sa Kahit Anong Wika",
+     "description": "Mas maraming customer ang maseserbisyuhan gamit ang multilingual queue software: malinaw na update sa phone, walang kiosk, tiket, o download."
+    },
+    "fr": {
+     "title": "Logiciel de file d’attente multilingue pour fluidifier l’attente",
+     "description": "Un logiciel de file d’attente multilingue informe chaque client sur son téléphone, sans borne, ticket ni téléchargement, et soulage votre personnel."
+    },
+    "es": {
+     "title": "Software de filas multilingüe para que la fila avance",
+     "description": "Un software de filas multilingüe da a cada cliente avisos claros en su teléfono, sin quioscos, tickets ni descargas, y sin confundir al personal."
+    },
+    "pt": {
+     "title": "Sistema de filas multilíngue que mantém o atendimento fluindo",
+     "description": "Um sistema de filas multilíngue ajuda a atender mais clientes com avisos claros no celular, sem totens, senhas impressas, downloads ou confusão."
+    },
+    "ru": {
+     "title": "Многоязычная электронная очередь, которая не даёт очереди застаиваться",
+     "description": "Многоязычная электронная очередь помогает обслуживать больше клиентов: понятные уведомления на телефоне без терминалов, талонов и приложений."
+    },
+    "ar": {
+     "title": "برنامج طوابير متعدد اللغات يُبقي الطابور في حركة مستمرة",
+     "description": "برنامج طوابير متعدد اللغات يساعد المتاجر على خدمة عملاء أكثر بتحديثات انتظار واضحة على الهاتف، دون أجهزة أو تذاكر أو تنزيل تطبيقات."
+    },
+    "hi": {
+     "title": "बहुभाषी कतार सॉफ़्टवेयर जो कतार को आगे बढ़ाता रहे",
+     "description": "बहुभाषी कतार सॉफ़्टवेयर से दुकानें फ़ोन पर साफ़ अपडेट देकर ज़्यादा ग्राहकों को सेवा दे पाती हैं - बिना कियोस्क, टोकन, डाउनलोड या उलझन के।"
+    },
+    "bn": {
+     "title": "বহুভাষিক কিউ সফটওয়্যার: লাইন থাকবে সচল, গ্রাহক থাকবেন নিশ্চিন্ত",
+     "description": "বহুভাষিক কিউ সফটওয়্যার ফোনে স্পষ্ট অপেক্ষার আপডেট দিয়ে দোকানকে আরও গ্রাহক সামলাতে সাহায্য করে - কিয়স্ক, টোকেন, ডাউনলোড বা কর্মীদের বিভ্রান্তি ছাড়াই।"
+    },
+    "id": {
+     "title": "Software Antrean Multibahasa agar Antrean Tetap Lancar",
+     "description": "Software antrean multibahasa membantu toko melayani lebih banyak pelanggan lewat info antrean di ponsel - tanpa kios, tiket, unduhan, atau staf kewalahan."
+    },
+    "th": {
+     "title": "ระบบคิวหลายภาษา ช่วยให้คิวเดินต่อเนื่อง",
+     "description": "ระบบคิวหลายภาษาช่วยให้ร้านดูแลลูกค้าได้มากขึ้น ด้วยการแจ้งสถานะคิวผ่านมือถืออย่างชัดเจน ไม่ต้องใช้ตู้คีออสก์ บัตรคิว หรือดาวน์โหลดแอป"
     }
    }
   },
@@ -33,6 +153,66 @@
     "en": {
      "title": "Digital Queue Management Software That Fits Real Life",
      "description": "Digital queue management software helps businesses cut visible lines, keep customers informed, and manage busy service floors with less hardware daily."
+    },
+    "zh-tw": {
+     "title": "數位叫號系統怎麼選？真正貼近店家日常的排隊管理軟體",
+     "description": "數位叫號系統幫店家減少現場排隊人龍、讓客人隨時掌握進度，用更少硬體管理忙碌的服務現場。"
+    },
+    "zh-hk": {
+     "title": "數碼取籌系統：真正切合商戶日常運作的排隊管理軟件",
+     "description": "數碼取籌系統助商戶減少現場人龍、讓客人隨時掌握排隊進度，以更少硬件管理繁忙的服務現場。"
+    },
+    "zh-cn": {
+     "title": "数字化排队管理系统：贴合真实门店场景的取号方案",
+     "description": "数字化排队管理系统帮助商家减少现场排长队、让顾客随时掌握进度，用更少的硬件管好繁忙的服务现场。"
+    },
+    "ja": {
+     "title": "現場に本当にフィットする順番待ち管理システムの選び方",
+     "description": "順番待ち管理システムで目に見える行列を減らし、お客様に待ち状況を伝え、少ない機材で混雑する現場を管理できます。"
+    },
+    "ko": {
+     "title": "현장에 딱 맞는 디지털 대기 관리 시스템",
+     "description": "디지털 대기 관리 시스템으로 눈에 보이는 줄을 줄이고, 고객에게 대기 상황을 알리며, 장비 부담 없이 붐비는 매장을 운영하세요."
+    },
+    "tl": {
+     "title": "Digital Queue Management Software na Swak sa Totoong Buhay ng Negosyo",
+     "description": "Bawasan ang mahahabang pila at panatilihing updated ang customer gamit ang digital queue management software, nang mas kaunting hardware."
+    },
+    "fr": {
+     "title": "Logiciel de gestion de file d’attente : une solution adaptée au terrain",
+     "description": "Un logiciel de gestion de file d’attente réduit les files visibles, informe vos clients et fluidifie l’accueil, avec moins de matériel au quotidien."
+    },
+    "es": {
+     "title": "Software de gestión de filas que se adapta a la vida real",
+     "description": "Un software de gestión de filas reduce las filas visibles, mantiene informados a tus clientes y ordena tu negocio con menos equipos cada día."
+    },
+    "pt": {
+     "title": "Software de gestão de filas digital que funciona na vida real",
+     "description": "Um software de gestão de filas digital reduz filas visíveis, mantém os clientes informados e organiza o atendimento com menos equipamentos."
+    },
+    "ru": {
+     "title": "Программа электронной очереди, которая работает в реальной жизни",
+     "description": "Программа электронной очереди убирает видимые очереди, держит клиентов в курсе и помогает управлять потоком посетителей с минимумом оборудования."
+    },
+    "ar": {
+     "title": "برنامج رقمي لإدارة الطوابير يناسب واقع العمل اليومي",
+     "description": "برنامج إدارة الطوابير الرقمي يقلّص الطوابير الظاهرة، ويُبقي العملاء على اطلاع، وينظّم أوقات الذروة بأقل قدر من الأجهزة."
+    },
+    "hi": {
+     "title": "डिजिटल कतार प्रबंधन सॉफ़्टवेयर जो असल ज़िंदगी में काम आए",
+     "description": "डिजिटल कतार प्रबंधन सॉफ़्टवेयर लंबी कतारें घटाता है, ग्राहकों को अपडेट रखता है और कम हार्डवेयर में व्यस्त समय संभालने में मदद करता है।"
+    },
+    "bn": {
+     "title": "ডিজিটাল কিউ ম্যানেজমেন্ট সফটওয়্যার: বাস্তব ব্যবসার জন্য সহজ সারি ব্যবস্থাপনা",
+     "description": "ডিজিটাল কিউ ম্যানেজমেন্ট সফটওয়্যার কম যন্ত্রপাতিতে লম্বা লাইন কমায়, গ্রাহককে আপডেট রাখে এবং ব্যস্ত সার্ভিস এলাকা সামলাতে সাহায্য করে।"
+    },
+    "id": {
+     "title": "Software Manajemen Antrean Digital yang Pas untuk Bisnis Nyata",
+     "description": "Software manajemen antrean digital membantu usaha mengurangi antrean fisik, memberi kabar ke pelanggan, dan mengelola area layanan tanpa banyak perangkat."
+    },
+    "th": {
+     "title": "ระบบจัดการคิวออนไลน์ที่ใช้งานได้จริงในทุกวัน",
+     "description": "ระบบจัดการคิวออนไลน์ช่วยลดแถวยาวหน้าร้าน แจ้งสถานะให้ลูกค้ารู้ตลอด และบริหารหน้าร้านที่วุ่นวายได้โดยใช้อุปกรณ์น้อยลง"
     }
    }
   },
@@ -45,6 +225,66 @@
     "en": {
      "title": "No App Queue System for Faster Store Visits",
      "description": "See how a no app queue system gives customers live wait updates on their phones while reducing lines, hardware costs, and staff pressure at busy locations."
+    },
+    "zh-tw": {
+     "title": "免下載 App 的叫號系統：讓客人來店更快、更順",
+     "description": "免下載 App 的叫號系統，讓客人用手機即時掌握排隊進度，同時減少人龍、硬體成本與工作人員壓力。"
+    },
+    "zh-hk": {
+     "title": "毋須下載 App 的取籌系統：令客人到店更快捷",
+     "description": "毋須下載 App 的取籌系統，讓客人以手機即時掌握輪候進度，同時減少人龍、硬件成本及職員壓力。"
+    },
+    "zh-cn": {
+     "title": "免下载 App 的扫码排队系统，让到店更高效",
+     "description": "免下载 App 的排队系统让顾客用手机实时查看排队进度，减少现场排队、硬件成本和员工压力。"
+    },
+    "ja": {
+     "title": "アプリ不要の順番待ちシステムで来店をもっとスムーズに",
+     "description": "アプリ不要の順番待ちシステムなら、お客様のスマホに待ち状況を届け、行列・機材コスト・スタッフの負担を減らせます。"
+    },
+    "ko": {
+     "title": "앱 설치 없는 대기 시스템으로 더 빠른 매장 방문",
+     "description": "앱 설치 없는 대기 시스템이 고객 휴대폰으로 실시간 대기 현황을 알리고, 줄과 장비 비용, 직원 부담을 어떻게 줄이는지 알아보세요."
+    },
+    "tl": {
+     "title": "Queue System na Walang App: Mas Mabilis na Pila sa Tindahan",
+     "description": "Live na update sa phone mula sa queue system na walang app, habang nababawasan ang pila, gastos sa hardware, at pressure sa staff."
+    },
+    "fr": {
+     "title": "File d’attente sans application : des visites en magasin plus rapides",
+     "description": "Une file d’attente sans application informe vos clients en direct sur leur téléphone et réduit files, coûts de matériel et pression sur le personnel."
+    },
+    "es": {
+     "title": "Sistema de turnos sin app para visitas más rápidas a tu tienda",
+     "description": "Un sistema de turnos sin app da a tus clientes avisos en vivo en su teléfono y reduce filas, costos de equipos y presión sobre el personal."
+    },
+    "pt": {
+     "title": "Fila virtual sem aplicativo para visitas mais rápidas à loja",
+     "description": "Veja como uma fila virtual sem aplicativo mostra a espera ao vivo no celular e reduz filas, custos com equipamentos e a pressão sobre a equipe."
+    },
+    "ru": {
+     "title": "Электронная очередь без приложения: быстрее и удобнее для покупателей",
+     "description": "Электронная очередь без приложения показывает клиентам ожидание на телефоне, сокращает очереди, расходы на оборудование и нагрузку на персонал."
+    },
+    "ar": {
+     "title": "نظام طوابير بدون تطبيق لزيارات أسرع إلى المتجر",
+     "description": "تعرّف كيف يمنح نظام الطوابير بدون تطبيق العملاء تحديثات انتظار مباشرة على هواتفهم، ويقلل الطوابير وتكاليف الأجهزة وضغط العمل على الموظفين."
+    },
+    "hi": {
+     "title": "बिना ऐप वाला कतार सिस्टम: स्टोर विज़िट हों तेज़",
+     "description": "जानें कि बिना ऐप वाला कतार सिस्टम कैसे ग्राहकों के फ़ोन पर लाइव अपडेट देता है और कतार, हार्डवेयर खर्च व स्टाफ़ का दबाव घटाता है।"
+    },
+    "bn": {
+     "title": "অ্যাপ ছাড়াই সারি ব্যবস্থা: দোকানে দ্রুত ও ঝামেলাহীন সেবা",
+     "description": "অ্যাপ ছাড়া সারি ব্যবস্থা কীভাবে গ্রাহকের ফোনে লাইভ অপেক্ষার আপডেট দেয় এবং লাইন, যন্ত্রপাতির খরচ ও কর্মীদের চাপ কমায়, জেনে নিন।"
+    },
+    "id": {
+     "title": "Sistem Antrean Tanpa Aplikasi untuk Kunjungan Toko Lebih Cepat",
+     "description": "Sistem antrean tanpa aplikasi memberi info antrean langsung di ponsel pelanggan sambil mengurangi antrean, biaya perangkat, dan beban staf."
+    },
+    "th": {
+     "title": "ระบบคิวไม่ต้องโหลดแอป ให้ลูกค้าใช้บริการได้เร็วขึ้น",
+     "description": "ดูว่าระบบคิวที่ไม่ต้องโหลดแอปช่วยแจ้งสถานะคิวแบบเรียลไทม์บนมือถือลูกค้า พร้อมลดแถว ค่าฮาร์ดแวร์ และภาระพนักงานได้อย่างไร"
     }
    }
   }
