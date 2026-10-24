@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "qr-code-queue-system",
+   "pubDate": "2026-10-24T03:52:45.000Z",
+   "img": "img/qr-code-queue-system.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/65fbfd4b-80df-4104-9ae1-1482ac0213e9.webp",
+   "langs": {
+    "en": {
+     "title": "QR Code Queue System for Faster Store Visits",
+     "description": "See how a QR code queue system reduces visible lines, keeps customers updated on their phones, and gives staff an easier way to manage busy service hours."
+    }
+   }
+  },
+  {
    "slug": "ticket-dispenser-replacement-software",
    "pubDate": "2026-10-23T03:44:52.000Z",
    "img": "img/ticket-dispenser-replacement-software.webp",
