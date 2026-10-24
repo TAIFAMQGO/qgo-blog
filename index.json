@@ -9,6 +9,66 @@
     "en": {
      "title": "QR Code Queue System for Faster Store Visits",
      "description": "See how a QR code queue system reduces visible lines, keeps customers updated on their phones, and gives staff an easier way to manage busy service hours."
+    },
+    "zh-tw": {
+     "title": "QR Code 叫號系統：讓客人來店更快、更順",
+     "description": "QR Code 叫號系統減少店內人龍，讓客人用手機掌握排隊進度，也讓工作人員更輕鬆應付尖峰時段。"
+    },
+    "zh-hk": {
+     "title": "QR Code 取籌系統：令客人到店更快捷",
+     "description": "QR Code 取籌系統減少店內人龍，讓客人以手機掌握輪候進度，亦令職員更輕鬆應付繁忙時段。"
+    },
+    "zh-cn": {
+     "title": "二维码排队取号系统：让顾客到店更快捷",
+     "description": "二维码排队取号系统减少店内长队，让顾客用手机掌握排队进度，也让工作人员更轻松应对高峰时段。"
+    },
+    "ja": {
+     "title": "QRコード順番待ちシステムで店舗の待ち時間をスムーズに",
+     "description": "QRコード順番待ちシステムで行列を減らし、お客様のスマホに状況を届け、混雑時の受付をスタッフが楽に管理できる仕組みを解説します。"
+    },
+    "ko": {
+     "title": "QR 코드 대기 시스템으로 매장 방문을 더 빠르게",
+     "description": "QR 코드 대기 시스템으로 눈에 보이는 줄을 줄이고, 고객 휴대폰으로 대기 현황을 알리며, 바쁜 시간대 직원 업무를 덜어 보세요."
+    },
+    "tl": {
+     "title": "QR Code Queue System para sa Mas Mabilis na Pagbisita sa Tindahan",
+     "description": "Alamin kung paano binabawasan ng QR code queue system ang mahahabang pila, inaabisuhan ang customer sa phone, at pinapadali ang trabaho ng staff."
+    },
+    "fr": {
+     "title": "File d'attente par QR code : des visites en magasin plus fluides",
+     "description": "La file d'attente par QR code réduit les files visibles, informe vos clients sur leur téléphone et allège le travail du personnel aux heures de pointe."
+    },
+    "es": {
+     "title": "Sistema de turnos con código QR para visitas más ágiles",
+     "description": "Un sistema de filas con código QR reduce las filas visibles, informa a tus clientes en su teléfono y facilita el trabajo del personal en horas pico."
+    },
+    "pt": {
+     "title": "Fila com QR code: sistema de senhas para atendimentos mais rápidos",
+     "description": "Veja como um sistema de fila com QR code reduz filas visíveis, mantém o cliente informado no celular e facilita o trabalho da equipe nos horários de pico."
+    },
+    "ru": {
+     "title": "Электронная очередь по QR-коду: быстрее обслуживание в магазине",
+     "description": "Как электронная очередь по QR-коду убирает видимые очереди, держит клиентов в курсе на телефоне и упрощает работу персонала в часы пик."
+    },
+    "ar": {
+     "title": "نظام طابور برمز QR لزيارات أسرع إلى المتجر",
+     "description": "تعرّف كيف يقلّل نظام الطابور برمز QR الطوابير المرئية، ويُبقي العملاء على اطلاع عبر هواتفهم، ويسهّل على الموظفين إدارة ساعات الذروة."
+    },
+    "hi": {
+     "title": "QR कोड कतार सिस्टम: दुकान पर तेज़ और आसान सर्विस",
+     "description": "जानें कि QR कोड कतार सिस्टम कैसे लंबी लाइनें घटाता है, ग्राहकों को फ़ोन पर अपडेट रखता है और स्टाफ़ के लिए व्यस्त समय आसान बनाता है।"
+    },
+    "bn": {
+     "title": "QR কোড সারি ব্যবস্থা: দোকানে দ্রুত ও ঝামেলাহীন সেবা",
+     "description": "QR কোড সারি ব্যবস্থা কীভাবে লম্বা লাইন কমায়, গ্রাহকদের ফোনে আপডেট দেয় এবং ব্যস্ত সময়ে কর্মীদের কাজ সহজ করে, জেনে নিন।"
+    },
+    "id": {
+     "title": "Sistem Antrean Kode QR untuk Kunjungan Toko yang Lebih Cepat",
+     "description": "Pelajari bagaimana sistem antrean kode QR mengurangi antrean panjang, memberi kabar ke ponsel pelanggan, dan memudahkan staf di jam sibuk."
+    },
+    "th": {
+     "title": "ระบบคิว QR Code ช่วยให้ลูกค้าใช้บริการร้านได้เร็วขึ้น",
+     "description": "ดูว่าระบบคิว QR Code ช่วยลดแถวหน้าร้าน แจ้งสถานะคิวบนมือถือลูกค้า และช่วยพนักงานจัดการช่วงเวลาที่ลูกค้าแน่นได้ง่ายขึ้นอย่างไร"
     }
    }
   },
