@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "retail-queue-management",
+   "pubDate": "2026-10-25T03:42:27.000Z",
+   "img": "img/retail-queue-management.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/a6bc04e4-0685-4dae-96ba-9f70ee00a553.webp",
+   "langs": {
+    "en": {
+     "title": "Retail Queue Management That Keeps Lines Moving",
+     "description": "Retail queue management reduces visible lines, gives shoppers clear wait updates, and helps store teams serve more people with less friction each day."
+    }
+   }
+  },
+  {
    "slug": "qr-code-queue-system",
    "pubDate": "2026-10-24T03:52:45.000Z",
    "img": "img/qr-code-queue-system.webp",
