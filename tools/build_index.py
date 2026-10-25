@@ -1,7 +1,21 @@
 #!/usr/bin/env python3
 """Rebuild index.json (the list the website reads) from content/<lang>/<slug>.json."""
-import json, os, glob, datetime
+import json, os, glob, datetime, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "tools"))
+import cta
+
+# Add / refresh the QGO call-to-action blocks in every article (all languages).
+for q in glob.glob(os.path.join(ROOT, "content", "*", "*.json")):
+    lang = os.path.basename(os.path.dirname(q))
+    d = json.load(open(q, encoding="utf-8"))
+    if not d.get("html"):
+        continue
+    h = cta.apply(d["html"], lang)
+    if h != d["html"]:
+        d["html"] = h
+        with open(q, "w", encoding="utf-8") as f:
+            json.dump(d, f, ensure_ascii=False, indent=1)
 LANGS = ["en", "zh-tw", "zh-hk", "zh-cn", "ja", "ko", "tl", "fr", "es", "pt", "ru", "ar", "hi", "bn", "id", "th"]
 arts = []
 for p in glob.glob(os.path.join(ROOT, "content", "en", "*.json")):

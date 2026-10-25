@@ -2,6 +2,7 @@
 """Check translations: python3 tools/check_translation.py <lang> [slug] — compares content/<lang>/*.json with the English HTML structure."""
 import json, re, sys, os, glob
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(BASE, 'tools')); import cta  # CTA blocks are added by build_index.py and ignored here
 ABOUT = {'zh-tw':'about-zh','zh-hk':'about-zh-hk','zh-cn':'about-zh-cn','ja':'about-ja','ko':'about-ko','tl':'about-tl','fr':'about-fr','es':'about-es','pt':'about-pt','ru':'about-ru','ar':'about-ar','hi':'about-hi','bn':'about-bn','id':'about-id','th':'about-th'}
 def tags(h): return re.findall(r'</?([a-zA-Z0-9]+)', h)
 lang = sys.argv[1]; only = sys.argv[2] if len(sys.argv) > 2 else None; bad = 0
@@ -12,6 +13,7 @@ for en in sorted(glob.glob(f'{BASE}/content/en/*.json')):
     if not os.path.exists(p): print('MISSING', lang, s); bad += 1; continue
     try: T = json.load(open(p, encoding='utf-8'))
     except Exception as e: print('BADJSON', p, e); bad += 1; continue
+    E['html'] = cta.strip(E['html']); T['html'] = cta.strip(T.get('html', ''))
     errs = []
     for k in ('slug','lang','title','description','html','pubDate','image'):
         if not T.get(k): errs.append('no '+k)

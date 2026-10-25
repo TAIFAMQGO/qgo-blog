@@ -9,6 +9,9 @@ QGO (qgolife.com) is a queue-management product: customers scan a QR code, take 
 - Write the file with a short Python script (json.dump(..., ensure_ascii=False, indent=1)) so escaping is always correct — do not hand-write JSON escapes.
 - After writing a language, run `python3 tools/check_translation.py <lang>` from the repo root and fix anything marked FAIL. Every article you translated must print OK (pass the slug as a second argument to check just one).
 
+## Call-to-action blocks
+Every article (all languages, English included) contains two `<div class="qgo-cta …">` blocks that promote QGO. They are added automatically by `tools/build_index.py` from the copy in `tools/cta.py`. When translating, skip those blocks — do not translate or copy them; `check_translation.py` ignores them and `build_index.py` inserts the localized versions. To change the promo text or link, edit `tools/cta.py` and run `python3 tools/build_index.py`.
+
 ## Rules
 1. Translate the meaning naturally for readers in that market — like a professional local copywriter, not word-for-word. Keep every fact; add nothing, drop nothing. No invented statistics, features or prices.
 2. HTML: keep exactly the same tags in the same order (same number of <p>, <h2>, <ul>, <li>, <strong>, <a> …). Only the text between tags changes.

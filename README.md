@@ -10,3 +10,5 @@ Articles for the QGO blog at **https://qgolife.com/blog**, in 16 languages.
 The website (Cloudflare Worker `qgo`, file `blog.js`) reads this repository directly, so a new commit here appears on qgolife.com within about 10 minutes. Archived articles stay online even if Soro stops.
 
 Translation rules: `TRANSLATION_BRIEF.md`. Check a language: `python3 tools/check_translation.py <lang>`. See what is missing: `python3 tools/status.py`.
+
+Call-to-action: every article gets a localized QGO promo after the first paragraph and at the end (`tools/cta.py`, applied by `tools/build_index.py`). Links carry `utm_source=blog` so blog traffic can be measured.
