@@ -9,6 +9,66 @@
     "en": {
      "title": "Retail Queue Management That Keeps Lines Moving",
      "description": "Retail queue management reduces visible lines, gives shoppers clear wait updates, and helps store teams serve more people with less friction each day."
+    },
+    "zh-tw": {
+     "title": "零售店排隊管理：讓隊伍順暢前進，不再塞到門口",
+     "description": "零售排隊管理能減少店內排隊人潮，讓客人清楚掌握等候進度，店家每天服務更多人、更少摩擦。"
+    },
+    "zh-hk": {
+     "title": "零售店排隊管理：網上取籌，讓人龍順暢流動",
+     "description": "零售排隊管理可減少店內人龍，讓客人清楚掌握輪候進度，助商戶每日以更少阻滯服務更多客人。"
+    },
+    "zh-cn": {
+     "title": "零售门店排队管理：让队伍顺畅流动，不再堵到门口",
+     "description": "零售排队管理可减少店内排队人群，让顾客清楚了解等待进度，帮助门店每天以更少摩擦服务更多顾客。"
+    },
+    "ja": {
+     "title": "小売店の順番待ち管理｜行列を止めずにスムーズに接客する方法",
+     "description": "小売店の順番待ち管理で目に見える行列を減らし、お客様に待ち状況を伝え、スタッフの負担を軽くする方法を解説します。"
+    },
+    "ko": {
+     "title": "매장 대기 관리: 줄이 멈추지 않는 리테일 대기 관리 방법",
+     "description": "매장 대기 관리로 눈에 보이는 줄을 줄이고, 고객에게 명확한 대기 정보를 제공하며, 직원이 더 많은 고객을 응대하는 방법을 소개합니다."
+    },
+    "tl": {
+     "title": "Queue Management sa Tindahan: Paano Panatilihing Gumagalaw ang Pila",
+     "description": "Binabawasan ng retail queue management ang mahahabang pila, nagbibigay ng malinaw na update sa hintay, at tumutulong sa staff na magsilbi sa mas marami."
+    },
+    "fr": {
+     "title": "Gestion de file d’attente en magasin : fluidifier l’attente",
+     "description": "La gestion de file d’attente en magasin réduit les files visibles, informe clairement les clients et aide vos équipes à servir plus de monde."
+    },
+    "es": {
+     "title": "Gestión de filas en retail: cómo mantener la fila en movimiento",
+     "description": "La gestión de filas en retail reduce las filas visibles, informa claramente a los clientes y ayuda a tu equipo a atender a más personas."
+    },
+    "pt": {
+     "title": "Gestão de filas no varejo: como manter a fila andando",
+     "description": "A gestão de filas no varejo reduz filas visíveis, informa o cliente sobre a espera e ajuda a equipe da loja a atender mais pessoas."
+    },
+    "ru": {
+     "title": "Управление очередью в магазине: как сделать так, чтобы очередь двигалась",
+     "description": "Электронная очередь в магазине убирает толпу у кассы, сообщает покупателям понятный статус ожидания и помогает персоналу обслуживать больше клиентов."
+    },
+    "ar": {
+     "title": "إدارة الطوابير في متاجر التجزئة: كيف تحافظ على حركة الطابور",
+     "description": "تقلّل إدارة الطوابير في المتاجر الطوابير المرئية، وتمنح المتسوقين تحديثات واضحة عن الانتظار، وتساعد الموظفين على خدمة عدد أكبر بسلاسة."
+    },
+    "hi": {
+     "title": "रिटेल कतार प्रबंधन: स्टोर की लाइन को तेज़ी से आगे बढ़ाएँ",
+     "description": "रिटेल कतार प्रबंधन लंबी लाइनें घटाता है, ग्राहकों को इंतज़ार की साफ़ जानकारी देता है और स्टाफ़ को हर दिन ज़्यादा लोगों की आसानी से सेवा करने में मदद करता है।"
+    },
+    "bn": {
+     "title": "রিটেল সারি ব্যবস্থাপনা: দোকানের লাইন সচল রাখার উপায়",
+     "description": "রিটেল সারি ব্যবস্থাপনা লম্বা লাইন কমায়, গ্রাহকদের অপেক্ষার স্পষ্ট আপডেট দেয় এবং কর্মীদের প্রতিদিন আরও বেশি মানুষকে সহজে সেবা দিতে সাহায্য করে।"
+    },
+    "id": {
+     "title": "Manajemen Antrean Ritel agar Antrean Toko Terus Bergerak",
+     "description": "Manajemen antrean ritel mengurangi antrean panjang, memberi pembeli info tunggu yang jelas, dan membantu staf toko melayani lebih banyak orang setiap hari."
+    },
+    "th": {
+     "title": "ระบบจัดการคิวร้านค้าปลีก ช่วยให้คิวเดินต่อเนื่องไม่ติดขัด",
+     "description": "ระบบจัดการคิวร้านค้าปลีกช่วยลดแถวยาวหน้าร้าน แจ้งสถานะการรอให้ลูกค้าชัดเจน และช่วยให้พนักงานบริการลูกค้าได้มากขึ้นอย่างราบรื่น"
     }
    }
   },
