@@ -9,6 +9,66 @@
     "en": {
      "title": "Digital Queue for Clinics That Reduces Waits",
      "description": "A digital queue for clinics keeps patients informed, reduces crowded waiting rooms, and gives staff a simpler way to manage arrivals and delays better."
+    },
+    "zh-tw": {
+     "title": "診所數位叫號系統：縮短候診、告別擁擠候診室",
+     "description": "診所數位叫號讓病患用手機掌握候診進度，減少候診室擁擠，也讓櫃台更輕鬆安排報到與延誤。"
+    },
+    "zh-hk": {
+     "title": "診所電子取籌系統：縮短輪候、告別擠迫候診室",
+     "description": "診所電子取籌讓病人以手機掌握輪候進度，減少候診室擠迫，亦令登記處更輕鬆處理到診及延誤。"
+    },
+    "zh-cn": {
+     "title": "诊所线上排队取号系统：缩短候诊时间",
+     "description": "诊所线上排队取号让患者用手机掌握候诊进度，减少候诊室拥挤，也让前台更轻松地处理到诊和延误。"
+    },
+    "ja": {
+     "title": "クリニックの待ち時間を減らす順番待ちシステム",
+     "description": "クリニック向けの順番待ちシステムで、患者さんに状況を伝え、混雑した待合室を解消し、受付や遅れへの対応をスタッフがもっと簡単に。"
+    },
+    "ko": {
+     "title": "대기 시간을 줄이는 병원 대기 시스템",
+     "description": "병원 대기 시스템으로 환자에게 진행 상황을 알리고, 붐비는 대기실을 줄이며, 직원이 접수와 지연을 더 쉽게 관리할 수 있습니다."
+    },
+    "tl": {
+     "title": "Digital Queue para sa Clinic: Paikliin ang Paghihintay",
+     "description": "Sa digital queue para sa clinic, updated ang pasyente, hindi siksikan ang waiting room, at mas madali para sa staff ang pag-handle ng dating at delay."
+    },
+    "fr": {
+     "title": "File d'attente digitale pour cabinets médicaux : moins d'attente",
+     "description": "Une file d'attente digitale informe les patients, désengorge la salle d'attente et aide le personnel à gérer arrivées et retards plus simplement."
+    },
+    "es": {
+     "title": "Fila digital para clínicas: menos espera para tus pacientes",
+     "description": "Una fila digital para clínicas mantiene informados a los pacientes, despeja la sala de espera y facilita al personal gestionar llegadas y retrasos."
+    },
+    "pt": {
+     "title": "Fila digital para clínicas: menos espera para os pacientes",
+     "description": "A fila digital para clínicas mantém os pacientes informados, esvazia a recepção e facilita para a equipe gerenciar chegadas e atrasos."
+    },
+    "ru": {
+     "title": "Электронная очередь для клиники: как сократить ожидание",
+     "description": "Электронная очередь в клинике держит пациентов в курсе, разгружает зал ожидания и помогает персоналу проще управлять потоком и задержками."
+    },
+    "ar": {
+     "title": "طابور إلكتروني للعيادات يقلّل وقت الانتظار",
+     "description": "الطابور الإلكتروني للعيادات يُبقي المرضى على اطّلاع، ويخفّف ازدحام غرف الانتظار، ويمنح الموظفين طريقة أبسط لإدارة الوصول والتأخير."
+    },
+    "hi": {
+     "title": "क्लिनिक के लिए डिजिटल कतार सिस्टम: मरीज़ों का इंतज़ार कैसे घटाएँ",
+     "description": "क्लिनिक की डिजिटल कतार मरीज़ों को फ़ोन पर अपडेट रखती है, वेटिंग रूम की भीड़ घटाती है और स्टाफ़ के लिए आने वालों व देरी को संभालना आसान बनाती है।"
+    },
+    "bn": {
+     "title": "ক্লিনিকের জন্য ডিজিটাল সারি ব্যবস্থা: রোগীদের অপেক্ষা কমানোর উপায়",
+     "description": "ক্লিনিকের ডিজিটাল সারি রোগীদের ফোনে আপডেট রাখে, ওয়েটিং রুমের ভিড় কমায় আর কর্মীদের জন্য রোগী আসা ও দেরি সামলানো সহজ করে।"
+    },
+    "id": {
+     "title": "Sistem Antrean Digital untuk Klinik yang Mengurangi Waktu Tunggu",
+     "description": "Antrean digital untuk klinik memberi pasien kabar terbaru, mengurangi kepadatan ruang tunggu, dan memudahkan staf mengatur kedatangan serta keterlambatan."
+    },
+    "th": {
+     "title": "ระบบคิวออนไลน์สำหรับคลินิก ช่วยลดเวลารอ",
+     "description": "ระบบคิวออนไลน์สำหรับคลินิกช่วยให้ผู้ป่วยรู้สถานะคิว ลดความแออัดในห้องรอ และช่วยพนักงานจัดการผู้มาถึงและความล่าช้าได้ง่ายขึ้น"
     }
    }
   },
