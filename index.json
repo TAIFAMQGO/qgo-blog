@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "digital-queue-for-clinics",
+   "pubDate": "2026-10-26T03:50:21.000Z",
+   "img": "img/digital-queue-for-clinics.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/ff16da8f-aad1-4cba-8882-29d537248b72.webp",
+   "langs": {
+    "en": {
+     "title": "Digital Queue for Clinics That Reduces Waits",
+     "description": "A digital queue for clinics keeps patients informed, reduces crowded waiting rooms, and gives staff a simpler way to manage arrivals and delays better."
+    }
+   }
+  },
+  {
    "slug": "retail-queue-management",
    "pubDate": "2026-10-25T03:42:27.000Z",
    "img": "img/retail-queue-management.webp",
