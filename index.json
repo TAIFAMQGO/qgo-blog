@@ -9,6 +9,66 @@
     "en": {
      "title": "Walk In Management Software That Clears Lines",
      "description": "Walk in management software helps stores replace crowded lines with clear mobile updates, faster service, and less work for staff at every location daily."
+    },
+    "zh-tw": {
+     "title": "現場候位管理系統：告別店門口大排長龍",
+     "description": "現場候位管理系統讓店家用手機即時通知取代擁擠人龍，服務更快，工作人員也更輕鬆。"
+    },
+    "zh-hk": {
+     "title": "現場輪候管理系統：告別門外大排長龍",
+     "description": "現場輪候管理系統以手機即時通知取代擁擠人龍，令服務更快，職員工作亦更輕鬆。"
+    },
+    "zh-cn": {
+     "title": "到店排队管理系统：告别门口排长队",
+     "description": "到店排队管理系统用手机实时提醒取代拥挤的长队，服务更快，工作人员也更省心。"
+    },
+    "ja": {
+     "title": "来店受付システムで店頭の行列を解消｜スマホで順番待ち",
+     "description": "来店受付システムなら、店頭の混雑した行列をスマホ通知に置き換え、スムーズな接客とスタッフの負担軽減を実現できます。"
+    },
+    "ko": {
+     "title": "매장 대기 줄을 없애는 워크인 고객 관리 시스템",
+     "description": "워크인 고객 관리 시스템은 붐비는 대기 줄을 휴대폰 알림으로 바꿔 더 빠른 서비스와 직원 업무 부담 감소를 돕습니다."
+    },
+    "tl": {
+     "title": "Walk-In Management Software: Paalam sa Mahahabang Pila",
+     "description": "Pinapalitan ng walk-in management software ang siksikang pila ng malinaw na updates sa phone, mas mabilis na serbisyo, at mas magaan na trabaho ng staff."
+    },
+    "fr": {
+     "title": "Logiciel de gestion des clients sans rendez-vous : finies les files d'attente",
+     "description": "Un logiciel de gestion des clients sans rendez-vous remplace les files bondées par des mises à jour sur mobile, un service plus rapide et moins de travail."
+    },
+    "es": {
+     "title": "Software de gestión de clientes sin cita que elimina las filas",
+     "description": "Un software de gestión de clientes sin cita reemplaza las filas llenas con avisos al teléfono, atención más rápida y menos trabajo para tu personal."
+    },
+    "pt": {
+     "title": "Sistema de gestão de clientes sem agendamento que acaba com as filas",
+     "description": "Um sistema de gestão de clientes sem agendamento troca filas lotadas por avisos no celular, atendimento mais ágil e menos trabalho para a equipe."
+    },
+    "ru": {
+     "title": "Программа для управления очередью посетителей: без толпы у входа",
+     "description": "Программа для управления очередью посетителей заменяет толпу понятными уведомлениями на телефоне, ускоряет обслуживание и разгружает персонал."
+    },
+    "ar": {
+     "title": "برنامج إدارة الطوابير للعملاء دون موعد: وداعًا للزحام",
+     "description": "برنامج إدارة الطوابير للعملاء القادمين دون موعد يستبدل الزحام بتحديثات واضحة على الهاتف وخدمة أسرع وعبء أقل على الموظفين."
+    },
+    "hi": {
+     "title": "वॉक-इन मैनेजमेंट सॉफ़्टवेयर: बिना लंबी कतार के ग्राहक प्रबंधन",
+     "description": "वॉक-इन मैनेजमेंट सॉफ़्टवेयर भीड़भाड़ वाली कतारों की जगह फ़ोन पर साफ़ अपडेट, तेज़ सेवा और स्टाफ़ के लिए कम काम लाता है।"
+    },
+    "bn": {
+     "title": "ওয়াক-ইন ম্যানেজমেন্ট সফটওয়্যার: লাইনের ভিড় ছাড়াই গ্রাহক সামলান",
+     "description": "ওয়াক-ইন ম্যানেজমেন্ট সফটওয়্যার ভিড়ের লাইনের বদলে দেয় ফোনে পরিষ্কার আপডেট, দ্রুত সেবা ও কর্মীদের জন্য কম কাজ।"
+    },
+    "id": {
+     "title": "Software Manajemen Walk-In: Atur Antrean Pelanggan Tanpa Kerumunan",
+     "description": "Software manajemen walk-in menggantikan antrean padat dengan pembaruan jelas di ponsel, layanan lebih cepat, dan beban kerja staf lebih ringan."
+    },
+    "th": {
+     "title": "ระบบจัดการคิว Walk-in ช่วยลดแถวยาวหน้าร้าน",
+     "description": "ระบบจัดการคิว Walk-in ช่วยให้ร้านเปลี่ยนแถวยาวเป็นการแจ้งเตือนผ่านมือถือ บริการเร็วขึ้น และลดภาระงานของพนักงานในทุกสาขา"
     }
    }
   },
