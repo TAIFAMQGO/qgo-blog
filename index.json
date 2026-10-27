@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "walk-in-management-software",
+   "pubDate": "2026-10-27T03:50:45.000Z",
+   "img": "img/walk-in-management-software.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/72b6370a-4a3b-4680-8b27-8866f9bebe33.webp",
+   "langs": {
+    "en": {
+     "title": "Walk In Management Software That Clears Lines",
+     "description": "Walk in management software helps stores replace crowded lines with clear mobile updates, faster service, and less work for staff at every location daily."
+    }
+   }
+  },
+  {
    "slug": "digital-queue-for-clinics",
    "pubDate": "2026-10-26T03:50:21.000Z",
    "img": "img/digital-queue-for-clinics.webp",
