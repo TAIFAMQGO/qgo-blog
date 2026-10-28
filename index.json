@@ -9,6 +9,66 @@
     "en": {
      "title": "Mobile Waitlist for Restaurants That Moves",
      "description": "A mobile waitlist for restaurants cuts crowded entryways, gives guests clear updates, and helps hosts manage tables with less back-and-forth each day."
+    },
+    "zh-tw": {
+     "title": "餐廳手機候位系統：讓排隊動起來，門口不再擠成一團",
+     "description": "餐廳手機候位系統能紓解門口人潮、即時通知客人進度，讓帶位人員管理桌位更輕鬆，每天少掉許多來回溝通。"
+    },
+    "zh-hk": {
+     "title": "餐廳手機遙距取籌：輪候更順暢，門口不再擠迫",
+     "description": "餐廳手機遙距取籌可紓緩門口人潮、清楚通知客人輪候進度，讓帶位職員更輕鬆管理枱位，減少每日反覆溝通。"
+    },
+    "zh-cn": {
+     "title": "餐厅手机排队取号系统：让排队流动起来，门口不再拥挤",
+     "description": "餐厅手机排队取号系统可缓解门口拥挤、及时通知顾客进度，让迎宾人员更轻松地管理桌位，每天少很多来回沟通。"
+    },
+    "ja": {
+     "title": "飲食店向けモバイル順番待ちシステムで入口の混雑を解消",
+     "description": "飲食店のモバイル順番待ちなら、入口の混雑を減らし、お客様に状況を分かりやすく伝え、スタッフの席案内もスムーズになります。"
+    },
+    "ko": {
+     "title": "식당 모바일 웨이팅 시스템으로 입구 혼잡 해소하기",
+     "description": "식당 모바일 웨이팅은 붐비는 입구를 줄이고, 고객에게 명확한 대기 정보를 제공하며, 직원의 테이블 관리를 더 수월하게 만듭니다."
+    },
+    "tl": {
+     "title": "Mobile Waitlist para sa Restaurant: Tuloy-tuloy ang Pila",
+     "description": "Sa mobile waitlist, lumuluwag ang entrance ng restaurant, malinaw ang update sa customer, at mas madali sa host ang pag-aasikaso ng mesa araw-araw."
+    },
+    "fr": {
+     "title": "Liste d'attente mobile pour restaurant : fluidifiez l'accueil",
+     "description": "Une liste d'attente mobile pour restaurant désengorge l'entrée, informe clairement les clients et aide l'accueil à gérer les tables plus sereinement."
+    },
+    "es": {
+     "title": "Lista de espera móvil para restaurantes que agiliza tu servicio",
+     "description": "Una lista de espera móvil para restaurantes despeja la entrada, mantiene informados a los clientes y facilita la gestión de mesas."
+    },
+    "pt": {
+     "title": "Lista de espera pelo celular para restaurantes: agilize o atendimento",
+     "description": "Lista de espera pelo celular para restaurantes: entrada sem aglomeração, clientes informados e mesas gerenciadas com menos idas e vindas."
+    },
+    "ru": {
+     "title": "Электронная очередь для ресторана со смартфона",
+     "description": "Электронная очередь со смартфона разгружает вход в ресторан, держит гостей в курсе и помогает хостес рассаживать гостей без лишней суеты."
+    },
+    "ar": {
+     "title": "قائمة انتظار عبر الهاتف للمطاعم تُبقي الطابور متحركًا",
+     "description": "قائمة الانتظار عبر الهاتف تخفف ازدحام مدخل المطعم، وتُبقي الضيوف على اطلاع، وتساعد المضيف على إدارة الطاولات بسلاسة أكبر كل يوم."
+    },
+    "hi": {
+     "title": "रेस्टोरेंट के लिए मोबाइल वेटलिस्ट: कतार जो आगे बढ़ती रहे",
+     "description": "रेस्टोरेंट के लिए मोबाइल वेटलिस्ट प्रवेश द्वार की भीड़ घटाती है, मेहमानों को साफ़ अपडेट देती है और होस्ट को टेबल आसानी से संभालने में मदद करती है।"
+    },
+    "bn": {
+     "title": "রেস্তোরাঁর জন্য মোবাইল ওয়েটলিস্ট: লাইন থাকুক সচল",
+     "description": "রেস্তোরাঁর মোবাইল ওয়েটলিস্ট প্রবেশপথের ভিড় কমায়, অতিথিদের পরিষ্কার আপডেট দেয় এবং হোস্টকে সহজে টেবিল সামলাতে সাহায্য করে।"
+    },
+    "id": {
+     "title": "Daftar Tunggu Online Restoran via Ponsel agar Antrean Lancar",
+     "description": "Daftar tunggu lewat ponsel mengurangi kerumunan di pintu masuk restoran, memberi kabar jelas ke tamu, dan memudahkan host mengatur meja."
+    },
+    "th": {
+     "title": "ระบบคิวออนไลน์ผ่านมือถือสำหรับร้านอาหาร ลดความแออัดหน้าร้าน",
+     "description": "ระบบคิวผ่านมือถือสำหรับร้านอาหาร ช่วยลดความแออัดหน้าร้าน แจ้งสถานะให้ลูกค้าชัดเจน และช่วยพนักงานจัดโต๊ะได้ง่ายขึ้นทุกวัน"
     }
    }
   },
