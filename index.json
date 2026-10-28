@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "mobile-waitlist-for-restaurants",
+   "pubDate": "2026-10-28T03:50:54.000Z",
+   "img": "img/mobile-waitlist-for-restaurants.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/35bc0018-a027-4529-8761-9f0abf73b1c2.webp",
+   "langs": {
+    "en": {
+     "title": "Mobile Waitlist for Restaurants That Moves",
+     "description": "A mobile waitlist for restaurants cuts crowded entryways, gives guests clear updates, and helps hosts manage tables with less back-and-forth each day."
+    }
+   }
+  },
+  {
    "slug": "walk-in-management-software",
    "pubDate": "2026-10-27T03:50:45.000Z",
    "img": "img/walk-in-management-software.webp",
