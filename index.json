@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "queue-management-for-service-desks",
+   "pubDate": "2026-10-29T03:50:48.000Z",
+   "img": "img/queue-management-for-service-desks.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/e0759a41-10a0-4867-a674-65f7437b9ab2.webp",
+   "langs": {
+    "en": {
+     "title": "Queue Management for Service Desks That Works",
+     "description": "Queue management for service desks reduces visible lines, keeps customers informed, and gives teams a simpler way to manage in-person demand during peaks."
+    }
+   }
+  },
+  {
    "slug": "mobile-waitlist-for-restaurants",
    "pubDate": "2026-10-28T03:50:54.000Z",
    "img": "img/mobile-waitlist-for-restaurants.webp",
