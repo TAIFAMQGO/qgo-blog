@@ -9,6 +9,66 @@
     "en": {
      "title": "Queue Management for Service Desks That Works",
      "description": "Queue management for service desks reduces visible lines, keeps customers informed, and gives teams a simpler way to manage in-person demand during peaks."
+    },
+    "zh-tw": {
+     "title": "服務櫃台叫號排隊管理：讓排隊井然有序的做法",
+     "description": "服務櫃台的叫號排隊管理能減少現場人龍、讓客人隨時掌握進度，也讓團隊在尖峰時段更輕鬆應對來客。"
+    },
+    "zh-hk": {
+     "title": "服務櫃枱取籌排隊管理：令輪候更有秩序的方法",
+     "description": "服務櫃枱的取籌排隊管理可減少現場人龍、讓客人隨時掌握輪候進度，亦令團隊更輕鬆應付繁忙時段。"
+    },
+    "zh-cn": {
+     "title": "服务台排队取号管理：让等候井然有序的实用方法",
+     "description": "服务台的排队取号管理能减少现场长队、让顾客随时了解进度，也让团队在高峰时段更轻松地应对客流。"
+    },
+    "ja": {
+     "title": "サービスカウンターの順番待ち管理を成功させるコツ",
+     "description": "サービスカウンターの順番待ち管理で行列を減らし、お客様に状況を伝え、ピーク時の来店対応をスタッフがもっとシンプルに。"
+    },
+    "ko": {
+     "title": "서비스 데스크 대기 관리, 제대로 하는 방법",
+     "description": "서비스 데스크 대기 관리로 눈에 보이는 줄을 줄이고, 고객에게 상황을 알리며, 피크 시간대 매장 수요를 더 쉽게 관리하세요."
+    },
+    "tl": {
+     "title": "Queue Management para sa Service Desk na Talagang Epektibo",
+     "description": "Binabawasan ng queue management sa service desk ang mahahabang pila, pinananatiling updated ang customer, at pinadadali ang pag-handle sa peak hours."
+    },
+    "fr": {
+     "title": "Gestion de file d’attente pour les comptoirs d’accueil : ce qui fonctionne",
+     "description": "Une gestion de file d’attente au comptoir réduit les files visibles, informe les clients et aide vos équipes à absorber les pics d’affluence."
+    },
+    "es": {
+     "title": "Gestión de filas para mostradores de atención que funciona",
+     "description": "Gestionar la fila en tu mostrador reduce las filas visibles, mantiene informados a los clientes y ayuda a tu equipo en las horas pico."
+    },
+    "pt": {
+     "title": "Gestão de filas para balcões de atendimento que funciona",
+     "description": "A gestão de filas no balcão de atendimento reduz filas visíveis, mantém os clientes informados e ajuda sua equipe nos horários de pico."
+    },
+    "ru": {
+     "title": "Электронная очередь для стойки обслуживания: как это работает",
+     "description": "Электронная очередь у стойки обслуживания убирает толпу, держит клиентов в курсе и помогает персоналу справляться с наплывом посетителей."
+    },
+    "ar": {
+     "title": "إدارة الطوابير في مكاتب الخدمة: نظام يعمل فعلًا",
+     "description": "تقلل إدارة الطوابير في مكاتب الخدمة من الصفوف المرئية، وتُبقي العملاء على اطلاع، وتمنح الفرق طريقة أبسط لإدارة الإقبال في أوقات الذروة."
+    },
+    "hi": {
+     "title": "सर्विस डेस्क के लिए कतार प्रबंधन: जो सच में काम करे",
+     "description": "सर्विस डेस्क पर कतार प्रबंधन से लंबी लाइनें घटती हैं, ग्राहकों को जानकारी मिलती रहती है और भीड़ के समय टीम का काम आसान होता है।"
+    },
+    "bn": {
+     "title": "সার্ভিস ডেস্কের জন্য কার্যকর সারি ব্যবস্থাপনা",
+     "description": "সার্ভিস ডেস্কে সারি ব্যবস্থাপনা লম্বা লাইন কমায়, গ্রাহককে আপডেট রাখে এবং ব্যস্ত সময়ে টিমের কাজ সহজ করে।"
+    },
+    "id": {
+     "title": "Manajemen Antrean untuk Meja Layanan yang Efektif",
+     "description": "Manajemen antrean untuk meja layanan mengurangi barisan panjang, membuat pelanggan tetap terinformasi, dan memudahkan tim saat jam sibuk."
+    },
+    "th": {
+     "title": "ระบบจัดการคิวสำหรับเคาน์เตอร์บริการที่ได้ผลจริง",
+     "description": "ระบบจัดการคิวสำหรับเคาน์เตอร์บริการช่วยลดแถวยาว แจ้งสถานะให้ลูกค้ารู้ และช่วยให้ทีมรับมือลูกค้าหน้าร้านช่วงคนแน่นได้ง่ายขึ้น"
     }
    }
   },
