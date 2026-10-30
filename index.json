@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "customer-wait-time-notifications",
+   "pubDate": "2026-10-30T03:42:13.000Z",
+   "img": "img/customer-wait-time-notifications.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/aca1aebb-22bc-4cc8-8e9d-129293cc937c.webp",
+   "langs": {
+    "en": {
+     "title": "Customer Wait Time Notifications That Work",
+     "description": "Customer wait time notifications reduce crowded lines, cut staff interruptions, and help guests return when service is ready for them each busy visit."
+    }
+   }
+  },
+  {
    "slug": "queue-management-for-service-desks",
    "pubDate": "2026-10-29T03:50:48.000Z",
    "img": "img/queue-management-for-service-desks.webp",
