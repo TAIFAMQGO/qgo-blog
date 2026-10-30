@@ -9,6 +9,66 @@
     "en": {
      "title": "Customer Wait Time Notifications That Work",
      "description": "Customer wait time notifications reduce crowded lines, cut staff interruptions, and help guests return when service is ready for them each busy visit."
+    },
+    "zh-tw": {
+     "title": "客人等候時間通知怎麼做才有效？讓排隊不再擠成一團",
+     "description": "等候時間通知能減少店門口人潮、降低工作人員被打斷的次數，讓客人在輪到時剛好回來。"
+    },
+    "zh-hk": {
+     "title": "客人等候時間通知：有效紓緩人龍的取籌提示",
+     "description": "等候時間通知可減少人龍擠擁、減少職員被打斷，讓客人在輪到時適時返回。"
+    },
+    "zh-cn": {
+     "title": "顾客等候时间通知怎么做才有效？告别门口排长队",
+     "description": "等候时间通知能减少门口排长队、减少工作人员被打断，让顾客在轮到时准时回来。"
+    },
+    "ja": {
+     "title": "お客様への待ち時間通知で行列と混雑を減らす方法",
+     "description": "待ち時間通知をスマホに届ければ、行列の混雑とスタッフへの問い合わせが減り、お客様は順番に合わせて戻れます。"
+    },
+    "ko": {
+     "title": "고객 대기 시간 알림, 제대로 활용하는 방법",
+     "description": "고객 대기 시간 알림은 매장 혼잡과 직원 문의를 줄이고, 고객이 차례에 맞춰 돌아오도록 돕습니다."
+    },
+    "tl": {
+     "title": "Customer Wait Time Notifications na Talagang Gumagana sa Pila",
+     "description": "Binabawasan ng wait time notifications ang siksikang pila at abala sa staff, at tinutulungan ang customer na bumalik sakto sa kanilang turn."
+    },
+    "fr": {
+     "title": "Notifications de temps d’attente : comment informer vos clients efficacement",
+     "description": "Les notifications de temps d’attente désengorgent la file, limitent les interruptions du personnel et font revenir les clients au bon moment."
+    },
+    "es": {
+     "title": "Notificaciones de tiempo de espera para clientes que sí funcionan",
+     "description": "Las notificaciones de tiempo de espera reducen filas llenas, evitan interrupciones al personal y ayudan a que los clientes regresen justo a tiempo."
+    },
+    "pt": {
+     "title": "Notificações de tempo de espera para clientes que realmente funcionam",
+     "description": "Notificações de tempo de espera diminuem filas lotadas, reduzem interrupções da equipe e ajudam o cliente a voltar na hora certa do atendimento."
+    },
+    "ru": {
+     "title": "Уведомления клиентам о времени ожидания: как сделать их полезными",
+     "description": "Уведомления о времени ожидания уменьшают толпы у стойки, реже отвлекают персонал и помогают клиентам вернуться точно к своей очереди."
+    },
+    "ar": {
+     "title": "إشعارات وقت الانتظار للعملاء: كيف تجعلها فعّالة",
+     "description": "إشعارات وقت الانتظار تخفف ازدحام الطوابير وتقلل مقاطعة الموظفين وتساعد العملاء على العودة في الوقت المناسب لخدمتهم."
+    },
+    "hi": {
+     "title": "ग्राहकों को इंतज़ार के समय की सूचना: कतार में भीड़ घटाने के असरदार तरीके",
+     "description": "इंतज़ार के समय की सूचनाएँ कतार की भीड़ और स्टाफ़ से बार-बार के सवाल घटाती हैं, और ग्राहकों को अपनी बारी पर सही समय पर लौटने में मदद करती हैं।"
+    },
+    "bn": {
+     "title": "গ্রাহকদের অপেক্ষার সময়ের নোটিফিকেশন: লাইনের ভিড় কমানোর কার্যকর উপায়",
+     "description": "অপেক্ষার সময়ের নোটিফিকেশন লাইনের ভিড় ও কর্মীদের বারবার প্রশ্নের ঝামেলা কমায়, আর গ্রাহকদের নিজের পালায় ঠিক সময়ে ফিরে আসতে সাহায্য করে।"
+    },
+    "id": {
+     "title": "Notifikasi Waktu Tunggu Pelanggan yang Efektif untuk Antrean",
+     "description": "Notifikasi waktu tunggu pelanggan mengurangi antrean padat dan gangguan pada staf, serta membantu pelanggan kembali tepat saat gilirannya tiba."
+    },
+    "th": {
+     "title": "การแจ้งเตือนเวลารอคิวลูกค้าที่ได้ผลจริง",
+     "description": "การแจ้งเตือนเวลารอคิวช่วยลดความแออัดหน้าร้าน ลดการถามซ้ำกับพนักงาน และช่วยให้ลูกค้ากลับมาได้ตรงเวลาเมื่อถึงคิว"
     }
    }
   },
