@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "salon-virtual-waiting-room",
+   "pubDate": "2026-10-31T03:35:07.000Z",
+   "img": "img/salon-virtual-waiting-room.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/61bdfb07-6462-4b30-88a9-b986d5669e4c.webp",
+   "langs": {
+    "en": {
+     "title": "Salon Virtual Waiting Room for Better Visits",
+     "description": "Set up a salon virtual waiting room that keeps guests updated, clears crowded lobbies, and gives stylists more time to focus calmly on every appointment."
+    }
+   }
+  },
+  {
    "slug": "customer-wait-time-notifications",
    "pubDate": "2026-10-30T03:42:13.000Z",
    "img": "img/customer-wait-time-notifications.webp",
