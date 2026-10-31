@@ -9,6 +9,66 @@
     "en": {
      "title": "Salon Virtual Waiting Room for Better Visits",
      "description": "Set up a salon virtual waiting room that keeps guests updated, clears crowded lobbies, and gives stylists more time to focus calmly on every appointment."
+    },
+    "zh-tw": {
+     "title": "美髮沙龍線上候位：讓客人不必擠在櫃台等",
+     "description": "用線上候位系統讓美髮沙龍客人隨時掌握進度、櫃台不再擁擠，設計師也能專心完成每位客人的服務。"
+    },
+    "zh-hk": {
+     "title": "髮型屋網上排隊：免客人擠在接待處等候",
+     "description": "為髮型屋設立網上輪候，讓客人隨時掌握進度、接待處不再擠迫，髮型師亦可專心完成每位客人的服務。"
+    },
+    "zh-cn": {
+     "title": "美发沙龙线上排队：告别前台拥挤的等候区",
+     "description": "为美发沙龙搭建线上排队等候系统，让顾客随时掌握进度、前台不再拥挤，发型师也能专心服务每位顾客。"
+    },
+    "ja": {
+     "title": "美容室の順番待ちをスマホで管理｜混雑しない待合室のつくり方",
+     "description": "美容室のバーチャル待合室で、お客様に待ち状況を伝え、受付の混雑を解消し、スタイリストが施術に集中できる環境を整えましょう。"
+    },
+    "ko": {
+     "title": "미용실 원격 줄서기, 가상 대기실로 더 나은 방문 경험 만들기",
+     "description": "미용실 가상 대기실로 고객에게 대기 상황을 알리고 붐비는 대기 공간을 정리해 디자이너가 시술에 집중하도록 도우세요."
+    },
+    "tl": {
+     "title": "Virtual Waiting Room para sa Salon: Mas Maginhawang Pagbisita, Walang Siksikan",
+     "description": "Mag-set up ng virtual waiting room sa salon na nag-a-update sa customer, lumuluwag sa lobby, at nagbibigay sa stylist ng oras para sa bawat appointment."
+    },
+    "fr": {
+     "title": "Salle d'attente virtuelle pour salon de coiffure : des visites plus sereines",
+     "description": "Mettez en place une salle d'attente virtuelle qui informe vos clients, désengorge l'accueil et laisse vos coiffeurs se concentrer sur chaque rendez-vous."
+    },
+    "es": {
+     "title": "Sala de espera virtual para salones de belleza: mejores visitas",
+     "description": "Crea una sala de espera virtual para tu salón que mantenga informados a tus clientes, despeje la recepción y deje a tus estilistas enfocarse en cada cita."
+    },
+    "pt": {
+     "title": "Sala de espera virtual para salão de beleza: visitas melhores",
+     "description": "Monte uma sala de espera virtual no seu salão que mantém os clientes informados, esvazia a recepção e deixa os profissionais focados em cada atendimento."
+    },
+    "ru": {
+     "title": "Виртуальная очередь для салона красоты: комфортные визиты без толпы",
+     "description": "Как настроить виртуальную зону ожидания в салоне: клиенты в курсе, холл свободен, а мастера спокойно уделяют внимание каждой записи."
+    },
+    "ar": {
+     "title": "غرفة انتظار افتراضية للصالون: زيارات أكثر راحة بلا طوابير",
+     "description": "أنشئ غرفة انتظار افتراضية لصالونك تُبقي العملاء على اطلاع، وتخفف ازدحام الاستقبال، وتمنح المصففين وقتًا للتركيز على كل موعد."
+    },
+    "hi": {
+     "title": "सैलून वर्चुअल वेटिंग रूम: बिना भीड़ के बेहतर ग्राहक अनुभव",
+     "description": "सैलून वर्चुअल वेटिंग रूम से ग्राहकों को अपडेट रखें, लॉबी की भीड़ कम करें और स्टाइलिस्ट को हर अपॉइंटमेंट पर शांति से ध्यान देने का समय दें।"
+    },
+    "bn": {
+     "title": "সেলুন ভার্চুয়াল ওয়েটিং রুম: ভিড় ছাড়াই আরও ভালো অভিজ্ঞতা",
+     "description": "সেলুন ভার্চুয়াল ওয়েটিং রুমে গ্রাহকদের আপডেট রাখুন, লবির ভিড় কমান এবং স্টাইলিস্টদের প্রতিটি অ্যাপয়েন্টমেন্টে শান্তভাবে মন দেওয়ার সময় দিন।"
+    },
+    "id": {
+     "title": "Ruang Tunggu Virtual Salon untuk Kunjungan yang Lebih Nyaman",
+     "description": "Siapkan ruang tunggu virtual salon agar pelanggan selalu dapat kabar, lobi tak penuh sesak, dan penata rambut bisa fokus tenang di setiap janji temu."
+    },
+    "th": {
+     "title": "ระบบคิวออนไลน์สำหรับร้านทำผม: ห้องรอเสมือนเพื่อการมาร้านที่ดีกว่า",
+     "description": "ตั้งห้องรอเสมือนให้ร้านทำผม แจ้งสถานะคิวให้ลูกค้าตลอด ลดความแออัดหน้าร้าน และให้ช่างทำผมมีเวลาโฟกัสกับทุกนัดอย่างใจเย็น"
     }
    }
   },
