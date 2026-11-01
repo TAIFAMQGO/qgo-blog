@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "appointment-overflow-management",
+   "pubDate": "2026-11-01T03:40:58.000Z",
+   "img": "img/appointment-overflow-management.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/08ec7a0b-7369-4593-bc14-834562b34f50.webp",
+   "langs": {
+    "en": {
+     "title": "Appointment Overflow Management That Keeps Lines Moving",
+     "description": "Appointment overflow management keeps customers informed, staff focused, and crowded waiting areas under control without extra hardware or app downloads."
+    }
+   }
+  },
+  {
    "slug": "salon-virtual-waiting-room",
    "pubDate": "2026-10-31T03:35:07.000Z",
    "img": "img/salon-virtual-waiting-room.webp",
