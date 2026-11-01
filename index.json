@@ -9,6 +9,66 @@
     "en": {
      "title": "Appointment Overflow Management That Keeps Lines Moving",
      "description": "Appointment overflow management keeps customers informed, staff focused, and crowded waiting areas under control without extra hardware or app downloads."
+    },
+    "zh-tw": {
+     "title": "預約爆滿管理：讓排隊人潮持續流動的實用做法",
+     "description": "預約爆滿管理讓客人掌握進度、工作人員專心服務，不必加裝硬體或下載 App，也能控制擁擠的候位區。"
+    },
+    "zh-hk": {
+     "title": "預約爆滿管理：令輪候人龍保持流動的實用方法",
+     "description": "預約爆滿管理讓客人掌握進度、職員專注服務，毋須額外硬件或下載 App，亦能控制擠擁的輪候區。"
+    },
+    "zh-cn": {
+     "title": "预约爆满怎么办？预约溢出管理让排队持续流动",
+     "description": "预约溢出管理让顾客随时掌握进度、员工专注服务，无需额外硬件或下载 App，也能控制拥挤的等候区。"
+    },
+    "ja": {
+     "title": "予約の混雑対策：順番待ちをスムーズに進める予約オーバーフロー管理",
+     "description": "予約が重なって待合室が混雑しても、追加の機器やアプリなしでお客様に状況を伝え、スタッフが接客に集中できる方法を解説します。"
+    },
+    "ko": {
+     "title": "예약 초과 관리: 대기 줄이 막히지 않게 하는 방법",
+     "description": "예약이 몰려 대기 공간이 붐빌 때, 추가 장비나 앱 설치 없이 고객에게 상황을 알리고 직원이 응대에 집중하게 하는 방법입니다."
+    },
+    "tl": {
+     "title": "Appointment Overflow Management: Paano Panatilihing Gumagalaw ang Pila",
+     "description": "Sa tamang appointment overflow management, updated ang customer, nakatutok ang staff, at maayos ang waiting area—walang dagdag na hardware o app download."
+    },
+    "fr": {
+     "title": "Gestion du débordement des rendez-vous : fluidifier la file d'attente",
+     "description": "Gérez le débordement des rendez-vous : clients informés, personnel concentré et salle d'attente sous contrôle, sans matériel ni application."
+    },
+    "es": {
+     "title": "Gestión del exceso de citas para que la fila siga avanzando",
+     "description": "Gestiona el exceso de citas: clientes informados, personal enfocado y salas de espera bajo control, sin hardware extra ni descargar apps."
+    },
+    "pt": {
+     "title": "Gestão do excesso de agendamentos para a fila não parar",
+     "description": "Gestão do excesso de agendamentos: clientes informados, equipe focada e sala de espera sob controle, sem hardware extra nem baixar aplicativo."
+    },
+    "ru": {
+     "title": "Управление перегрузкой записи: как избежать очередей при наплыве клиентов",
+     "description": "Как справляться с перегрузкой записи: клиенты в курсе, персонал сосредоточен, зона ожидания не переполнена — без лишнего оборудования и приложений."
+    },
+    "ar": {
+     "title": "إدارة فائض المواعيد: كيف تحافظ على حركة الطابور في أوقات الذروة",
+     "description": "إدارة فائض المواعيد تُبقي العملاء على اطلاع والموظفين مركّزين ومنطقة الانتظار تحت السيطرة، دون أجهزة إضافية أو تنزيل تطبيقات."
+    },
+    "hi": {
+     "title": "अपॉइंटमेंट ओवरफ़्लो मैनेजमेंट: भीड़ में भी कतार को चलाते रहें",
+     "description": "अपॉइंटमेंट ओवरफ़्लो मैनेजमेंट से ग्राहक अपडेट रहते हैं, स्टाफ़ काम पर ध्यान देता है और वेटिंग एरिया की भीड़ काबू में रहती है — बिना नए हार्डवेयर या ऐप के।"
+    },
+    "bn": {
+     "title": "অ্যাপয়েন্টমেন্ট ওভারফ্লো ম্যানেজমেন্ট: ভিড়েও লাইন সচল রাখার উপায়",
+     "description": "অ্যাপয়েন্টমেন্ট ওভারফ্লো ম্যানেজমেন্টে গ্রাহক আপডেট পান, কর্মীরা কাজে মন দেন, আর ওয়েটিং এরিয়ার ভিড় সামলানো যায় — বাড়তি হার্ডওয়্যার বা অ্যাপ ছাড়াই।"
+    },
+    "id": {
+     "title": "Cara Mengelola Antrean Janji Temu yang Membludak agar Layanan Tetap Lancar",
+     "description": "Kelola janji temu yang membludak: pelanggan tetap terinformasi, staf fokus, ruang tunggu tak sesak — tanpa perangkat tambahan atau unduh aplikasi."
+    },
+    "th": {
+     "title": "การจัดการนัดหมายล้นคิว ให้คิวเดินต่อได้ไม่ติดขัด",
+     "description": "การจัดการนัดหมายล้นคิวช่วยให้ลูกค้ารู้สถานะ พนักงานโฟกัสงานได้ และควบคุมพื้นที่รอที่แออัดได้ โดยไม่ต้องใช้อุปกรณ์เพิ่มหรือดาวน์โหลดแอป"
     }
    }
   },
