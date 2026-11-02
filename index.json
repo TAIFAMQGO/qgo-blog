@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "event-queue-management-software",
+   "pubDate": "2026-11-02T03:34:47.000Z",
+   "img": "img/event-queue-management-software.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/a97823fe-d0cc-4ac7-9a79-7ba330883343.webp",
+   "langs": {
+    "en": {
+     "title": "Event Queue Management Software That Keeps Lines Moving",
+     "description": "Event queue management software helps venues reduce crowding, keep guests informed, and give staff a faster way to manage every arrival with less friction."
+    }
+   }
+  },
+  {
    "slug": "appointment-overflow-management",
    "pubDate": "2026-11-01T03:40:58.000Z",
    "img": "img/appointment-overflow-management.webp",
