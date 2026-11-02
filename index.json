@@ -9,6 +9,66 @@
     "en": {
      "title": "Event Queue Management Software That Keeps Lines Moving",
      "description": "Event queue management software helps venues reduce crowding, keep guests informed, and give staff a faster way to manage every arrival with less friction."
+    },
+    "zh-tw": {
+     "title": "活動排隊管理系統：讓人龍持續前進、現場不再擁擠",
+     "description": "活動排隊管理系統協助場館減少人潮擁擠、讓客人隨時掌握進度，也讓工作人員更輕鬆地應對每一位來客。"
+    },
+    "zh-hk": {
+     "title": "活動排隊管理系統：讓人龍持續流動，現場井然有序",
+     "description": "活動排隊管理系統有助場地減少人群聚集、讓客人隨時掌握進度，亦讓職員更快捷地處理每位到場人士。"
+    },
+    "zh-cn": {
+     "title": "活动排队管理系统：让队伍持续流动，现场不再拥挤",
+     "description": "活动排队管理系统帮助场馆减少人群拥挤、让顾客随时了解进度，也让工作人员更高效地接待每一位到场者。"
+    },
+    "ja": {
+     "title": "イベントの順番待ち管理システム｜行列を止めずにスムーズに案内",
+     "description": "イベントの順番待ち管理システムで混雑を減らし、来場者に状況を伝え、スタッフの受付対応を効率化します。"
+    },
+    "ko": {
+     "title": "이벤트 대기 관리 시스템: 줄을 멈추지 않고 원활하게 운영하는 법",
+     "description": "이벤트 대기 관리 시스템으로 혼잡을 줄이고, 고객에게 대기 현황을 알리며, 직원이 더 빠르게 방문객을 응대할 수 있습니다."
+    },
+    "tl": {
+     "title": "Event Queue Management Software: Para Tuloy-tuloy ang Pila",
+     "description": "Tinutulungan ng event queue management software ang mga venue na bawasan ang siksikan, i-update ang mga bisita, at pabilisin ang trabaho ng staff."
+    },
+    "fr": {
+     "title": "Logiciel de gestion de file d'attente pour événements : fluidifiez l'accueil",
+     "description": "Un logiciel de gestion de file d'attente pour événements réduit l'affluence, informe les visiteurs et aide le personnel à gérer chaque arrivée."
+    },
+    "es": {
+     "title": "Software de gestión de filas para eventos que mantiene el flujo",
+     "description": "Un software de gestión de filas para eventos reduce aglomeraciones, mantiene informados a los asistentes y agiliza cada llegada para el personal."
+    },
+    "pt": {
+     "title": "Sistema de gestão de filas para eventos que mantém tudo andando",
+     "description": "Um sistema de gestão de filas para eventos reduz aglomerações, mantém o público informado e agiliza cada chegada para a equipe."
+    },
+    "ru": {
+     "title": "Система управления очередью на мероприятиях: очереди без заторов",
+     "description": "Электронная очередь на мероприятии снижает скопление людей, держит гостей в курсе и помогает персоналу быстрее обслуживать каждого посетителя."
+    },
+    "ar": {
+     "title": "برنامج إدارة الطوابير للفعاليات: طوابير تتحرك بلا ازدحام",
+     "description": "يساعد برنامج إدارة الطوابير في الفعاليات على تقليل الازدحام وإبقاء الضيوف على اطلاع ومنح الموظفين طريقة أسرع لاستقبال كل زائر."
+    },
+    "hi": {
+     "title": "इवेंट कतार प्रबंधन सॉफ़्टवेयर: लंबी लाइनें भी चलती रहें",
+     "description": "इवेंट कतार प्रबंधन सॉफ़्टवेयर भीड़ घटाता है, मेहमानों को अपडेट रखता है और स्टाफ़ को हर आगमन आसानी से संभालने में मदद करता है।"
+    },
+    "bn": {
+     "title": "ইভেন্ট কিউ ম্যানেজমেন্ট সফটওয়্যার: লম্বা লাইনও থাকবে সচল",
+     "description": "ইভেন্ট কিউ ম্যানেজমেন্ট সফটওয়্যার ভিড় কমায়, অতিথিদের আপডেট রাখে এবং কর্মীদের প্রতিটি আগমন সহজে সামলাতে সাহায্য করে।"
+    },
+    "id": {
+     "title": "Software Manajemen Antrean Event agar Antrean Tetap Bergerak",
+     "description": "Software manajemen antrean event membantu mengurangi kerumunan, memberi info terkini ke tamu, dan memudahkan staf menangani setiap kedatangan."
+    },
+    "th": {
+     "title": "ระบบจัดการคิวสำหรับงานอีเวนต์ ช่วยให้คิวเดินได้อย่างราบรื่น",
+     "description": "ระบบจัดการคิวสำหรับงานอีเวนต์ช่วยลดความแออัด แจ้งสถานะคิวให้ลูกค้าทราบ และช่วยให้พนักงานรับมือผู้มาร่วมงานได้รวดเร็วขึ้น"
     }
    }
   },
