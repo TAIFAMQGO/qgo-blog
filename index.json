@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "queue-kiosk-alternatives",
+   "pubDate": "2026-11-04T02:02:43.000Z",
+   "img": "img/queue-kiosk-alternatives.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/b392826b-f28e-4b24-9a28-89dd8565d74e.webp",
+   "langs": {
+    "en": {
+     "title": "7 Queue Kiosk Alternatives That Cut the Wait",
+     "description": "Compare queue kiosk alternatives that cut hardware costs, reduce visible lines, and let customers track their place from any smartphone without an app."
+    }
+   }
+  },
+  {
    "slug": "event-queue-management-software",
    "pubDate": "2026-11-02T03:34:47.000Z",
    "img": "img/event-queue-management-software.webp",
