@@ -9,6 +9,66 @@
     "en": {
      "title": "7 Queue Kiosk Alternatives That Cut the Wait",
      "description": "Compare queue kiosk alternatives that cut hardware costs, reduce visible lines, and let customers track their place from any smartphone without an app."
+    },
+    "zh-tw": {
+     "title": "取代抽號機的 7 種排隊方案：讓客人不再久候",
+     "description": "比較 7 種抽號機替代方案，省下硬體成本、減少店內人龍，客人免下載 App 用手機就能查看排隊進度。"
+    },
+    "zh-hk": {
+     "title": "取代取籌機的 7 種輪候方案：減少客人等候",
+     "description": "比較 7 種取籌機替代方案，節省硬件成本、減少店內人龍，客人毋須下載 App，以手機即可查看輪候進度。"
+    },
+    "zh-cn": {
+     "title": "取代取号机的 7 种排队方案：让顾客少等一会儿",
+     "description": "对比 7 种取号机替代方案，节省硬件成本、减少店内长队，顾客无需下载 App，用手机就能查看排队进度。"
+    },
+    "ja": {
+     "title": "発券機に代わる順番待ちの方法7選｜待ち時間を減らすには",
+     "description": "発券機の代わりになる順番待ちの方法を比較。機器コストを抑え、行列を減らし、アプリ不要でお客様のスマホから順番を確認できます。"
+    },
+    "ko": {
+     "title": "대기를 줄이는 번호표 발급기 대안 7가지",
+     "description": "하드웨어 비용을 줄이고 눈에 보이는 대기 줄을 없애며, 앱 없이 고객 휴대폰으로 순서를 확인하는 번호표 발급기 대안을 비교합니다."
+    },
+    "tl": {
+     "title": "7 Alternatibo sa Queue Kiosk na Nagpapaikli ng Paghihintay",
+     "description": "Ikumpara ang mga alternatibo sa queue kiosk na nagpapababa ng gastos sa hardware, nagpapaikli ng pila, at nagpapakita ng puwesto sa phone nang walang app."
+    },
+    "fr": {
+     "title": "7 alternatives à la borne de file d’attente pour réduire l’attente",
+     "description": "Comparez les alternatives à la borne de file d’attente : moins de matériel, moins de files visibles, un suivi depuis tout smartphone sans application."
+    },
+    "es": {
+     "title": "7 alternativas al kiosco de turnos que reducen la espera",
+     "description": "Compara alternativas al kiosco de turnos que reducen costos de hardware y filas visibles, y permiten seguir el turno desde el celular sin app."
+    },
+    "pt": {
+     "title": "7 alternativas ao totem de senhas que reduzem a espera",
+     "description": "Compare alternativas ao totem de senhas que cortam custos de hardware, reduzem filas visíveis e permitem acompanhar a vez pelo celular, sem app."
+    },
+    "ru": {
+     "title": "7 альтернатив терминалу для талонов, которые сокращают ожидание",
+     "description": "Сравните альтернативы терминалу для талонов: меньше затрат на оборудование, меньше видимых очередей и отслеживание места с любого смартфона без приложения."
+    },
+    "ar": {
+     "title": "7 بدائل لأجهزة تذاكر الطابور تقلّص وقت الانتظار",
+     "description": "قارن بدائل أجهزة تذاكر الطابور التي تخفض تكلفة الأجهزة وتقلل الطوابير الظاهرة وتتيح للعملاء متابعة دورهم من أي هاتف ذكي دون تطبيق."
+    },
+    "hi": {
+     "title": "टोकन मशीन (क्यू कियॉस्क) के 7 विकल्प जो इंतज़ार घटाएँ",
+     "description": "क्यू कियॉस्क के ऐसे विकल्पों की तुलना करें जो हार्डवेयर खर्च घटाएँ, लंबी कतारें कम करें और ग्राहक बिना ऐप अपने फ़ोन पर अपनी जगह देख सकें।"
+    },
+    "bn": {
+     "title": "টোকেন মেশিন (কিউ কিয়স্ক)-এর ৭টি বিকল্প যা অপেক্ষা কমায়",
+     "description": "কিউ কিয়স্কের এমন বিকল্পগুলো তুলনা করুন যা হার্ডওয়্যারের খরচ কমায়, লম্বা লাইন কমায় এবং অ্যাপ ছাড়াই ফোন থেকে গ্রাহককে নিজের অবস্থান দেখতে দেয়।"
+    },
+    "id": {
+     "title": "7 Alternatif Kios Antrean (Mesin Tiket) untuk Memangkas Waktu Tunggu",
+     "description": "Bandingkan alternatif kios antrean yang menekan biaya perangkat, mengurangi antrean, dan membuat pelanggan bisa memantau giliran dari ponsel tanpa aplikasi."
+    },
+    "th": {
+     "title": "7 ทางเลือกแทนเครื่องกดบัตรคิว ช่วยลดเวลารอ",
+     "description": "เปรียบเทียบทางเลือกแทนเครื่องกดบัตรคิวที่ช่วยลดต้นทุนฮาร์ดแวร์ ลดแถวที่มองเห็นได้ และให้ลูกค้าติดตามคิวจากมือถือได้โดยไม่ต้องใช้แอป"
     }
    }
   },
