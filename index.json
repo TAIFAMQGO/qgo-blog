@@ -1,6 +1,78 @@
 {
  "articles": [
   {
+   "slug": "government-office-queue-system",
+   "pubDate": "2026-11-05T03:40:00.000Z",
+   "img": "img/government-office-queue-system.webp",
+   "imageOrig": "https://raw.githubusercontent.com/TAIFAMQGO/qgo-blog/main/img/government-office-queue-system.webp",
+   "langs": {
+    "en": {
+     "title": "Government Office Queue System Without Crowded Halls",
+     "description": "How a government office queue system can reduce crowded waiting halls, serve multilingual visitors, and let people wait on their own phone."
+    },
+    "zh-tw": {
+     "title": "公家機關叫號系統：告別擁擠的洽公大廳",
+     "description": "公家機關叫號系統如何減少大廳擁擠、服務多語言的民眾，並讓大家用自己的手機等候叫號。"
+    },
+    "zh-hk": {
+     "title": "政府部門取籌系統：告別擠迫的輪候大堂",
+     "description": "政府部門取籌系統如何紓緩輪候大堂擠迫、服務不同語言的市民，並讓市民以自己的手機輪候。"
+    },
+    "zh-cn": {
+     "title": "政务大厅排队叫号系统：告别拥挤的办事大厅",
+     "description": "政务大厅排队叫号系统如何缓解大厅拥挤、服务多语言办事群众，并让大家用自己的手机等候叫号。"
+    },
+    "ja": {
+     "title": "役所の順番待ちシステム｜混雑しない窓口・待合ロビーへ",
+     "description": "役所の順番待ちシステムで待合ロビーの混雑を減らし、多言語の来庁者に対応し、スマホで待てるようにする方法を紹介します。"
+    },
+    "ko": {
+     "title": "관공서 대기 시스템: 붐비지 않는 민원실 만들기",
+     "description": "관공서 대기 시스템으로 붐비는 민원실 대기 공간을 줄이고, 다양한 언어의 방문객을 지원하며, 휴대폰으로 대기하는 방법을 소개합니다."
+    },
+    "tl": {
+     "title": "Queue System para sa Government Office na Walang Siksikang Bulwagan",
+     "description": "Paano binabawasan ng queue system sa government office ang siksikang waiting hall, nagse-serve sa iba't ibang wika, at hinahayaang maghintay sa phone."
+    },
+    "fr": {
+     "title": "Gestion de file d’attente pour services publics, sans salle bondée",
+     "description": "Un système de file d’attente pour services publics désengorge les salles, accueille en plusieurs langues et permet d’attendre sur son téléphone."
+    },
+    "es": {
+     "title": "Sistema de turnos para oficinas de gobierno sin salas llenas",
+     "description": "Cómo un sistema de turnos para oficinas de gobierno reduce las salas de espera llenas, atiende en varios idiomas y permite esperar desde el teléfono."
+    },
+    "pt": {
+     "title": "Sistema de senhas para órgãos públicos sem salas lotadas",
+     "description": "Como um sistema de senhas para órgãos públicos reduz a lotação das salas de espera, atende em vários idiomas e deixa o cidadão esperar pelo celular."
+    },
+    "ru": {
+     "title": "Электронная очередь для госучреждений без переполненных залов",
+     "description": "Как электронная очередь в госучреждении разгружает залы ожидания, помогает посетителям на разных языках и позволяет ждать на своём телефоне."
+    },
+    "ar": {
+     "title": "نظام طوابير للمكاتب الحكومية دون قاعات انتظار مزدحمة",
+     "description": "كيف يقلّل نظام الطوابير في المكاتب الحكومية ازدحام قاعات الانتظار، ويخدم الزوار بلغات متعددة، ويتيح لهم الانتظار على هواتفهم."
+    },
+    "hi": {
+     "title": "सरकारी दफ़्तर के लिए कतार प्रणाली: भीड़ भरे हॉल के बिना टोकन व्यवस्था",
+     "description": "सरकारी दफ़्तर की कतार प्रणाली कैसे भीड़ घटाती है, कई भाषाओं के आगंतुकों की मदद करती है और लोगों को अपने फ़ोन पर इंतज़ार करने देती है।"
+    },
+    "bn": {
+     "title": "সরকারি অফিসের সারি ব্যবস্থা: ভিড়ভরা হল ছাড়াই টোকেন সিস্টেম",
+     "description": "সরকারি অফিসের সারি ব্যবস্থা কীভাবে অপেক্ষার হলের ভিড় কমায়, নানা ভাষার মানুষকে সেবা দেয় এবং নিজের ফোনে অপেক্ষার সুযোগ দেয়।"
+    },
+    "id": {
+     "title": "Sistem Antrean Kantor Pemerintahan tanpa Ruang Tunggu yang Sesak",
+     "description": "Cara sistem antrean kantor pemerintahan mengurangi ruang tunggu yang sesak, melayani warga beragam bahasa, dan memungkinkan menunggu lewat ponsel."
+    },
+    "th": {
+     "title": "ระบบคิวหน่วยงานราชการ ลดความแออัดในห้องรอ",
+     "description": "ระบบคิวหน่วยงานราชการช่วยลดความแออัดในห้องรอ รองรับผู้มาติดต่อหลายภาษา และให้รอคิวผ่านมือถือของตัวเองได้อย่างไร"
+    }
+   }
+  },
+  {
    "slug": "queue-kiosk-alternatives",
    "pubDate": "2026-11-04T02:02:43.000Z",
    "img": "img/queue-kiosk-alternatives.webp",
@@ -69,6 +141,78 @@
     "th": {
      "title": "7 ทางเลือกแทนเครื่องกดบัตรคิว ช่วยลดเวลารอ",
      "description": "เปรียบเทียบทางเลือกแทนเครื่องกดบัตรคิวที่ช่วยลดต้นทุนฮาร์ดแวร์ ลดแถวที่มองเห็นได้ และให้ลูกค้าติดตามคิวจากมือถือได้โดยไม่ต้องใช้แอป"
+    }
+   }
+  },
+  {
+   "slug": "pharmacy-queue-management",
+   "pubDate": "2026-11-03T03:40:00.000Z",
+   "img": "img/pharmacy-queue-management.webp",
+   "imageOrig": "https://raw.githubusercontent.com/TAIFAMQGO/qgo-blog/main/img/pharmacy-queue-management.webp",
+   "langs": {
+    "en": {
+     "title": "Pharmacy Queue Management That Keeps Pickups Moving",
+     "description": "Practical pharmacy queue management ideas that shorten visible lines, protect privacy at the counter, and let customers wait on their own phone."
+    },
+    "zh-tw": {
+     "title": "藥局排隊管理：讓領藥流程順暢不卡關",
+     "description": "實用的藥局排隊管理做法：縮短櫃台前的人龍、保護客人隱私，讓客人用自己的手機等候叫號。"
+    },
+    "zh-hk": {
+     "title": "藥房排隊管理：令取藥流程暢順無阻",
+     "description": "實用的藥房排隊管理方法：縮短櫃枱前的人龍、保障客人私隱，讓客人以自己的手機等候叫號。"
+    },
+    "zh-cn": {
+     "title": "药店排队管理：让取药流程顺畅不卡顿",
+     "description": "实用的药店排队管理方法：缩短柜台前的长队、保护顾客隐私，让顾客用自己的手机等待叫号。"
+    },
+    "ja": {
+     "title": "薬局の順番待ち対策｜受け取りをスムーズにする待合管理",
+     "description": "薬局の順番待ちを見直すための実践アイデア。カウンター前の行列を減らし、プライバシーを守り、お客様はスマホで待てます。"
+    },
+    "ko": {
+     "title": "약국 대기 관리: 처방약 수령을 빠르게 하는 방법",
+     "description": "약국 대기 관리 아이디어로 카운터 앞 줄을 줄이고 상담 시 개인정보를 지키며, 고객은 자신의 휴대폰으로 대기할 수 있습니다."
+    },
+    "tl": {
+     "title": "Pharmacy Queue Management: Mas Mabilis na Pagkuha ng Gamot",
+     "description": "Mga praktikal na paraan sa pharmacy queue management para umikli ang pila, may privacy sa counter, at makapaghintay ang customer sa sariling phone."
+    },
+    "fr": {
+     "title": "Gestion de la file d’attente en pharmacie : des retraits plus fluides",
+     "description": "Des idées concrètes pour gérer la file d’attente en pharmacie : moins de monde au comptoir, plus de confidentialité et une attente sur téléphone."
+    },
+    "es": {
+     "title": "Gestión de filas en farmacias para entregas más ágiles",
+     "description": "Ideas prácticas para gestionar la fila en tu farmacia: menos gente en el mostrador, más privacidad y espera desde el propio teléfono."
+    },
+    "pt": {
+     "title": "Gestão de filas em farmácias para retiradas mais rápidas",
+     "description": "Ideias práticas de gestão de filas em farmácias para reduzir a aglomeração no balcão, proteger a privacidade e deixar o cliente esperar pelo celular."
+    },
+    "ru": {
+     "title": "Управление очередью в аптеке: как ускорить выдачу заказов",
+     "description": "Практичные идеи для управления очередью в аптеке: меньше людей у прилавка, больше конфиденциальности и ожидание прямо на своём телефоне."
+    },
+    "ar": {
+     "title": "إدارة الطوابير في الصيدليات: استلام أسرع للأدوية دون زحام",
+     "description": "أفكار عملية لإدارة الطوابير في الصيدلية تقلّل الزحام الظاهر وتحمي الخصوصية عند المنضدة وتتيح للعملاء الانتظار على هواتفهم."
+    },
+    "hi": {
+     "title": "फ़ार्मेसी कतार प्रबंधन: दवा लेने वालों की लाइन तेज़ी से आगे बढ़ाएँ",
+     "description": "फ़ार्मेसी कतार प्रबंधन के व्यावहारिक उपाय: लंबी लाइन घटाएँ, काउंटर पर गोपनीयता बचाएँ और ग्राहकों को अपने फ़ोन पर इंतज़ार करने दें।"
+    },
+    "bn": {
+     "title": "ফার্মেসি সারি ব্যবস্থাপনা: ওষুধ নেওয়ার লাইন দ্রুত এগিয়ে নিন",
+     "description": "ফার্মেসি সারি ব্যবস্থাপনার কার্যকর উপায়: লম্বা লাইন কমান, কাউন্টারে গোপনীয়তা রক্ষা করুন, আর গ্রাহককে নিজের ফোনে অপেক্ষা করতে দিন।"
+    },
+    "id": {
+     "title": "Manajemen Antrean Apotek agar Pengambilan Obat Tetap Lancar",
+     "description": "Ide praktis manajemen antrean apotek untuk memperpendek barisan, menjaga privasi di konter, dan membiarkan pelanggan menunggu lewat ponsel sendiri."
+    },
+    "th": {
+     "title": "ระบบจัดการคิวร้านขายยา ช่วยให้รับยาได้เร็วขึ้น",
+     "description": "ไอเดียจัดการคิวร้านขายยาที่ช่วยลดแถวหน้าเคาน์เตอร์ ปกป้องความเป็นส่วนตัว และให้ลูกค้ารอคิวผ่านมือถือของตัวเองได้"
     }
    }
   },
