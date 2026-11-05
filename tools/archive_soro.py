@@ -69,6 +69,7 @@ def main():
             image = mc.get("url") if mc is not None else ""
         desc = re.sub(r"<[^>]+>", "", html.unescape(it.findtext("description") or "")).strip()
         path = os.path.join(ROOT, "content", "en", slug + ".json")
+        print("feed item:", (it.findtext("pubDate") or "").strip(), "|", slug, "|", title, "|", "exists" if os.path.exists(path) else "new")
         if not os.path.exists(path):
             doc = {"slug": slug, "lang": "en", "title": title, "description": desc, "html": fix_links(body),
                    "pubDate": iso(it.findtext("pubDate") or ""), "image": image,
