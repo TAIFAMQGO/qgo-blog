@@ -9,6 +9,66 @@
     "en": {
      "title": "Appointments Versus Walk Ins: What Works Best?",
      "description": "Appointments versus walk ins affect staffing, wait times, and customer choice. Learn when each model works and how a digital queue supports both well."
+    },
+    "zh-tw": {
+     "title": "預約制還是現場排隊？店家該怎麼選才最有效率",
+     "description": "預約制和現場排隊各自影響人力安排、等候時間與客人的選擇。看懂兩種模式適用的時機，以及線上叫號如何同時兼顧。"
+    },
+    "zh-hk": {
+     "title": "預約定即場取籌？商戶應如何選擇最有效的模式",
+     "description": "預約與即場取籌各自影響人手編排、輪候時間及客人選擇。了解兩種模式的適用時機，以及網上取籌如何兩者兼顧。"
+    },
+    "zh-cn": {
+     "title": "预约还是现场取号？商家怎样选才最高效",
+     "description": "预约制与现场取号分别影响人员排班、等待时间和顾客选择。了解两种模式的适用场景，以及线上排队如何兼顾两者。"
+    },
+    "ja": {
+     "title": "予約制と予約なし来店、どちらが最適？店舗の順番待ちを考える",
+     "description": "予約制と予約なし来店はスタッフ配置や待ち時間に影響します。それぞれが向くケースと、両方を支えるデジタル順番待ちを解説します。"
+    },
+    "ko": {
+     "title": "예약제 vs 워크인 방문, 매장에 가장 좋은 방식은?",
+     "description": "예약제와 워크인 방문은 인력 배치와 대기 시간에 영향을 줍니다. 각 방식이 맞는 경우와 둘 다 지원하는 디지털 대기 시스템을 알아봅니다."
+    },
+    "tl": {
+     "title": "Appointment o Walk-in: Alin ang Mas Bagay sa Negosyo Mo?",
+     "description": "Appointment o walk-in: epekto sa staff, paghihintay, at customer. Alamin kung kailan bagay ang bawat isa at paano tumutulong ang digital queue."
+    },
+    "fr": {
+     "title": "Rendez-vous ou sans rendez-vous : quel modèle choisir ?",
+     "description": "Rendez-vous ou sans rendez-vous : impact sur le personnel, l'attente et les clients. Quand choisir chaque modèle et comment une file virtuelle aide."
+    },
+    "es": {
+     "title": "Citas vs. clientes sin cita: ¿qué modelo funciona mejor?",
+     "description": "Citas o clientes sin cita: cómo afectan al personal, la espera y la elección del cliente, cuándo conviene cada modelo y cómo ayuda una fila digital."
+    },
+    "pt": {
+     "title": "Agendamento ou atendimento por ordem de chegada: o que funciona melhor?",
+     "description": "Agendamento ou ordem de chegada: veja o impacto na equipe, na espera e no cliente, quando usar cada modelo e como uma fila digital ajuda."
+    },
+    "ru": {
+     "title": "Запись или живая очередь: что лучше для вашего бизнеса?",
+     "description": "Запись или живая очередь: как выбор влияет на персонал, ожидание и клиентов, когда подходит каждая модель и чем поможет электронная очередь."
+    },
+    "ar": {
+     "title": "المواعيد المسبقة أم الحضور المباشر: أيهما الأفضل لنشاطك التجاري؟",
+     "description": "الاختيار بين المواعيد والحضور المباشر يؤثر في الموظفين ووقت الانتظار وراحة العملاء. تعرّف متى يناسب كل نموذج وكيف يدعمهما الطابور الرقمي."
+    },
+    "hi": {
+     "title": "अपॉइंटमेंट बनाम वॉक-इन: आपके व्यवसाय के लिए क्या बेहतर है?",
+     "description": "अपॉइंटमेंट और वॉक-इन स्टाफ़िंग, इंतज़ार और ग्राहक की पसंद पर असर डालते हैं। जानें कब कौन-सा मॉडल सही है और डिजिटल कतार दोनों में कैसे मदद करती है।"
+    },
+    "bn": {
+     "title": "অ্যাপয়েন্টমেন্ট বনাম ওয়াক-ইন: আপনার ব্যবসার জন্য কোনটি ভালো?",
+     "description": "অ্যাপয়েন্টমেন্ট ও ওয়াক-ইন কর্মী, অপেক্ষার সময় ও গ্রাহকের পছন্দে প্রভাব ফেলে। জানুন কখন কোনটি কাজ করে আর ডিজিটাল সারি কীভাবে দুটোকেই সহজ করে।"
+    },
+    "id": {
+     "title": "Janji Temu vs Walk-In: Mana yang Terbaik untuk Usaha Anda?",
+     "description": "Janji temu dan walk-in memengaruhi staf, waktu tunggu, dan pilihan pelanggan. Pelajari kapan tiap model cocok dan cara antrean digital mendukung keduanya."
+    },
+    "th": {
+     "title": "นัดหมายล่วงหน้า vs วอล์กอิน: แบบไหนเหมาะกับร้านของคุณที่สุด?",
+     "description": "การนัดหมายและวอล์กอินส่งผลต่อการจัดพนักงานและเวลารอคิว ดูว่าแต่ละแบบเหมาะกับกรณีใด และระบบคิวดิจิทัลช่วยรองรับทั้งสองแบบได้อย่างไร"
     }
    }
   },
