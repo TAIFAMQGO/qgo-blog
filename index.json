@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "appointments-versus-walk-ins",
+   "pubDate": "2026-11-06T02:01:28.000Z",
+   "img": "img/appointments-versus-walk-ins.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/6b5eb81e-bd3a-431b-bd68-9a2dad5727fc.webp",
+   "langs": {
+    "en": {
+     "title": "Appointments Versus Walk Ins: What Works Best?",
+     "description": "Appointments versus walk ins affect staffing, wait times, and customer choice. Learn when each model works and how a digital queue supports both well."
+    }
+   }
+  },
+  {
    "slug": "government-office-queue-system",
    "pubDate": "2026-11-05T03:40:00.000Z",
    "img": "img/government-office-queue-system.webp",
