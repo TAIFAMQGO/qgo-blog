@@ -22,7 +22,7 @@ for en in sorted(glob.glob(f'{BASE}/content/en/*.json')):
     if T.get('pubDate') != E['pubDate'] or T.get('image') != E['image']: errs.append('pubDate/image changed')
     if tags(T.get('html','')) != tags(E['html']): errs.append(f"tag structure differs ({len(tags(T.get('html','')))} vs {len(tags(E['html']))})")
     if 'qgolife.com/about"' in T.get('html',''): errs.append('about link not localized')
-    if f'https://qgolife.com/{ABOUT[lang]}"' not in T.get('html',''): errs.append('missing localized about link')
+    if 'qgolife.com/about"' in E['html'] and f'https://qgolife.com/{ABOUT[lang]}"' not in T.get('html',''): errs.append('missing localized about link')  # only when the English article has an About link
     latin = len(re.findall(r'[A-Za-z]', re.sub(r'<[^>]+>', '', T.get('html','')))) / max(1, len(re.sub(r'<[^>]+>', '', T.get('html',''))))
     if lang not in ('fr','es','pt','tl','id') and latin > 0.25: errs.append(f'too much Latin text ({latin:.0%}) — untranslated?')
     if len(T.get('description','')) > 200: errs.append('description too long')

@@ -15,7 +15,7 @@ Every article (all languages, English included) contains two `<div class="qgo-ct
 ## Rules
 1. Translate the meaning naturally for readers in that market — like a professional local copywriter, not word-for-word. Keep every fact; add nothing, drop nothing. No invented statistics, features or prices.
 2. HTML: keep exactly the same tags in the same order (same number of <p>, <h2>, <ul>, <li>, <strong>, <a> …). Only the text between tags changes.
-3. The one link `https://qgolife.com/about` must point to the localized About page: zh-tw→about-zh, zh-hk→about-zh-hk, zh-cn→about-zh-cn, ja→about-ja, ko→about-ko, tl→about-tl, fr→about-fr, es→about-es, pt→about-pt, ru→about-ru, ar→about-ar, hi→about-hi, bn→about-bn, id→about-id, th→about-th (e.g. `https://qgolife.com/about-ja`).
+3. If the English article contains the link `https://qgolife.com/about`, it must point to the localized About page: zh-tw→about-zh, zh-hk→about-zh-hk, zh-cn→about-zh-cn, ja→about-ja, ko→about-ko, tl→about-tl, fr→about-fr, es→about-es, pt→about-pt, ru→about-ru, ar→about-ar, hi→about-hi, bn→about-bn, id→about-id, th→about-th (e.g. `https://qgolife.com/about-ja`). If it has no About link, do not add one. Keep any other links (such as `/blog/...`) unchanged.
 4. Title: a natural, search-friendly headline in the target language that keeps the article's main keyword idea (e.g. "no app queue system" → the term local people would actually search for). Description: one sentence, max ~150 characters (CJK: max ~80 characters).
 5. Keep the brand as "QGO". In Chinese you may write "QGO 叫號通" (zh-tw/zh-hk) or "QGO 叫号通" (zh-cn) the first time it appears in the body, "QGO" after that. Keep "QR code"-type terms as locals write them.
 6. Do not translate the slug, pubDate or image.
