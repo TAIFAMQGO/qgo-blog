@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "multilingual-customer-experience",
+   "pubDate": "2026-11-07T09:10:21.000Z",
+   "img": "img/multilingual-customer-experience.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/b8beeb45-1b05-4509-b800-03bc65284120.webp",
+   "langs": {
+    "en": {
+     "title": "Multilingual Customer Experience That Keeps Lines Moving",
+     "description": "Build a multilingual customer experience that gives every visitor clear queue updates, reduces staff friction, and keeps your location moving with clarity."
+    }
+   }
+  },
+  {
    "slug": "appointments-versus-walk-ins",
    "pubDate": "2026-11-06T02:01:28.000Z",
    "img": "img/appointments-versus-walk-ins.webp",
