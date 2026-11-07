@@ -9,6 +9,66 @@
     "en": {
      "title": "Multilingual Customer Experience That Keeps Lines Moving",
      "description": "Build a multilingual customer experience that gives every visitor clear queue updates, reduces staff friction, and keeps your location moving with clarity."
+    },
+    "zh-tw": {
+     "title": "多語言顧客體驗：讓每位客人看懂排隊、隊伍不卡關",
+     "description": "打造多語言顧客體驗，讓每位客人都能用手機看懂排隊進度，減少工作人員負擔，讓店面順暢運作。"
+    },
+    "zh-hk": {
+     "title": "多語言顧客體驗：讓每位客人看得明白，人龍暢順流動",
+     "description": "打造多語言顧客體驗，讓每位客人以手機清楚掌握輪候進度，減輕職員負擔，令店舖運作更暢順。"
+    },
+    "zh-cn": {
+     "title": "多语言顾客体验：让每位顾客看得懂排队，队伍顺畅流动",
+     "description": "打造多语言顾客体验，让每位顾客用手机看清排队进度，减轻工作人员负担，让门店运转更顺畅。"
+    },
+    "ja": {
+     "title": "多言語対応で順番待ちをスムーズに｜外国人のお客様にも伝わる顧客体験",
+     "description": "多言語の順番待ち案内とスマホ通知で、外国人のお客様にも待ち状況が伝わり、スタッフの負担と混雑を減らせます。"
+    },
+    "ko": {
+     "title": "다국어 고객 경험으로 대기 줄을 원활하게 만드는 방법",
+     "description": "다국어 대기 안내와 휴대폰 알림으로 모든 고객에게 대기 현황을 명확히 알리고 직원 부담과 혼잡을 줄일 수 있습니다."
+    },
+    "tl": {
+     "title": "Multilingual Customer Experience na Nagpapabilis sa Takbo ng Pila",
+     "description": "Bumuo ng multilingual customer experience na may malinaw na queue update para sa bawat customer, mas kaunting abala sa staff, at tuloy-tuloy na pila."
+    },
+    "fr": {
+     "title": "Expérience client multilingue : des files d'attente plus fluides",
+     "description": "Offrez une expérience client multilingue : infos claires sur la file d'attente, moins de friction pour le personnel et un flux fluide."
+    },
+    "es": {
+     "title": "Experiencia del cliente multilingüe que mantiene la fila en movimiento",
+     "description": "Crea una experiencia del cliente multilingüe con avisos claros de la fila, menos fricción para el personal y un flujo de clientes ágil."
+    },
+    "pt": {
+     "title": "Experiência do cliente multilíngue que mantém a fila andando",
+     "description": "Crie uma experiência do cliente multilíngue com avisos claros sobre a fila, menos atrito para a equipe e um atendimento que flui."
+    },
+    "ru": {
+     "title": "Многоязычный клиентский сервис, при котором очередь не стоит на месте",
+     "description": "Как выстроить многоязычный клиентский сервис: понятные обновления очереди для каждого посетителя, меньше нагрузки на персонал и движение без заминок."
+    },
+    "ar": {
+     "title": "تجربة عملاء متعددة اللغات تُبقي الطابور في حركة مستمرة",
+     "description": "ابنِ تجربة عملاء متعددة اللغات تمنح كل زائر تحديثات طابور واضحة، وتخفف الضغط على الموظفين، وتُبقي العمل في متجرك يسير بسلاسة."
+    },
+    "hi": {
+     "title": "बहुभाषी ग्राहक अनुभव: कतार को सुचारू रूप से चलाने का तरीका",
+     "description": "ऐसा बहुभाषी ग्राहक अनुभव बनाएँ जो हर ग्राहक को कतार की साफ़ जानकारी दे, स्टाफ़ का बोझ घटाए और आपकी जगह पर भीड़ को व्यवस्थित रखे।"
+    },
+    "bn": {
+     "title": "বহুভাষিক গ্রাহক অভিজ্ঞতা: লাইন সচল রাখার উপায়",
+     "description": "এমন বহুভাষিক গ্রাহক অভিজ্ঞতা গড়ুন যা প্রত্যেক গ্রাহককে সারির স্পষ্ট আপডেট দেয়, কর্মীদের চাপ কমায় এবং আপনার জায়গায় ভিড় সুশৃঙ্খল রাখে।"
+    },
+    "id": {
+     "title": "Pengalaman Pelanggan Multibahasa agar Antrean Tetap Lancar",
+     "description": "Bangun pengalaman pelanggan multibahasa yang memberi info antrean jelas, meringankan beban staf, dan menjaga alur pelanggan tetap lancar."
+    },
+    "th": {
+     "title": "ประสบการณ์ลูกค้าหลายภาษา ช่วยให้คิวเดินลื่นไหล",
+     "description": "สร้างประสบการณ์ลูกค้าหลายภาษาด้วยการแจ้งสถานะคิวที่ชัดเจนผ่านมือถือ ลดภาระพนักงาน และช่วยให้หน้าร้านไม่แออัด"
     }
    }
   },
