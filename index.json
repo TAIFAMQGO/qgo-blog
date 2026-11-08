@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "store-traffic-management-guide",
+   "pubDate": "2026-11-08T02:02:21.000Z",
+   "img": "img/store-traffic-management-guide.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/e60b495e-38e2-4a5f-a748-bd9c83df9cc8.webp",
+   "langs": {
+    "en": {
+     "title": "Store Traffic Management Guide for Busy Teams",
+     "description": "This store traffic management guide helps busy teams reduce lines, direct customer flow, and keep wait times clear without adding more hardware on site."
+    }
+   }
+  },
+  {
    "slug": "multilingual-customer-experience",
    "pubDate": "2026-11-07T09:10:21.000Z",
    "img": "img/multilingual-customer-experience.webp",
