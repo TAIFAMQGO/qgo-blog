@@ -9,6 +9,66 @@
     "en": {
      "title": "Store Traffic Management Guide for Busy Teams",
      "description": "This store traffic management guide helps busy teams reduce lines, direct customer flow, and keep wait times clear without adding more hardware on site."
+    },
+    "zh-tw": {
+     "title": "門市人流管理指南：忙碌團隊也能輕鬆疏導排隊人潮",
+     "description": "這份門市人流管理指南，幫助忙碌的團隊減少排隊、引導客人動線、清楚掌握等候時間，現場不必再添購任何設備。"
+    },
+    "zh-hk": {
+     "title": "店舖人流管理指南：繁忙團隊也能輕鬆疏導排隊人潮",
+     "description": "這份店舖人流管理指南助繁忙團隊減少排隊、引導客人流向，並清楚掌握等候時間，現場毋須添置額外設備。"
+    },
+    "zh-cn": {
+     "title": "门店客流管理指南：忙碌团队也能轻松疏导排队人流",
+     "description": "这份门店客流管理指南帮助忙碌的团队减少排队、引导顾客动线、清楚掌握等候时间，现场无需添置任何硬件设备。"
+    },
+    "ja": {
+     "title": "店舗の混雑対策ガイド：行列を減らしお客様の流れを整える方法",
+     "description": "店舗の混雑対策ガイド。現場に機器を増やさずに行列を減らし、お客様の流れを整え、待ち時間をわかりやすくする方法を解説します。"
+    },
+    "ko": {
+     "title": "매장 혼잡 관리 가이드: 대기 줄을 줄이고 고객 흐름을 정리하는 방법",
+     "description": "현장에 장비를 늘리지 않고 대기 줄을 줄이고 고객 흐름을 안내하며 대기 시간을 명확히 하는 매장 혼잡 관리 가이드입니다."
+    },
+    "tl": {
+     "title": "Gabay sa Pag-manage ng Daloy ng Customer sa Tindahan para sa Abalang Team",
+     "description": "Gabay para sa abalang team: bawasan ang pila, ayusin ang daloy ng customer, at gawing malinaw ang paghihintay nang walang dagdag na hardware."
+    },
+    "fr": {
+     "title": "Gestion des flux clients en magasin : le guide pour les équipes débordées",
+     "description": "Ce guide de gestion des flux en magasin aide les équipes à réduire les files d'attente, orienter les clients et clarifier l'attente sans matériel en plus."
+    },
+    "es": {
+     "title": "Guía para gestionar el flujo de clientes en tu tienda: equipos con mucho trabajo",
+     "description": "Esta guía de gestión del flujo de clientes ayuda a tu equipo a reducir filas, orientar a los clientes y aclarar la espera sin sumar equipos en el local."
+    },
+    "pt": {
+     "title": "Gestão do fluxo de clientes na loja: guia para equipes sobrecarregadas",
+     "description": "Este guia de gestão do fluxo de clientes na loja ajuda equipes a reduzir filas, orientar clientes e deixar a espera clara sem mais equipamentos no local."
+    },
+    "ru": {
+     "title": "Управление потоком клиентов в магазине: руководство для загруженных команд",
+     "description": "Как сократить очереди, направлять поток клиентов и сделать ожидание понятным — без дополнительного оборудования в зале."
+    },
+    "ar": {
+     "title": "دليل إدارة حركة العملاء في المتجر للفرق المزدحمة",
+     "description": "يساعد هذا الدليل الفرق المزدحمة على تقليل الطوابير وتوجيه حركة العملاء وتوضيح أوقات الانتظار دون إضافة أجهزة جديدة في المكان."
+    },
+    "hi": {
+     "title": "स्टोर ट्रैफ़िक मैनेजमेंट गाइड: भीड़ और कतार कम करने के आसान तरीके",
+     "description": "व्यस्त टीमों के लिए स्टोर ट्रैफ़िक मैनेजमेंट गाइड: बिना नया हार्डवेयर लगाए कतारें घटाएँ, ग्राहकों का आवागमन संभालें और इंतज़ार का समय साफ़ रखें।"
+    },
+    "bn": {
+     "title": "স্টোর ট্রাফিক ম্যানেজমেন্ট গাইড: ভিড় ও লাইন কমানোর সহজ উপায়",
+     "description": "ব্যস্ত টিমের জন্য স্টোর ট্রাফিক ম্যানেজমেন্ট গাইড: নতুন হার্ডওয়্যার ছাড়াই লাইন কমান, গ্রাহকদের চলাচল সামলান এবং অপেক্ষার সময় স্পষ্ট রাখুন।"
+    },
+    "id": {
+     "title": "Panduan Manajemen Arus Pengunjung Toko untuk Tim yang Sibuk",
+     "description": "Panduan manajemen arus pengunjung toko untuk tim sibuk: kurangi antrean, atur alur pelanggan, dan jelaskan waktu tunggu tanpa perangkat tambahan."
+    },
+    "th": {
+     "title": "คู่มือจัดการคิวและความหนาแน่นในร้าน สำหรับทีมที่ยุ่งตลอดวัน",
+     "description": "คู่มือจัดการความหนาแน่นในร้าน ช่วยทีมงานลดแถวคิว จัดการการไหลของลูกค้า และแจ้งเวลารอให้ชัดเจน โดยไม่ต้องเพิ่มอุปกรณ์หน้าร้าน"
     }
    }
   },
