@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "smart-store-operations-cut-waiting-time",
+   "pubDate": "2026-11-09T03:54:21.000Z",
+   "img": "img/smart-store-operations-cut-waiting-time.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/311efba0-7f78-4087-9a7f-ad39f5dd9b0e.webp",
+   "langs": {
+    "en": {
+     "title": "Smart Store Operations That Cut Waiting Time",
+     "description": "Smart store operations reduce visible lines, give customers clear wait updates, and help staff move service forward without adding new hardware easily."
+    }
+   }
+  },
+  {
    "slug": "store-traffic-management-guide",
    "pubDate": "2026-11-08T02:02:21.000Z",
    "img": "img/store-traffic-management-guide.webp",
