@@ -9,6 +9,66 @@
     "en": {
      "title": "Smart Store Operations That Cut Waiting Time",
      "description": "Smart store operations reduce visible lines, give customers clear wait updates, and help staff move service forward without adding new hardware easily."
+    },
+    "zh-tw": {
+     "title": "智慧門市營運怎麼做？縮短客人排隊等候時間的實用方法",
+     "description": "智慧門市營運能減少現場人龍、讓客人清楚掌握等候進度，也讓工作人員不必添購新設備就能順暢服務。"
+    },
+    "zh-hk": {
+     "title": "智能店舖營運：有效縮短客人輪候時間的實用方法",
+     "description": "智能店舖營運可減少現場人龍，讓客人清楚掌握輪候進度，職員毋須添置新硬件亦能順暢提供服務。"
+    },
+    "zh-cn": {
+     "title": "智慧门店运营：有效缩短顾客排队等待时间的实用方法",
+     "description": "智慧门店运营能减少现场长队，让顾客清楚掌握等待进度，工作人员无需添置新硬件也能顺畅服务。"
+    },
+    "ja": {
+     "title": "待ち時間を減らすスマートな店舗運営のポイント",
+     "description": "行列を減らし、待ち状況をお客様にわかりやすく伝え、新たな機器なしでスタッフの対応を進めるスマートな店舗運営を解説します。"
+    },
+    "ko": {
+     "title": "대기 시간을 줄이는 스마트 매장 운영 방법",
+     "description": "눈에 보이는 줄을 줄이고 고객에게 대기 상황을 명확히 알리며, 새 장비 없이도 직원이 응대를 이어 가게 돕는 스마트 매장 운영법을 소개합니다."
+    },
+    "tl": {
+     "title": "Smart Store Operations: Paano Paikliin ang Paghihintay sa Pila",
+     "description": "Binabawasan ng smart store operations ang mahahabang pila, malinaw na ina-update ang customer, at tinutulungan ang staff nang walang bagong hardware."
+    },
+    "fr": {
+     "title": "Optimiser la gestion du magasin pour réduire l'attente",
+     "description": "Moins de files visibles, des clients informés de leur attente et un personnel plus efficace, sans nouveau matériel : la gestion intelligente du magasin."
+    },
+    "es": {
+     "title": "Operación inteligente de tiendas para reducir el tiempo de espera",
+     "description": "Una operación inteligente reduce las filas visibles, informa a los clientes sobre su espera y agiliza la atención del personal sin hardware nuevo."
+    },
+    "pt": {
+     "title": "Gestão inteligente de lojas para reduzir o tempo de espera",
+     "description": "A gestão inteligente da loja reduz filas visíveis, informa o cliente sobre a espera e agiliza o atendimento da equipe sem novos equipamentos."
+    },
+    "ru": {
+     "title": "Умная организация работы магазина: как сократить время ожидания",
+     "description": "Умная организация работы магазина убирает видимые очереди, держит клиентов в курсе ожидания и помогает персоналу без нового оборудования."
+    },
+    "ar": {
+     "title": "الإدارة الذكية لتشغيل المتجر: كيف تقلّل وقت الانتظار",
+     "description": "الإدارة الذكية للمتجر تقلّل الطوابير الظاهرة، وتُطلع العملاء على انتظارهم بوضوح، وتساعد الموظفين على تسريع الخدمة دون أجهزة جديدة."
+    },
+    "hi": {
+     "title": "स्मार्ट स्टोर ऑपरेशंस: ग्राहकों का इंतज़ार कैसे कम करें",
+     "description": "स्मार्ट स्टोर ऑपरेशंस से लंबी कतारें घटाएँ, ग्राहकों को इंतज़ार के साफ़ अपडेट दें और बिना नए हार्डवेयर के स्टाफ़ का काम आसान बनाएँ।"
+    },
+    "bn": {
+     "title": "স্মার্ট স্টোর অপারেশনস: গ্রাহকদের অপেক্ষার সময় কমানোর উপায়",
+     "description": "স্মার্ট স্টোর অপারেশনস লম্বা লাইন কমায়, গ্রাহকদের অপেক্ষার স্পষ্ট আপডেট দেয় এবং নতুন হার্ডওয়্যার ছাড়াই কর্মীদের কাজ সহজ করে।"
+    },
+    "id": {
+     "title": "Operasional Toko Cerdas untuk Memangkas Waktu Antrean",
+     "description": "Operasional toko yang cerdas mengurangi antrean panjang, memberi info waktu tunggu yang jelas, dan memudahkan staf tanpa perangkat keras baru."
+    },
+    "th": {
+     "title": "บริหารร้านแบบอัจฉริยะ ลดเวลารอคิวของลูกค้า",
+     "description": "บริหารร้านแบบอัจฉริยะช่วยลดแถวยาว แจ้งสถานะคิวให้ลูกค้าชัดเจน และช่วยพนักงานให้บริการได้ลื่นไหลโดยไม่ต้องเพิ่มฮาร์ดแวร์ใหม่"
     }
    }
   },
