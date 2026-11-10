@@ -9,6 +9,66 @@
     "en": {
      "title": "Waitlist Software That Keeps Lines Moving",
      "description": "Waitlist software helps customers wait from their phones while your team manages flow, cuts visible lines, and keeps service moving at every location daily."
+    },
+    "zh-tw": {
+     "title": "線上候位系統推薦：讓排隊人龍不再塞住門口",
+     "description": "線上候位系統讓客人用手機排隊等候，店家輕鬆掌握人流、減少門口人龍，每間分店都能維持順暢服務。"
+    },
+    "zh-hk": {
+     "title": "網上排隊系統：讓人龍不再堵塞門口",
+     "description": "網上排隊系統讓客人以手機輪候，商戶輕鬆管理人流、減少門外人龍，每間分店均能保持服務暢順。"
+    },
+    "zh-cn": {
+     "title": "在线排队系统：让排队长龙不再堵门",
+     "description": "在线排队系统让顾客用手机排队等候，商家轻松管理客流、减少门口长队，每家门店都能保持服务顺畅。"
+    },
+    "ja": {
+     "title": "行列を止めない順番待ちシステム（ウェイティングリスト）の選び方",
+     "description": "順番待ちシステムなら、お客様はスマホで待つだけ。目に見える行列を減らし、スタッフは流れを管理して、毎日の接客をスムーズに保てます。"
+    },
+    "ko": {
+     "title": "줄이 멈추지 않는 대기 관리 시스템, 웨이팅 시스템 도입 가이드",
+     "description": "대기 관리 시스템으로 고객은 휴대폰으로 기다리고, 직원은 흐름을 관리해 눈에 보이는 줄을 줄이고 매일 매장 운영을 원활하게 유지합니다."
+    },
+    "tl": {
+     "title": "Waitlist Software na Nagpapabilis sa Pila ng Inyong Negosyo",
+     "description": "Sa waitlist software, naghihintay ang customer gamit ang phone habang hawak ng staff ang daloy, nababawasan ang pila, at tuloy-tuloy ang serbisyo."
+    },
+    "fr": {
+     "title": "Logiciel de liste d'attente : fluidifiez vos files d'attente",
+     "description": "Avec un logiciel de liste d'attente, vos clients patientent depuis leur téléphone pendant que votre équipe gère le flux et réduit les files visibles."
+    },
+    "es": {
+     "title": "Software de lista de espera que mantiene las filas en movimiento",
+     "description": "Con un software de lista de espera, tus clientes esperan desde su teléfono mientras tu equipo gestiona el flujo y reduce las filas visibles."
+    },
+    "pt": {
+     "title": "Sistema de lista de espera que mantém a fila andando",
+     "description": "Com um sistema de lista de espera, seus clientes aguardam pelo celular enquanto sua equipe gerencia o fluxo e reduz as filas visíveis."
+    },
+    "ru": {
+     "title": "Электронная очередь ожидания: программа, которая не даёт очереди стоять на месте",
+     "description": "Программа для листа ожидания позволяет клиентам ждать со своего телефона, а персоналу — управлять потоком и убрать очереди у стойки."
+    },
+    "ar": {
+     "title": "برنامج قائمة الانتظار: حلّ يُبقي الطوابير في حركة مستمرة",
+     "description": "يتيح برنامج قائمة الانتظار للعملاء الانتظار من هواتفهم، بينما ينظّم فريقك التدفق ويخفّف الطوابير المرئية ويحافظ على سير الخدمة يوميًا."
+    },
+    "hi": {
+     "title": "वेटलिस्ट सॉफ़्टवेयर: कतारें रुकें नहीं, लगातार आगे बढ़ती रहें",
+     "description": "वेटलिस्ट सॉफ़्टवेयर से ग्राहक अपने फ़ोन पर इंतज़ार करते हैं, दिखने वाली कतारें घटती हैं और हर लोकेशन पर सेवा रोज़ सुचारु चलती है।"
+    },
+    "bn": {
+     "title": "ওয়েটলিস্ট সফটওয়্যার: লাইন থেমে না থেকে এগিয়ে চলুক",
+     "description": "ওয়েটলিস্ট সফটওয়্যারে গ্রাহকরা ফোনেই অপেক্ষা করেন, চোখে পড়া লাইন কমে, আর প্রতিটি লোকেশনে প্রতিদিন সেবা স্বচ্ছন্দে চলে।"
+    },
+    "id": {
+     "title": "Software Daftar Tunggu yang Membuat Antrean Terus Bergerak",
+     "description": "Software daftar tunggu membuat pelanggan menunggu lewat ponsel, mengurangi antrean yang terlihat, dan menjaga layanan tetap lancar setiap hari."
+    },
+    "th": {
+     "title": "ระบบจัดคิวรอออนไลน์ที่ช่วยให้คิวเดินไม่สะดุด",
+     "description": "ระบบจัดคิวรอช่วยให้ลูกค้ารอคิวผ่านมือถือ ขณะที่พนักงานจัดการลำดับได้ ลดแถวที่ต่อยาวหน้าร้าน และให้บริการลื่นไหลทุกสาขาทุกวัน"
     }
    }
   },
