@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "waitlist-software-keeps-lines-moving",
+   "pubDate": "2026-11-10T02:03:09.000Z",
+   "img": "img/waitlist-software-keeps-lines-moving.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/7047ad84-a3bc-420f-bf56-19f53c4c54c1.webp",
+   "langs": {
+    "en": {
+     "title": "Waitlist Software That Keeps Lines Moving",
+     "description": "Waitlist software helps customers wait from their phones while your team manages flow, cuts visible lines, and keeps service moving at every location daily."
+    }
+   }
+  },
+  {
    "slug": "smart-store-operations-cut-waiting-time",
    "pubDate": "2026-11-09T03:54:21.000Z",
    "img": "img/smart-store-operations-cut-waiting-time.webp",
