@@ -9,6 +9,66 @@
     "en": {
      "title": "Customer Arrival Planning Guide for Busy Locations",
      "description": "Use this customer arrival planning guide to reduce crowding, set clear expectations, and keep service moving smoothly all day long for every customer."
+    },
+    "zh-tw": {
+     "title": "客人到店規劃指南：讓人潮擁擠的店家也能順暢服務",
+     "description": "用這份客人到店規劃指南減少擁擠、設定清楚的等候預期，讓服務整天順暢不卡關。"
+    },
+    "zh-hk": {
+     "title": "客人到店規劃指南：助繁忙商戶疏導人流、暢順服務",
+     "description": "以這份客人到店規劃指南減少擠迫、訂立清晰預期，令全日服務保持暢順。"
+    },
+    "zh-cn": {
+     "title": "顾客到店规划指南：让繁忙门店客流有序、服务顺畅",
+     "description": "用这份顾客到店规划指南减少拥挤、设定清晰预期，让全天服务顺畅不卡顿。"
+    },
+    "ja": {
+     "title": "来店計画ガイド：混雑する店舗で順番待ちをスムーズにする方法",
+     "description": "来店が集中する店舗でも混雑を減らし、待ち時間の見通しを伝え、一日中スムーズに接客を進めるための来店計画ガイドです。"
+    },
+    "ko": {
+     "title": "고객 방문 계획 가이드: 붐비는 매장의 대기 줄 관리 방법",
+     "description": "혼잡을 줄이고 대기 시간을 명확히 안내하며 하루 종일 원활하게 고객을 응대하는 고객 방문 계획 가이드입니다."
+    },
+    "tl": {
+     "title": "Gabay sa Pagpaplano ng Pagdating ng Customer para sa Mataong Lugar",
+     "description": "Sa gabay na ito sa pagpaplano ng pagdating ng customer, bawasan ang siksikan, linawin ang inaasahan, at panatilihing tuloy-tuloy ang serbisyo."
+    },
+    "fr": {
+     "title": "Planifier l'arrivée des clients : guide pour les commerces très fréquentés",
+     "description": "Planifiez l'arrivée de vos clients pour éviter l'affluence, fixer des attentes claires et garder un service fluide toute la journée."
+    },
+    "es": {
+     "title": "Guía para planificar la llegada de clientes en negocios concurridos",
+     "description": "Planifica la llegada de tus clientes para evitar aglomeraciones, fijar expectativas claras y mantener un servicio fluido todo el día."
+    },
+    "pt": {
+     "title": "Guia de planejamento da chegada de clientes para locais movimentados",
+     "description": "Planeje a chegada dos clientes para evitar aglomeração, definir expectativas claras e manter o atendimento fluindo o dia todo."
+    },
+    "ru": {
+     "title": "Как планировать поток клиентов в загруженных точках обслуживания",
+     "description": "Руководство по планированию прихода клиентов: меньше толпы, понятные ожидания и ровное обслуживание в течение всего дня."
+    },
+    "ar": {
+     "title": "دليل تخطيط وصول العملاء للمواقع المزدحمة",
+     "description": "استخدم دليل تخطيط وصول العملاء هذا لتقليل الازدحام ووضع توقعات واضحة والحفاظ على سير الخدمة بسلاسة طوال اليوم."
+    },
+    "hi": {
+     "title": "ग्राहक आगमन योजना गाइड: व्यस्त दुकानों और काउंटरों पर भीड़ कैसे संभालें",
+     "description": "इस ग्राहक आगमन योजना गाइड से भीड़ घटाएँ, साफ़ उम्मीदें तय करें और पूरे दिन हर ग्राहक के लिए सर्विस को सुचारु रखें।"
+    },
+    "bn": {
+     "title": "গ্রাহক আগমন পরিকল্পনা গাইড: ব্যস্ত দোকান ও কাউন্টারে ভিড় সামলানোর উপায়",
+     "description": "এই গ্রাহক আগমন পরিকল্পনা গাইড দিয়ে ভিড় কমান, স্পষ্ট প্রত্যাশা দিন এবং সারাদিন প্রত্যেক গ্রাহকের সার্ভিস নির্বিঘ্ন রাখুন।"
+    },
+    "id": {
+     "title": "Panduan Perencanaan Kedatangan Pelanggan untuk Lokasi yang Ramai",
+     "description": "Gunakan panduan perencanaan kedatangan pelanggan ini untuk mengurangi kerumunan, memberi kepastian, dan menjaga layanan tetap lancar sepanjang hari."
+    },
+    "th": {
+     "title": "คู่มือวางแผนการมาถึงของลูกค้า: จัดการคิวสำหรับร้านที่คนเยอะ",
+     "description": "คู่มือวางแผนการมาถึงของลูกค้า ช่วยลดความแออัด แจ้งเวลารอได้ชัดเจน และให้บริการได้อย่างราบรื่นตลอดทั้งวัน"
     }
    }
   },
