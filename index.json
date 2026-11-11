@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "customer-arrival-planning-guide",
+   "pubDate": "2026-11-11T03:52:10.000Z",
+   "img": "img/customer-arrival-planning-guide.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/cd40fbb0-33ca-4ddd-8208-cf310bfe0c23.webp",
+   "langs": {
+    "en": {
+     "title": "Customer Arrival Planning Guide for Busy Locations",
+     "description": "Use this customer arrival planning guide to reduce crowding, set clear expectations, and keep service moving smoothly all day long for every customer."
+    }
+   }
+  },
+  {
    "slug": "waitlist-software-keeps-lines-moving",
    "pubDate": "2026-11-10T02:03:09.000Z",
    "img": "img/waitlist-software-keeps-lines-moving.webp",
