@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "manage-walk-in-demand",
+   "pubDate": "2026-11-12T02:02:49.000Z",
+   "img": "img/manage-walk-in-demand.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/bc079cd8-3fee-4a6b-bfe6-8852270ec233.webp",
+   "langs": {
+    "en": {
+     "title": "How to Manage Walk In Demand Without Long Lines",
+     "description": "Learn how to manage walk in demand with mobile queues, clearer wait updates, and smarter staffing - without kiosks, tickets, or app downloads for teams."
+    }
+   }
+  },
+  {
    "slug": "customer-arrival-planning-guide",
    "pubDate": "2026-11-11T03:52:10.000Z",
    "img": "img/customer-arrival-planning-guide.webp",
