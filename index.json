@@ -9,6 +9,66 @@
     "en": {
      "title": "How to Manage Walk In Demand Without Long Lines",
      "description": "Learn how to manage walk in demand with mobile queues, clearer wait updates, and smarter staffing - without kiosks, tickets, or app downloads for teams."
+    },
+    "zh-tw": {
+     "title": "現場客人太多怎麼辦？不用大排長龍的人流管理方法",
+     "description": "用手機排隊、清楚的等候通知與更聰明的人力安排管理現場來客，免抽號機、免號碼單、免下載 App。"
+    },
+    "zh-hk": {
+     "title": "如何管理即場客人需求，毋須大排長龍",
+     "description": "以手機排隊、清晰的輪候通知及更精明的人手編配管理即場客流，毋須取籌機、籌號紙或下載 App。"
+    },
+    "zh-cn": {
+     "title": "门店客流高峰怎么管？不用排长队的现场客流管理方法",
+     "description": "用手机排队、清晰的等候通知和更合理的人员排班管理现场客流，无需取号机、号码单，也不用下载 App。"
+    },
+    "ja": {
+     "title": "飛び込み客の混雑対策：長い行列をつくらずに来店客をさばく方法",
+     "description": "モバイル順番待ち、わかりやすい待ち時間の案内、的確な人員配置で、発券機・整理券・アプリなしに飛び込み客の混雑を解消する方法を解説します。"
+    },
+    "ko": {
+     "title": "워크인 고객 수요 관리: 긴 대기 줄 없이 매장 혼잡을 줄이는 방법",
+     "description": "모바일 대기, 명확한 대기 시간 안내, 효율적인 인력 배치로 번호표 발급기나 앱 설치 없이 워크인 수요를 관리하는 방법."
+    },
+    "tl": {
+     "title": "Paano I-manage ang Dagsa ng Walk-in Customers Nang Walang Mahabang Pila",
+     "description": "Alamin kung paano i-manage ang walk-in customers gamit ang mobile queue, malinaw na wait updates, at mas matalinong staffing—walang kiosk, tiket, o app."
+    },
+    "fr": {
+     "title": "Gérer l'affluence des clients sans rendez-vous, sans longues files d'attente",
+     "description": "Gérez l'affluence sans rendez-vous avec une file d'attente sur mobile, une attente claire et un personnel mieux réparti, sans borne ni ticket."
+    },
+    "es": {
+     "title": "Cómo gestionar la demanda de clientes sin cita sin filas largas",
+     "description": "Aprende a gestionar la demanda sin cita con filas virtuales, tiempos de espera claros y mejor uso del personal, sin dispensadores, papel ni apps."
+    },
+    "pt": {
+     "title": "Como gerenciar a demanda de clientes sem agendamento sem filas longas",
+     "description": "Saiba gerenciar a demanda sem agendamento com fila pelo celular, espera clara e equipe bem distribuída, sem totem, senha de papel ou app."
+    },
+    "ru": {
+     "title": "Как управлять потоком клиентов без записи и не допускать длинных очередей",
+     "description": "Как управлять потоком клиентов без записи: электронная очередь, понятное время ожидания и умное распределение персонала — без терминалов и приложений."
+    },
+    "ar": {
+     "title": "كيف تدير تدفق العملاء دون مواعيد وتتجنب الطوابير الطويلة",
+     "description": "تعرّف على إدارة تدفق العملاء دون مواعيد عبر طابور على الهاتف وتحديثات واضحة للانتظار وتوزيع أذكى للموظفين، دون أجهزة تذاكر أو تطبيقات."
+    },
+    "hi": {
+     "title": "वॉक-इन ग्राहकों की भीड़ कैसे संभालें — बिना लंबी कतार के",
+     "description": "मोबाइल कतार, साफ़ वेटिंग अपडेट और समझदारी से स्टाफ़ तैनाती से वॉक-इन भीड़ संभालें — बिना कियोस्क, टोकन या ऐप डाउनलोड के।"
+    },
+    "bn": {
+     "title": "লম্বা লাইন ছাড়াই ওয়াক-ইন গ্রাহকের ভিড় কীভাবে সামলাবেন",
+     "description": "মোবাইল সারি, স্পষ্ট অপেক্ষার আপডেট ও বুদ্ধিমান কর্মী পরিকল্পনায় ওয়াক-ইন ভিড় সামলান — কিয়স্ক, টোকেন বা অ্যাপ ডাউনলোড ছাড়াই।"
+    },
+    "id": {
+     "title": "Cara Mengelola Lonjakan Pelanggan Walk-In Tanpa Antrean Panjang",
+     "description": "Kelola lonjakan walk-in dengan antrean di ponsel, info waktu tunggu yang jelas, dan pengaturan staf cerdas — tanpa kios, tiket, atau unduh aplikasi."
+    },
+    "th": {
+     "title": "วิธีจัดการลูกค้า Walk-in ไม่ให้ต่อคิวยาว",
+     "description": "จัดการลูกค้า walk-in ด้วยคิวผ่านมือถือ แจ้งเวลารอชัดเจน และจัดพนักงานอย่างชาญฉลาด ไม่ต้องใช้เครื่องกดบัตรคิว บัตรคิวกระดาษ หรือแอป"
     }
    }
   },
