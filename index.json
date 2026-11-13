@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "top-ways-to-ease-crowds",
+   "pubDate": "2026-11-13T03:53:10.000Z",
+   "img": "img/top-ways-to-ease-crowds.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/f5d5ba00-3416-4a85-93f8-a9bf5f42019b.webp",
+   "langs": {
+    "en": {
+     "title": "Top Ways to Ease Crowds at Busy Locations",
+     "description": "See the top ways to ease crowds in stores, clinics, and service spaces with clearer flow, mobile waiting, and faster handoffs for every visit, each day."
+    }
+   }
+  },
+  {
    "slug": "manage-walk-in-demand",
    "pubDate": "2026-11-12T02:02:49.000Z",
    "img": "img/manage-walk-in-demand.webp",
