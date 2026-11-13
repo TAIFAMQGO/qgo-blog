@@ -9,6 +9,66 @@
     "en": {
      "title": "Top Ways to Ease Crowds at Busy Locations",
      "description": "See the top ways to ease crowds in stores, clinics, and service spaces with clearer flow, mobile waiting, and faster handoffs for every visit, each day."
+    },
+    "zh-tw": {
+     "title": "紓解人潮的實用方法：讓熱門店家不再擠成一團",
+     "description": "從動線、手機候位到交接流程，整理商店、診所與服務櫃台紓解人潮的實用方法，讓每次來店都更順暢。"
+    },
+    "zh-hk": {
+     "title": "紓緩人潮的實用方法：讓繁忙商戶告別擠迫",
+     "description": "由動線、手機取籌到交收流程，整理商店、診所及服務櫃枱紓緩人潮的實用方法，令每次到訪更暢順。"
+    },
+    "zh-cn": {
+     "title": "缓解人流拥挤的实用方法：让热门门店不再人挤人",
+     "description": "从动线、手机排队到交付环节，盘点商店、诊所和服务柜台缓解人流拥挤的实用方法，让每次到店都更顺畅。"
+    },
+    "ja": {
+     "title": "混雑緩和の方法とは？人が集まる店舗・施設で混雑を解消するポイント",
+     "description": "店舗やクリニックなどの混雑を緩和する方法を紹介。分かりやすい動線、スマホでの順番待ち、スムーズな受け渡しで来店体験を改善します。"
+    },
+    "ko": {
+     "title": "붐비는 매장의 혼잡 완화 방법: 대기 줄을 줄이는 핵심 전략",
+     "description": "매장, 병원, 서비스 공간의 혼잡을 완화하는 방법을 알아보세요. 명확한 동선, 휴대폰 대기, 빠른 전달로 방문 경험을 개선합니다."
+    },
+    "tl": {
+     "title": "Mga Pinakamabisang Paraan para Mabawasan ang Siksikan at Mahabang Pila sa Abalang Lugar",
+     "description": "Mga paraan para mabawasan ang siksikan sa tindahan, clinic, at service area: malinaw na daloy, paghihintay sa phone, at mabilis na abutan."
+    },
+    "fr": {
+     "title": "Comment désengorger un lieu très fréquenté : les meilleures méthodes",
+     "description": "Les meilleures façons de désengorger commerces, cabinets et guichets : parcours clair, attente sur mobile et remise plus rapide, à chaque visite."
+    },
+    "es": {
+     "title": "Las mejores formas de reducir las aglomeraciones en lugares concurridos",
+     "description": "Descubre cómo reducir aglomeraciones en tiendas, clínicas y negocios con un flujo claro, espera desde el teléfono y entregas más rápidas."
+    },
+    "pt": {
+     "title": "As melhores formas de reduzir aglomerações em locais movimentados",
+     "description": "Veja como reduzir aglomerações em lojas, clínicas e balcões de atendimento com fluxo claro, espera pelo celular e entregas mais rápidas."
+    },
+    "ru": {
+     "title": "Как разгрузить поток посетителей: лучшие способы избежать толпы и очередей",
+     "description": "Лучшие способы разгрузить поток посетителей в магазинах, клиниках и сервисах: понятный маршрут, электронная очередь и быстрая выдача."
+    },
+    "ar": {
+     "title": "أفضل طرق تخفيف الازدحام والطوابير في الأماكن المزدحمة",
+     "description": "تعرّف إلى أفضل طرق تخفيف الازدحام في المتاجر والعيادات وأماكن الخدمة عبر تدفق أوضح وانتظار عبر الهاتف وتسليم أسرع في كل زيارة."
+    },
+    "hi": {
+     "title": "भीड़भाड़ वाली जगहों पर भीड़ कम करने के सबसे असरदार तरीके",
+     "description": "दुकानों, क्लिनिक और सर्विस काउंटर पर भीड़ कम करने के सबसे असरदार तरीके: साफ़ फ़्लो, फ़ोन पर इंतज़ार और हर दिन तेज़ हैंडऑफ़।"
+    },
+    "bn": {
+     "title": "ব্যস্ত জায়গায় ভিড় কমানোর সেরা উপায়",
+     "description": "দোকান, ক্লিনিক ও সার্ভিস কাউন্টারে ভিড় কমানোর সেরা উপায়: পরিষ্কার ফ্লো, ফোনে অপেক্ষা আর প্রতিদিন প্রতিটি ভিজিটে দ্রুত হ্যান্ডঅফ।"
+    },
+    "id": {
+     "title": "Cara Terbaik Mengurai Keramaian di Tempat yang Sibuk",
+     "description": "Cara terbaik mengurai keramaian di toko, klinik, dan tempat layanan: alur lebih jelas, antre lewat ponsel, dan serah terima lebih cepat setiap hari."
+    },
+    "th": {
+     "title": "วิธีลดความแออัดในสถานที่ที่มีคนเยอะ ช่วยให้คิวลื่นไหลขึ้น",
+     "description": "รวมวิธีลดความแออัดในร้านค้า คลินิก และจุดบริการ ด้วยเส้นทางที่ชัดเจน การรอคิวผ่านมือถือ และการส่งมอบที่รวดเร็วขึ้นในทุกการมาใช้บริการ"
     }
    }
   },
