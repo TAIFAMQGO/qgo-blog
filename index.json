@@ -9,6 +9,66 @@
     "en": {
      "title": "Kiosk Versus Smartphone Check In: Which Fits?",
      "description": "Compare kiosk versus smartphone check in for busy locations. See the trade-offs in cost, access, staffing, and customer flow before you choose for your team."
+    },
+    "zh-tw": {
+     "title": "自助報到機 vs 手機報到：哪一種更適合你的店？",
+     "description": "比較自助報到機與手機報到的成本、使用門檻、人力與客流差異，幫你的團隊做出最合適的選擇。"
+    },
+    "zh-hk": {
+     "title": "自助登記機還是手機登記？哪種較適合你的商戶",
+     "description": "比較自助登記機與手機登記的成本、使用門檻、人手及客流取捨，助你為團隊作出合適選擇。"
+    },
+    "zh-cn": {
+     "title": "自助签到机还是手机签到？哪种更适合你的门店",
+     "description": "对比自助签到机与手机签到在成本、使用门槛、人力和客流上的差异，帮你的团队做出合适选择。"
+    },
+    "ja": {
+     "title": "受付端末とスマホ受付、どちらが合う？順番待ちの方式を比較",
+     "description": "混雑する店舗での受付端末とスマホ受付を比較。費用、使いやすさ、スタッフ負担、お客様の流れの違いを解説します。"
+    },
+    "ko": {
+     "title": "키오스크 vs 휴대폰 접수: 우리 매장에 맞는 대기 방식은?",
+     "description": "혼잡한 매장의 키오스크와 휴대폰 접수를 비교합니다. 비용, 접근성, 직원 업무, 고객 흐름의 차이를 확인하세요."
+    },
+    "tl": {
+     "title": "Kiosk o Smartphone Check-in: Alin ang Bagay sa Negosyo Mo?",
+     "description": "Paghambingin ang kiosk at smartphone check-in para sa mataong lugar: gastos, accessibility, staff, at daloy ng customer bago pumili."
+    },
+    "fr": {
+     "title": "Borne ou enregistrement sur smartphone : que choisir ?",
+     "description": "Borne ou smartphone pour l'enregistrement en point de vente ? Coût, accessibilité, personnel et flux clients : comparez avant de choisir."
+    },
+    "es": {
+     "title": "Kiosco o check-in con el teléfono: ¿cuál te conviene?",
+     "description": "Compara el kiosco y el check-in desde el teléfono para negocios con mucha afluencia: costo, accesibilidad, personal y flujo de clientes."
+    },
+    "pt": {
+     "title": "Totem ou check-in pelo celular: qual é o ideal?",
+     "description": "Compare totem de autoatendimento e check-in pelo celular para locais movimentados: custo, acesso, equipe e fluxo de clientes antes de decidir."
+    },
+    "ru": {
+     "title": "Терминал или регистрация через смартфон: что выбрать для очереди?",
+     "description": "Сравниваем терминал и регистрацию в очереди через смартфон: стоимость, доступность, нагрузка на персонал и поток клиентов."
+    },
+    "ar": {
+     "title": "جهاز تسجيل الوصول أم الهاتف الذكي: أيهما يناسب طابور عملائك؟",
+     "description": "قارن بين جهاز تسجيل الوصول والتسجيل عبر الهاتف الذكي من حيث التكلفة وسهولة الوصول وعمل الموظفين وتدفق العملاء."
+    },
+    "hi": {
+     "title": "कियॉस्क बनाम स्मार्टफ़ोन चेक-इन: आपके व्यवसाय के लिए कौन-सा सही?",
+     "description": "व्यस्त जगहों के लिए कियॉस्क और स्मार्टफ़ोन चेक-इन की तुलना: लागत, एक्सेसिबिलिटी, स्टाफ़ और ग्राहकों के प्रवाह पर असर समझकर सही चुनाव करें।"
+    },
+    "bn": {
+     "title": "কিয়স্ক বনাম স্মার্টফোন চেক-ইন: আপনার ব্যবসার জন্য কোনটি উপযুক্ত?",
+     "description": "ব্যস্ত জায়গার জন্য কিয়স্ক ও স্মার্টফোন চেক-ইনের তুলনা: খরচ, অ্যাক্সেসিবিলিটি, কর্মী ও গ্রাহক প্রবাহের দিকগুলো জেনে সঠিক সিদ্ধান্ত নিন।"
+    },
+    "id": {
+     "title": "Kiosk vs Check-in lewat Ponsel: Mana yang Cocok untuk Usaha Anda?",
+     "description": "Bandingkan kiosk dan check-in lewat ponsel untuk tempat yang ramai: biaya, aksesibilitas, beban staf, dan arus pelanggan sebelum Anda memilih."
+    },
+    "th": {
+     "title": "ตู้คีออสก์ vs เช็กอินผ่านมือถือ: ระบบคิวแบบไหนเหมาะกับร้านคุณ",
+     "description": "เปรียบเทียบตู้คีออสก์กับการเช็กอินผ่านมือถือสำหรับร้านที่คนเยอะ ทั้งด้านต้นทุน การเข้าถึง งานของพนักงาน และการไหลของลูกค้า"
     }
    }
   },
