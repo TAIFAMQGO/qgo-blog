@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "kiosk-versus-smartphone-check-in",
+   "pubDate": "2026-11-14T02:02:44.000Z",
+   "img": "img/kiosk-versus-smartphone-check-in.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/ccf78000-45ab-43bf-a45f-8db8f6566ca7.webp",
+   "langs": {
+    "en": {
+     "title": "Kiosk Versus Smartphone Check In: Which Fits?",
+     "description": "Compare kiosk versus smartphone check in for busy locations. See the trade-offs in cost, access, staffing, and customer flow before you choose for your team."
+    }
+   }
+  },
+  {
    "slug": "top-ways-to-ease-crowds",
    "pubDate": "2026-11-13T03:53:10.000Z",
    "img": "img/top-ways-to-ease-crowds.webp",
