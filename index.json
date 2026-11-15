@@ -9,6 +9,66 @@
     "en": {
      "title": "Waiting Room Software That Reduces Line Stress",
      "description": "Waiting room software helps businesses replace crowded lines with mobile updates, clearer wait expectations, and less staff coordination at busy times."
+    },
+    "zh-tw": {
+     "title": "候位系統怎麼選？用線上叫號減少排隊壓力",
+     "description": "線上候位系統讓店家用手機通知取代擁擠人龍，讓客人清楚掌握等候時間，尖峰時段也減少工作人員的協調負擔。"
+    },
+    "zh-hk": {
+     "title": "網上取籌系統：減輕排隊壓力的等候區方案",
+     "description": "網上取籌系統以手機通知取代擠迫人龍，讓客人清楚了解輪候時間，繁忙時段亦減少職員協調工作。"
+    },
+    "zh-cn": {
+     "title": "线上排队取号系统：缓解排队压力的等候区方案",
+     "description": "线上排队取号系统用手机通知取代拥挤长队，让顾客清楚了解等候时间，高峰时段也减轻工作人员的协调负担。"
+    },
+    "ja": {
+     "title": "待合室の混雑とストレスを減らす順番待ちシステム",
+     "description": "順番待ちシステムで、店舗の行列をスマホ通知に置き換え、待ち時間を見える化。混雑時のスタッフの負担も軽減します。"
+    },
+    "ko": {
+     "title": "대기 스트레스를 줄이는 대기실 관리 시스템",
+     "description": "대기 관리 시스템으로 붐비는 줄을 휴대폰 알림으로 바꾸고, 예상 대기 시간을 명확히 하며, 바쁜 시간대 직원의 부담을 줄일 수 있습니다."
+    },
+    "tl": {
+     "title": "Waiting Room Software na Nagpapagaan ng Stress sa Pila",
+     "description": "Pinapalitan ng waiting room software ang siksikang pila ng updates sa phone, mas malinaw na oras ng paghihintay, at mas magaan na trabaho ng staff."
+    },
+    "fr": {
+     "title": "Logiciel de file d'attente : réduire le stress de l'attente",
+     "description": "Un logiciel de file d'attente remplace les files bondées par un suivi sur téléphone, une attente plus claire et moins de coordination pour le personnel."
+    },
+    "es": {
+     "title": "Software de sala de espera que reduce el estrés de la fila",
+     "description": "Un software de sala de espera reemplaza las filas llenas por avisos en el teléfono, tiempos de espera más claros y menos coordinación del personal."
+    },
+    "pt": {
+     "title": "Software de sala de espera que reduz o estresse da fila",
+     "description": "Um software de sala de espera troca filas lotadas por avisos no celular, previsão de espera mais clara e menos coordenação da equipe nos picos."
+    },
+    "ru": {
+     "title": "Электронная очередь для зоны ожидания: меньше стресса из-за очередей",
+     "description": "Электронная очередь для зоны ожидания заменяет толпу у стойки уведомлениями на телефоне, понятным временем ожидания и меньшей нагрузкой на персонал."
+    },
+    "ar": {
+     "title": "برنامج غرفة الانتظار الذي يخفف ضغط الطوابير",
+     "description": "يساعد برنامج غرفة الانتظار الأنشطة التجارية على استبدال الطوابير المزدحمة بتحديثات على الهاتف وتوقعات أوضح للانتظار وتنسيق أقل من الموظفين."
+    },
+    "hi": {
+     "title": "वेटिंग रूम सॉफ़्टवेयर: कतार का तनाव कैसे कम करें",
+     "description": "वेटिंग रूम सॉफ़्टवेयर भीड़ भरी कतारों की जगह फ़ोन पर अपडेट, इंतज़ार का साफ़ अंदाज़ा और व्यस्त समय में स्टाफ़ पर कम बोझ देता है।"
+    },
+    "bn": {
+     "title": "ওয়েটিং রুম সফটওয়্যার: লাইনের চাপ কমানোর সহজ উপায়",
+     "description": "ওয়েটিং রুম সফটওয়্যার ভিড়ের লাইনের বদলে ফোনে আপডেট, অপেক্ষার স্পষ্ট ধারণা আর ব্যস্ত সময়ে কর্মীদের কম ঝামেলা এনে দেয়।"
+    },
+    "id": {
+     "title": "Software Ruang Tunggu untuk Antrean yang Lebih Tenang",
+     "description": "Software ruang tunggu menggantikan antrean yang padat dengan info lewat ponsel, perkiraan waktu tunggu yang jelas, dan beban staf yang lebih ringan."
+    },
+    "th": {
+     "title": "ระบบจัดคิวห้องรอที่ช่วยลดความเครียดจากการต่อแถว",
+     "description": "ระบบจัดคิวช่วยให้ร้านเปลี่ยนแถวยาวเป็นการแจ้งเตือนผ่านมือถือ บอกเวลารอได้ชัดเจน และลดภาระพนักงานในช่วงที่ลูกค้าเยอะ"
     }
    }
   },
