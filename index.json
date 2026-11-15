@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "waiting-room-software-reduces-line-stress",
+   "pubDate": "2026-11-15T03:43:51.000Z",
+   "img": "img/waiting-room-software-reduces-line-stress.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/2f485c3b-534a-4e82-9a47-568b0045b53c.webp",
+   "langs": {
+    "en": {
+     "title": "Waiting Room Software That Reduces Line Stress",
+     "description": "Waiting room software helps businesses replace crowded lines with mobile updates, clearer wait expectations, and less staff coordination at busy times."
+    }
+   }
+  },
+  {
    "slug": "kiosk-versus-smartphone-check-in",
    "pubDate": "2026-11-14T02:02:44.000Z",
    "img": "img/kiosk-versus-smartphone-check-in.webp",
