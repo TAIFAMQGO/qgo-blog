@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "create-mobile-waiting-experience",
+   "pubDate": "2026-11-16T02:02:42.000Z",
+   "img": "img/create-mobile-waiting-experience.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/57fe9cb7-50ef-46d1-9b34-a17d734c8bb2.webp",
+   "langs": {
+    "en": {
+     "title": "How to Create a Mobile Waiting Experience",
+     "description": "Learn how to create a mobile waiting experience that reduces visible lines, keeps customers updated, and gives staff more time to serve without kiosks."
+    }
+   }
+  },
+  {
    "slug": "waiting-room-software-reduces-line-stress",
    "pubDate": "2026-11-15T03:43:51.000Z",
    "img": "img/waiting-room-software-reduces-line-stress.webp",
