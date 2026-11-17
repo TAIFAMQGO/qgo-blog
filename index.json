@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "best-tools-for-waitlists",
+   "pubDate": "2026-11-17T03:50:57.000Z",
+   "img": "img/best-tools-for-waitlists.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/c8ffdef5-5f05-4031-9cfd-5ad9a4391a4e.webp",
+   "langs": {
+    "en": {
+     "title": "7 Best Tools for Waitlists in Busy Locations",
+     "description": "Compare the best tools for waitlists for retail, clinics, restaurants, and service teams - and choose a simple mobile flow that keeps lines moving daily."
+    }
+   }
+  },
+  {
    "slug": "create-mobile-waiting-experience",
    "pubDate": "2026-11-16T02:02:42.000Z",
    "img": "img/create-mobile-waiting-experience.webp",
