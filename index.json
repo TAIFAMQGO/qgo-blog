@@ -9,6 +9,66 @@
     "en": {
      "title": "7 Best Tools for Waitlists in Busy Locations",
      "description": "Compare the best tools for waitlists for retail, clinics, restaurants, and service teams - and choose a simple mobile flow that keeps lines moving daily."
+    },
+    "zh-tw": {
+     "title": "人潮多的店家必看：7 款最佳排隊候位工具推薦",
+     "description": "比較適合零售、診所、餐廳與服務櫃台的排隊候位工具，選一套簡單的手機排隊流程，讓隊伍每天都順暢前進。"
+    },
+    "zh-hk": {
+     "title": "人流旺場必看：7 款最佳排隊輪候工具推介",
+     "description": "比較適合零售、診所、餐廳及服務櫃枱的排隊輪候工具，選用簡單的手機取籌流程，讓人龍每日都暢順流動。"
+    },
+    "zh-cn": {
+     "title": "客流高峰门店必看：7 款最佳排队取号工具推荐",
+     "description": "对比适合零售、诊所、餐厅和服务柜台的排队取号工具，选择简单的手机排队流程，让队伍每天都顺畅流动。"
+    },
+    "ja": {
+     "title": "混雑する店舗向け 順番待ちツールおすすめ7選",
+     "description": "小売店・クリニック・飲食店・窓口向けの順番待ちツールを比較。毎日の行列をスムーズにする、シンプルなスマホ受付の選び方を解説します。"
+    },
+    "ko": {
+     "title": "붐비는 매장을 위한 대기 관리 도구 추천 7가지",
+     "description": "소매점·병원·식당·서비스 창구용 대기 관리 도구를 비교하고, 매일 줄을 원활하게 하는 간단한 휴대폰 대기 방식 선택법을 알아봅니다."
+    },
+    "tl": {
+     "title": "7 Pinakamahusay na Tool para sa Waitlist sa Mataong Lugar",
+     "description": "Ihambing ang mga waitlist tool para sa tindahan, clinic, restaurant, at service team, at pumili ng simpleng mobile na pila na tuloy-tuloy araw-araw."
+    },
+    "fr": {
+     "title": "Les 7 meilleurs outils de liste d’attente pour les commerces très fréquentés",
+     "description": "Comparez les meilleurs outils de liste d’attente pour commerces, cliniques et restaurants, et choisissez un parcours mobile simple et fluide."
+    },
+    "es": {
+     "title": "Las 7 mejores herramientas de lista de espera para negocios concurridos",
+     "description": "Compara las mejores herramientas de lista de espera para tiendas, clínicas y restaurantes, y elige un flujo móvil simple que agilice la fila."
+    },
+    "pt": {
+     "title": "As 7 melhores ferramentas de lista de espera para negócios movimentados",
+     "description": "Compare as melhores ferramentas de lista de espera para lojas, clínicas e restaurantes e escolha um fluxo pelo celular que agiliza a fila."
+    },
+    "ru": {
+     "title": "7 лучших сервисов для листа ожидания и электронной очереди",
+     "description": "Сравниваем лучшие сервисы листа ожидания для магазинов, клиник, ресторанов и сервисных служб и помогаем выбрать простой мобильный формат очереди."
+    },
+    "ar": {
+     "title": "أفضل 7 أدوات لقوائم الانتظار في الأماكن المزدحمة",
+     "description": "قارن أفضل أدوات قوائم الانتظار للمتاجر والعيادات والمطاعم وفرق الخدمة، واختر طابورًا بسيطًا عبر الهاتف يحافظ على انسيابية الحركة يوميًا."
+    },
+    "hi": {
+     "title": "भीड़ वाली जगहों के लिए 7 बेहतरीन वेटलिस्ट और कतार प्रबंधन टूल",
+     "description": "रिटेल, क्लिनिक, रेस्टोरेंट और सर्विस टीमों के लिए बेहतरीन वेटलिस्ट टूल की तुलना करें और ऐसा आसान मोबाइल फ़्लो चुनें जो रोज़ कतार को आगे बढ़ाता रहे।"
+    },
+    "bn": {
+     "title": "ভিড়ের জায়গার জন্য সেরা ৭টি ওয়েটলিস্ট ও লাইন ম্যানেজমেন্ট টুল",
+     "description": "রিটেল, ক্লিনিক, রেস্তোরাঁ ও সার্ভিস টিমের জন্য সেরা ওয়েটলিস্ট টুল তুলনা করুন, আর এমন সহজ মোবাইল পদ্ধতি বেছে নিন যাতে প্রতিদিন লাইন এগিয়ে চলে।"
+    },
+    "id": {
+     "title": "7 Aplikasi Antrean dan Waitlist Terbaik untuk Tempat yang Ramai",
+     "description": "Bandingkan tool waitlist terbaik untuk ritel, klinik, restoran, dan layanan, lalu pilih alur antrean di ponsel yang sederhana agar antrean terus bergerak."
+    },
+    "th": {
+     "title": "7 เครื่องมือจัดคิวที่ดีที่สุดสำหรับร้านที่คนเยอะ",
+     "description": "เปรียบเทียบเครื่องมือจัดคิวสำหรับร้านค้าปลีก คลินิก ร้านอาหาร และจุดบริการ พร้อมวิธีเลือกระบบคิวผ่านมือถือที่ใช้ง่ายและช่วยให้คิวเดินทุกวัน"
     }
    }
   },
@@ -21,6 +81,66 @@
     "en": {
      "title": "How to Create a Mobile Waiting Experience",
      "description": "Learn how to create a mobile waiting experience that reduces visible lines, keeps customers updated, and gives staff more time to serve without kiosks."
+    },
+    "zh-tw": {
+     "title": "如何打造手機排隊候位體驗？免抽號機的叫號做法",
+     "description": "學會打造手機排隊候位體驗：減少現場人龍、隨時通知客人進度，不用抽號機，也讓工作人員有更多時間服務。"
+    },
+    "zh-hk": {
+     "title": "如何打造手機取籌輪候體驗？毋須取籌機的排隊方案",
+     "description": "了解如何打造手機取籌輪候體驗：減少現場人龍、隨時向客人更新進度，毋須取籌機，職員亦有更多時間服務。"
+    },
+    "zh-cn": {
+     "title": "如何打造手机排队取号体验？无需取号机的排队方案",
+     "description": "了解如何打造手机排队取号体验：减少现场长队、随时向顾客更新进度，无需取号机，让工作人员有更多时间服务。"
+    },
+    "ja": {
+     "title": "スマホで待てる順番待ち体験のつくり方",
+     "description": "発券機なしで、目に見える行列を減らし、お客様に待ち状況を届け、スタッフが接客に集中できるスマホの順番待ちのつくり方を解説します。"
+    },
+    "ko": {
+     "title": "휴대폰으로 기다리는 대기 경험을 만드는 방법",
+     "description": "번호표 발급기 없이 줄을 줄이고, 고객에게 대기 상황을 알리며, 직원이 응대에 집중하게 하는 휴대폰 대기 경험 만드는 법을 알아봅니다."
+    },
+    "tl": {
+     "title": "Paano Gumawa ng Mobile na Pila para sa Iyong Customer",
+     "description": "Alamin kung paano gumawa ng mobile na paghihintay na nagbabawas ng pila, nag-a-update sa customer, at nagbibigay ng oras sa staff nang walang kiosk."
+    },
+    "fr": {
+     "title": "Comment créer une expérience d’attente mobile pour vos clients",
+     "description": "Créez une expérience d’attente mobile qui réduit les files visibles, informe vos clients et libère du temps pour votre personnel, sans borne."
+    },
+    "es": {
+     "title": "Cómo crear una experiencia de espera móvil para tus clientes",
+     "description": "Aprende a crear una experiencia de espera móvil que reduce las filas visibles, informa a tus clientes y libera tiempo a tu personal, sin quioscos."
+    },
+    "pt": {
+     "title": "Como criar uma experiência de espera pelo celular para seus clientes",
+     "description": "Saiba como criar uma experiência de espera pelo celular que reduz filas visíveis, mantém o cliente informado e libera a equipe, sem totens."
+    },
+    "ru": {
+     "title": "Как создать мобильную электронную очередь для клиентов",
+     "description": "Как организовать ожидание на телефоне: меньше видимых очередей, клиенты в курсе, а у персонала больше времени на обслуживание — без терминалов."
+    },
+    "ar": {
+     "title": "كيف تنشئ تجربة انتظار عبر الهاتف لعملائك",
+     "description": "تعرّف كيف تنشئ تجربة انتظار عبر الهاتف تقلل الطوابير الظاهرة وتُطلع العملاء أولًا بأول وتمنح الموظفين وقتًا أكثر للخدمة دون أجهزة تذاكر."
+    },
+    "hi": {
+     "title": "मोबाइल कतार कैसे बनाएँ: फ़ोन पर बेहतर वेटिंग अनुभव",
+     "description": "जानें कि मोबाइल वेटिंग अनुभव कैसे बनाएँ जो दिखने वाली कतार घटाए, ग्राहकों को अपडेट रखे और बिना कियोस्क स्टाफ़ को सेवा के लिए ज़्यादा समय दे।"
+    },
+    "bn": {
+     "title": "মোবাইল সারি কীভাবে তৈরি করবেন: ফোনে অপেক্ষার সহজ অভিজ্ঞতা",
+     "description": "এমন মোবাইল অপেক্ষার অভিজ্ঞতা তৈরি করুন যা দৃশ্যমান লাইন কমায়, গ্রাহককে আপডেট রাখে এবং কিয়স্ক ছাড়াই কর্মীদের সেবার জন্য বেশি সময় দেয়।"
+    },
+    "id": {
+     "title": "Cara Membuat Antrean Online di Ponsel untuk Pengalaman Menunggu yang Lebih Baik",
+     "description": "Cara membuat pengalaman menunggu di ponsel yang mengurangi antrean, memberi kabar ke pelanggan, dan memberi staf lebih banyak waktu melayani tanpa kios."
+    },
+    "th": {
+     "title": "วิธีสร้างประสบการณ์รอคิวผ่านมือถือ",
+     "description": "เรียนรู้วิธีสร้างประสบการณ์รอคิวผ่านมือถือที่ช่วยลดแถวหน้าร้าน แจ้งความคืบหน้าให้ลูกค้า และให้พนักงานมีเวลาบริการมากขึ้นโดยไม่ต้องใช้เครื่องกดบัตรคิว"
     }
    }
   },
