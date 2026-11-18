@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "how-do-digital-waitlists-work",
+   "pubDate": "2026-11-18T02:03:51.000Z",
+   "img": "img/how-do-digital-waitlists-work.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/bcb12677-64a6-44b9-a17f-14157b9cb3c0.webp",
+   "langs": {
+    "en": {
+     "title": "How Do Digital Waitlists Work for Busy Stores?",
+     "description": "How do digital waitlists work? Learn how guests join, track their place, and get notified, so your team can reduce lines and keep service moving daily."
+    }
+   }
+  },
+  {
    "slug": "best-tools-for-waitlists",
    "pubDate": "2026-11-17T03:50:57.000Z",
    "img": "img/best-tools-for-waitlists.webp",
