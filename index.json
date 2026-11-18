@@ -9,6 +9,66 @@
     "en": {
      "title": "How Do Digital Waitlists Work for Busy Stores?",
      "description": "How do digital waitlists work? Learn how guests join, track their place, and get notified, so your team can reduce lines and keep service moving daily."
+    },
+    "zh-tw": {
+     "title": "數位候位系統怎麼運作？熱門店家的線上排隊叫號指南",
+     "description": "數位候位系統怎麼運作？了解客人如何登記、查看進度並收到通知，幫店家減少排隊人潮、讓服務順暢進行。"
+    },
+    "zh-hk": {
+     "title": "數碼輪候系統如何運作？人多商戶的網上取籌指南",
+     "description": "數碼輪候系統如何運作？了解客人如何登記、查看進度及接收通知，助商戶減少人龍，令服務暢順運作。"
+    },
+    "zh-cn": {
+     "title": "线上排队取号系统如何运作？客流高峰门店指南",
+     "description": "线上排队取号系统如何运作？了解顾客如何登记、查看排队进度并接收通知，帮商家减少排长队，让服务高效运转。"
+    },
+    "ja": {
+     "title": "デジタル順番待ちの仕組みとは？混雑するお店のための基本ガイド",
+     "description": "デジタル順番待ちの仕組みを解説。お客様の登録から通知までの流れを知り、行列を減らしてスムーズな接客を。"
+    },
+    "ko": {
+     "title": "디지털 대기 시스템은 어떻게 작동할까? 붐비는 매장을 위한 가이드",
+     "description": "디지털 대기 시스템의 작동 방식을 알아봅니다. 고객 등록부터 알림까지 이해하고 줄을 줄여 서비스를 원활하게 운영하세요."
+    },
+    "tl": {
+     "title": "Paano Gumagana ang Digital Waitlist sa Mataong Tindahan?",
+     "description": "Paano gumagana ang digital waitlist? Pumipila ang customer gamit ang phone, nakikita ang puwesto, at naaabisuhan—kaya umiikli ang pila at tuloy ang serbisyo."
+    },
+    "fr": {
+     "title": "Comment fonctionne une file d'attente virtuelle en magasin ?",
+     "description": "Comment fonctionne une file d'attente virtuelle ? Inscription, suivi de sa place, notification : réduisez l'attente et fluidifiez le service."
+    },
+    "es": {
+     "title": "¿Cómo funcionan las filas virtuales en negocios con mucha gente?",
+     "description": "¿Cómo funciona una fila virtual? Descubre cómo tus clientes se registran, siguen su turno y reciben avisos para reducir filas y agilizar la atención."
+    },
+    "pt": {
+     "title": "Como funciona a fila virtual em lojas movimentadas?",
+     "description": "Como funciona uma fila virtual? Veja como o cliente entra na fila, acompanha a posição e é avisado, para reduzir filas e agilizar o atendimento."
+    },
+    "ru": {
+     "title": "Как работает электронная очередь в загруженном магазине",
+     "description": "Как работает электронная очередь: клиент встаёт в очередь с телефона, видит своё место и получает уведомление, а персонал быстрее обслуживает поток."
+    },
+    "ar": {
+     "title": "كيف تعمل قوائم الانتظار الرقمية في المتاجر المزدحمة؟",
+     "description": "كيف تعمل قوائم الانتظار الرقمية؟ ينضم العميل إلى الطابور من هاتفه ويتابع دوره ويتلقى تنبيهًا، فيقل الزحام ويستمر سير الخدمة."
+    },
+    "hi": {
+     "title": "डिजिटल वेटलिस्ट कैसे काम करती है? व्यस्त दुकानों के लिए ऑनलाइन कतार",
+     "description": "डिजिटल वेटलिस्ट कैसे काम करती है? जानें ग्राहक कैसे जुड़ते हैं, अपनी जगह देखते हैं और सूचना पाते हैं, ताकि कतारें घटें और सेवा चलती रहे।"
+    },
+    "bn": {
+     "title": "ডিজিটাল ওয়েটলিস্ট কীভাবে কাজ করে? ব্যস্ত দোকানের জন্য অনলাইন সারি",
+     "description": "ডিজিটাল ওয়েটলিস্ট কীভাবে কাজ করে? জানুন গ্রাহক কীভাবে যুক্ত হন, নিজের অবস্থান দেখেন ও নোটিফিকেশন পান, যাতে লাইন কমে আর সেবা চলতে থাকে।"
+    },
+    "id": {
+     "title": "Bagaimana Cara Kerja Antrean Digital untuk Toko yang Ramai?",
+     "description": "Bagaimana cara kerja antrean digital? Pelajari cara pelanggan bergabung, memantau posisi, dan menerima notifikasi agar antrean berkurang dan layanan lancar."
+    },
+    "th": {
+     "title": "ระบบคิวออนไลน์ทำงานอย่างไร? คู่มือสำหรับร้านที่ลูกค้าเยอะ",
+     "description": "ระบบคิวออนไลน์ทำงานอย่างไร? เรียนรู้ขั้นตอนตั้งแต่ลูกค้ากดรับคิว ติดตามลำดับ จนถึงได้รับแจ้งเตือน เพื่อลดแถวและให้บริการได้ลื่นไหล"
     }
    }
   },
