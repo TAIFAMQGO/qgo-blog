@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "service-capacity-planning-guide",
+   "pubDate": "2026-11-19T03:52:13.000Z",
+   "img": "img/service-capacity-planning-guide.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/1545f465-c5be-4549-b6b1-39970810e5c7.webp",
+   "langs": {
+    "en": {
+     "title": "Service Capacity Planning Guide for Busy Teams",
+     "description": "This service capacity planning guide helps busy locations forecast demand, staff smarter, reduce lines, and keep customers informed on mobile easily."
+    }
+   }
+  },
+  {
    "slug": "how-do-digital-waitlists-work",
    "pubDate": "2026-11-18T02:03:51.000Z",
    "img": "img/how-do-digital-waitlists-work.webp",
