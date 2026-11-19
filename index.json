@@ -9,6 +9,66 @@
     "en": {
      "title": "Service Capacity Planning Guide for Busy Teams",
      "description": "This service capacity planning guide helps busy locations forecast demand, staff smarter, reduce lines, and keep customers informed on mobile easily."
+    },
+    "zh-tw": {
+     "title": "服務產能規劃指南：繁忙店家如何排班、減少排隊",
+     "description": "這份服務產能規劃指南教你預估客流、聰明排班、縮短排隊，並用手機輕鬆讓客人掌握進度。"
+    },
+    "zh-hk": {
+     "title": "服務容量規劃指南：繁忙商戶如何編排人手、減少排隊",
+     "description": "本服務容量規劃指南助繁忙商戶預測客量、靈活編更、縮短人龍，並透過手機讓客人輕鬆掌握進度。"
+    },
+    "zh-cn": {
+     "title": "服务产能规划指南：繁忙门店如何排班、减少排队",
+     "description": "这份服务产能规划指南帮你预测客流、科学排班、缩短排队，并用手机让顾客轻松掌握进度。"
+    },
+    "ja": {
+     "title": "サービスキャパシティ計画ガイド：混雑する店舗のための需要予測と人員配置",
+     "description": "需要予測、効率的な人員配置、行列の削減、スマホでの待ち時間案内まで。混雑する店舗のためのキャパシティ計画ガイドです。"
+    },
+    "ko": {
+     "title": "서비스 수용 능력 계획 가이드: 붐비는 매장을 위한 수요 예측과 인력 배치",
+     "description": "수요 예측, 효율적인 인력 배치, 대기 줄 감소, 휴대폰 대기 안내까지 붐비는 매장을 위한 수용 능력 계획 가이드입니다."
+    },
+    "tl": {
+     "title": "Gabay sa Service Capacity Planning para sa Abalang Negosyo",
+     "description": "Alamin kung paano hulaan ang dami ng customer, ayusin ang schedule ng staff, paikliin ang pila, at i-update ang customer sa phone."
+    },
+    "fr": {
+     "title": "Planification de la capacité de service : le guide pour les équipes débordées",
+     "description": "Prévoyez la demande, organisez mieux le personnel, réduisez les files d'attente et informez vos clients sur leur téléphone grâce à ce guide."
+    },
+    "es": {
+     "title": "Guía de planificación de la capacidad de servicio para equipos con alta demanda",
+     "description": "Con esta guía de capacidad de servicio podrás prever la demanda, organizar mejor al personal, reducir filas e informar a tus clientes en su teléfono."
+    },
+    "pt": {
+     "title": "Guia de planejamento da capacidade de atendimento para equipes com alta demanda",
+     "description": "Com este guia de planejamento de capacidade, você prevê a demanda, organiza melhor a equipe, reduz filas e informa os clientes pelo celular."
+    },
+    "ru": {
+     "title": "Планирование пропускной способности сервиса: руководство для загруженных команд",
+     "description": "Как прогнозировать спрос, грамотно планировать смены персонала, сокращать очереди и держать клиентов в курсе через телефон."
+    },
+    "ar": {
+     "title": "دليل تخطيط الطاقة الاستيعابية للخدمة للفرق المزدحمة",
+     "description": "دليل عملي للتنبؤ بالطلب وتوزيع الموظفين بذكاء وتقليل الطوابير وإبقاء العملاء على اطلاع عبر الهاتف بسهولة."
+    },
+    "hi": {
+     "title": "सर्विस कैपेसिटी प्लानिंग गाइड: व्यस्त टीमों के लिए आसान तरीका",
+     "description": "यह सर्विस कैपेसिटी प्लानिंग गाइड व्यस्त जगहों को मांग का अनुमान लगाने, सही स्टाफ़िंग, कतार घटाने और ग्राहकों को फ़ोन पर अपडेट देने में मदद करती है।"
+    },
+    "bn": {
+     "title": "সার্ভিস ক্যাপাসিটি প্ল্যানিং গাইড: ব্যস্ত টিমের জন্য সহজ পদ্ধতি",
+     "description": "এই সার্ভিস ক্যাপাসিটি প্ল্যানিং গাইড ব্যস্ত জায়গাকে চাহিদার পূর্বাভাস, সঠিকভাবে কর্মী নিয়োগ, লাইন কমানো আর ফোনে গ্রাহকদের আপডেট দিতে সাহায্য করে।"
+    },
+    "id": {
+     "title": "Panduan Perencanaan Kapasitas Layanan untuk Tim yang Sibuk",
+     "description": "Panduan perencanaan kapasitas layanan untuk memprediksi permintaan, mengatur staf, mengurangi antrean, dan memberi info ke pelanggan lewat ponsel."
+    },
+    "th": {
+     "title": "คู่มือวางแผนกำลังการให้บริการ: คาดการณ์ลูกค้า จัดพนักงาน ลดคิวรอ",
+     "description": "คู่มือวางแผนกำลังการให้บริการสำหรับร้านที่ลูกค้าแน่น ช่วยคาดการณ์ความต้องการ จัดพนักงานอย่างชาญฉลาด ลดคิว และแจ้งลูกค้าผ่านมือถือได้ง่าย"
     }
    }
   },
