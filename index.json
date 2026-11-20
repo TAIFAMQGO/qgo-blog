@@ -9,6 +9,66 @@
     "en": {
      "title": "Paper Tickets Versus Digital Waitlists: Which Fits?",
      "description": "Compare paper tickets versus digital waitlists for busy locations. See the trade-offs in cost, visibility, staffing, access, and customer experience daily."
+    },
+    "zh-tw": {
+     "title": "紙本號碼單 vs. 線上候位：哪一種叫號方式適合你的店？",
+     "description": "比較紙本號碼單與線上候位在成本、排隊資訊、人力、使用門檻與客人體驗上的差異，找出最適合你店家的叫號方式。"
+    },
+    "zh-hk": {
+     "title": "籌號紙 vs. 網上輪候：哪種取籌方式最適合你的商戶？",
+     "description": "比較籌號紙與網上輪候在成本、輪候資訊、人手、使用門檻及客人體驗上的分別，找出最適合你商戶的取籌方式。"
+    },
+    "zh-cn": {
+     "title": "纸质号码单 vs. 线上排队：哪种取号方式更适合你的门店？",
+     "description": "对比纸质号码单与线上排队在成本、排队信息、人力、使用门槛和顾客体验上的差异，找到最适合你门店的取号方式。"
+    },
+    "ja": {
+     "title": "紙の整理券とデジタル順番待ち、どちらが合う？選び方を比較",
+     "description": "紙の整理券とデジタル順番待ちを、コスト・見える化・スタッフ負担・利用しやすさ・顧客体験の観点で比較します。"
+    },
+    "ko": {
+     "title": "종이 번호표 vs 디지털 대기 시스템: 우리 매장에 맞는 선택은?",
+     "description": "종이 번호표와 디지털 대기 시스템을 비용, 대기 현황 확인, 직원 업무, 접근성, 고객 경험 측면에서 비교합니다."
+    },
+    "tl": {
+     "title": "Papel na Tiket o Digital na Pila: Alin ang Bagay sa Negosyo Mo?",
+     "description": "Ikumpara ang papel na tiket at digital na pila para sa mataong lugar: gastos, visibility, trabaho ng staff, access, at karanasan ng customer."
+    },
+    "fr": {
+     "title": "Tickets papier ou file d'attente numérique : que choisir ?",
+     "description": "Tickets papier ou file d'attente numérique : comparez coût, visibilité, charge du personnel, accessibilité et expérience client au quotidien."
+    },
+    "es": {
+     "title": "Turnos en papel vs. fila virtual: ¿cuál conviene más?",
+     "description": "Compara turnos en papel y filas virtuales para negocios concurridos: costo, visibilidad, personal, accesibilidad y experiencia del cliente."
+    },
+    "pt": {
+     "title": "Senha de papel ou fila digital: qual é a melhor opção?",
+     "description": "Compare senha de papel e fila digital para locais movimentados: custo, visibilidade, equipe, acessibilidade e experiência do cliente no dia a dia."
+    },
+    "ru": {
+     "title": "Бумажные талоны или электронная очередь: что выбрать?",
+     "description": "Бумажные талоны или электронная очередь: сравниваем расходы, прозрачность, нагрузку на персонал, доступность и удобство для клиентов."
+    },
+    "ar": {
+     "title": "التذاكر الورقية مقابل قوائم الانتظار الرقمية: أيهما يناسبك؟",
+     "description": "قارن بين التذاكر الورقية وقوائم الانتظار الرقمية للأماكن المزدحمة: التكلفة والوضوح وعبء الموظفين وسهولة الوصول وتجربة العملاء."
+    },
+    "hi": {
+     "title": "पेपर टोकन बनाम डिजिटल कतार: आपके व्यवसाय के लिए कौन-सा सही है?",
+     "description": "व्यस्त जगहों के लिए पेपर टोकन और डिजिटल वेटलिस्ट की तुलना: लागत, पारदर्शिता, स्टाफ़, पहुँच और ग्राहक अनुभव के ट्रेड-ऑफ़ जानें।"
+    },
+    "bn": {
+     "title": "কাগজের টোকেন বনাম ডিজিটাল লাইন: আপনার ব্যবসার জন্য কোনটি ঠিক?",
+     "description": "ব্যস্ত জায়গার জন্য কাগজের টোকেন ও ডিজিটাল ওয়েটলিস্টের তুলনা: খরচ, স্বচ্ছতা, কর্মী, প্রবেশাধিকার ও গ্রাহক অভিজ্ঞতার পার্থক্য জানুন।"
+    },
+    "id": {
+     "title": "Tiket Kertas vs Antrean Digital: Mana yang Cocok untuk Usaha Anda?",
+     "description": "Bandingkan tiket kertas dan antrean digital untuk lokasi yang ramai: biaya, visibilitas, staf, akses, dan pengalaman pelanggan sehari-hari."
+    },
+    "th": {
+     "title": "บัตรคิวกระดาษ vs ระบบคิวออนไลน์: แบบไหนเหมาะกับร้านคุณ",
+     "description": "เปรียบเทียบบัตรคิวกระดาษกับระบบคิวดิจิทัลสำหรับร้านที่คนเยอะ ทั้งต้นทุน การมองเห็นสถานะคิว ภาระพนักงาน การเข้าถึง และประสบการณ์ลูกค้า"
     }
    }
   },
