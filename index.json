@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "paper-tickets-versus-digital-waitlists",
+   "pubDate": "2026-11-20T02:10:21.000Z",
+   "img": "img/paper-tickets-versus-digital-waitlists.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/769d0f1e-ab20-422c-92bb-8c3c8327c610.webp",
+   "langs": {
+    "en": {
+     "title": "Paper Tickets Versus Digital Waitlists: Which Fits?",
+     "description": "Compare paper tickets versus digital waitlists for busy locations. See the trade-offs in cost, visibility, staffing, access, and customer experience daily."
+    }
+   }
+  },
+  {
    "slug": "service-capacity-planning-guide",
    "pubDate": "2026-11-19T03:52:13.000Z",
    "img": "img/service-capacity-planning-guide.webp",
