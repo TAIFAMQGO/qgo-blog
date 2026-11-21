@@ -9,6 +9,66 @@
     "en": {
      "title": "Retail Line Reduction Example: A Better Flow",
      "description": "See a retail line reduction example that cuts visible waits, keeps shoppers moving, and helps staff manage busy periods with simple, fast mobile updates."
+    },
+    "zh-tw": {
+     "title": "零售店減少排隊實例：讓客流更順暢",
+     "description": "透過零售店減少排隊實例，看手機叫號如何縮短現場排隊、讓客人繼續逛，也幫工作人員輕鬆應付尖峰時段。"
+    },
+    "zh-hk": {
+     "title": "零售店減少排隊實例：令人流更暢順",
+     "description": "透過零售店減少排隊實例，了解手機取籌如何縮短現場人龍、讓客人繼續選購，並助職員從容應付繁忙時段。"
+    },
+    "zh-cn": {
+     "title": "零售门店减少排队案例：让客流更顺畅",
+     "description": "通过零售门店减少排队案例，了解手机取号如何缩短现场排队、让顾客继续逛店，并帮助工作人员轻松应对高峰时段。"
+    },
+    "ja": {
+     "title": "小売店の行列を減らす事例：スムーズな順番待ちの流れ",
+     "description": "小売店の行列削減の事例を紹介。目に見える待ちを減らし、お客様の動きを止めず、スマホ通知で混雑時のスタッフ対応も楽になります。"
+    },
+    "ko": {
+     "title": "매장 대기줄 줄이기 사례: 더 나은 고객 흐름 만들기",
+     "description": "매장 대기줄을 줄인 사례를 소개합니다. 눈에 보이는 대기를 줄이고 고객이 계속 쇼핑하게 하며, 휴대폰 알림으로 바쁜 시간대 운영을 돕습니다."
+    },
+    "tl": {
+     "title": "Halimbawa ng Pagbawas ng Pila sa Retail: Mas Maayos na Daloy",
+     "description": "Halimbawa kung paano mababawasan ang pila sa tindahan, mapapanatiling gumagalaw ang mga customer, at matutulungan ang staff tuwing peak hours."
+    },
+    "fr": {
+     "title": "Réduire les files d'attente en magasin : un exemple concret",
+     "description": "Un exemple concret pour réduire la file d'attente en magasin : moins d'attente visible, des clients qui circulent et un personnel mieux organisé."
+    },
+    "es": {
+     "title": "Cómo reducir filas en tiendas: un ejemplo real que funciona",
+     "description": "Un ejemplo para reducir filas en tiendas: menos espera visible, clientes que siguen comprando y un personal que maneja mejor las horas pico."
+    },
+    "pt": {
+     "title": "Como reduzir filas no varejo: um exemplo prático que funciona",
+     "description": "Um exemplo prático para reduzir filas no varejo: menos espera visível, clientes circulando pela loja e equipe mais organizada nos horários de pico."
+    },
+    "ru": {
+     "title": "Как сократить очередь в магазине: пример из розницы",
+     "description": "Пример из розницы: как сократить видимую очередь, дать покупателям свободно ходить по магазину и помочь персоналу в часы пик."
+    },
+    "ar": {
+     "title": "مثال على تقليل الطوابير في متاجر التجزئة: تدفق أفضل للعملاء",
+     "description": "مثال عملي لتقليل الطوابير في متاجر التجزئة يخفّف الانتظار الظاهر ويُبقي المتسوقين في حركة ويساعد الموظفين في أوقات الذروة."
+    },
+    "hi": {
+     "title": "रिटेल में कतार कम करने का उदाहरण: बेहतर ग्राहक प्रवाह",
+     "description": "रिटेल में कतार कम करने का एक उदाहरण, जो दिखने वाला इंतज़ार घटाता है, ग्राहकों को चलते-फिरते रखता है और भीड़ के समय स्टाफ़ की मदद करता है।"
+    },
+    "bn": {
+     "title": "রিটেইলে লাইন কমানোর উদাহরণ: আরও ভালো গ্রাহক প্রবাহ",
+     "description": "রিটেইলে লাইন কমানোর একটি উদাহরণ, যা চোখে পড়া অপেক্ষা কমায়, ক্রেতাদের চলমান রাখে এবং ব্যস্ত সময়ে কর্মীদের কাজ সহজ করে।"
+    },
+    "id": {
+     "title": "Contoh Mengurangi Antrean di Toko Ritel: Alur yang Lebih Baik",
+     "description": "Contoh mengurangi antrean di toko ritel yang memangkas antrean terlihat, membuat pembeli tetap bergerak, dan membantu staf saat jam sibuk."
+    },
+    "th": {
+     "title": "ตัวอย่างการลดคิวในร้านค้าปลีก: จัดการคิวให้ลื่นไหลกว่าเดิม",
+     "description": "ดูตัวอย่างการลดคิวในร้านค้าปลีกที่ช่วยลดการยืนรอ ให้ลูกค้าเดินช้อปต่อได้ และช่วยพนักงานรับมือช่วงคนเยอะด้วยการอัปเดตผ่านมือถือที่ง่ายและรวดเร็ว"
     }
    }
   },
