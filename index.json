@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "retail-line-reduction-example",
+   "pubDate": "2026-11-21T03:32:38.000Z",
+   "img": "img/retail-line-reduction-example.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/b1bdc89c-b058-48d3-be5b-bcf89f518d03.webp",
+   "langs": {
+    "en": {
+     "title": "Retail Line Reduction Example: A Better Flow",
+     "description": "See a retail line reduction example that cuts visible waits, keeps shoppers moving, and helps staff manage busy periods with simple, fast mobile updates."
+    }
+   }
+  },
+  {
    "slug": "paper-tickets-versus-digital-waitlists",
    "pubDate": "2026-11-20T02:10:21.000Z",
    "img": "img/paper-tickets-versus-digital-waitlists.webp",
