@@ -9,6 +9,66 @@
     "en": {
      "title": "Web App Waitlist Review for Busy Locations",
      "description": "This web app waitlist review shows what to assess before replacing paper lists, kiosks, and crowded lines with a phone-first customer flow for busy teams."
+    },
+    "zh-tw": {
+     "title": "網頁版候位系統評估指南：人潮多的店家該看哪些重點",
+     "description": "取代紙本登記、抽號機與門口人龍之前，先看懂網頁版候位系統該評估什麼，打造以手機為主的排隊流程。"
+    },
+    "zh-hk": {
+     "title": "網頁版輪候系統評估：人流密集商戶的選擇重點",
+     "description": "以手機取籌取代紙本登記、取籌機與門外人龍之前，先了解網頁版輪候系統應評估哪些重點。"
+    },
+    "zh-cn": {
+     "title": "网页版排队取号系统测评：客流密集门店的选型要点",
+     "description": "用手机排队取代纸质登记、取号机和门口长队之前，先看懂网页版排队系统该评估哪些要点。"
+    },
+    "ja": {
+     "title": "Webアプリ型の順番待ちシステムを比較・検討するポイント｜混雑する店舗向け",
+     "description": "紙の受付表や発券機、店先の行列をスマホ中心の受付に切り替える前に、確認すべきポイントを解説します。"
+    },
+    "ko": {
+     "title": "웹앱 대기 시스템 리뷰: 붐비는 매장을 위한 선택 가이드",
+     "description": "종이 명단, 키오스크, 긴 줄을 휴대폰 중심의 대기 방식으로 바꾸기 전에 꼭 확인해야 할 점을 정리했습니다."
+    },
+    "tl": {
+     "title": "Review ng Web App Waitlist para sa Mataong Negosyo",
+     "description": "Mga dapat suriin bago palitan ang papel na listahan, ticket machine, at siksikang pila ng waitlist na nasa phone ng customer."
+    },
+    "fr": {
+     "title": "Liste d'attente en web app : le guide pour les lieux très fréquentés",
+     "description": "Ce qu'il faut évaluer avant de remplacer listes papier, bornes et files bondées par une liste d'attente web app pensée pour le téléphone."
+    },
+    "es": {
+     "title": "Lista de espera web: cómo evaluarla para negocios con mucha afluencia",
+     "description": "Qué evaluar antes de cambiar listas en papel, dispensadores de turnos y filas llenas por una lista de espera web desde el teléfono."
+    },
+    "pt": {
+     "title": "Lista de espera por web app: como avaliar para locais movimentados",
+     "description": "O que avaliar antes de trocar listas de papel, máquinas de senhas e filas lotadas por uma lista de espera web app pelo celular."
+    },
+    "ru": {
+     "title": "Обзор веб-приложения для электронной очереди: что важно для загруженных заведений",
+     "description": "Что проверить, прежде чем заменить бумажные списки, терминалы и толпу у входа электронной очередью на телефоне клиента."
+    },
+    "ar": {
+     "title": "مراجعة تطبيق ويب لقائمة الانتظار في المواقع المزدحمة",
+     "description": "ما الذي يجب تقييمه قبل استبدال القوائم الورقية وأجهزة التذاكر والطوابير المزدحمة بتجربة انتظار تعتمد على هاتف العميل."
+    },
+    "hi": {
+     "title": "वेब ऐप वेटलिस्ट रिव्यू: भीड़ वाली जगहों के लिए सही कतार सिस्टम कैसे चुनें",
+     "description": "पेपर लिस्ट, कियोस्क और लंबी कतारों की जगह फ़ोन-आधारित वेटलिस्ट अपनाने से पहले किन बातों को परखें — व्यस्त टीमों के लिए वेब ऐप वेटलिस्ट रिव्यू।"
+    },
+    "bn": {
+     "title": "ওয়েব অ্যাপ ওয়েটলিস্ট রিভিউ: ভিড়ের জায়গার জন্য সঠিক সারি ব্যবস্থা বাছাই",
+     "description": "কাগজের তালিকা, কিয়স্ক আর লম্বা লাইনের বদলে ফোন-ভিত্তিক ওয়েটলিস্ট চালুর আগে কী যাচাই করবেন — ব্যস্ত টিমের জন্য ওয়েব অ্যাপ ওয়েটলিস্ট রিভিউ।"
+    },
+    "id": {
+     "title": "Review Sistem Antrean Online Berbasis Web App untuk Lokasi yang Ramai",
+     "description": "Apa saja yang perlu dinilai sebelum mengganti daftar kertas, kios, dan antrean panjang dengan sistem antrean online berbasis ponsel untuk tim yang sibuk."
+    },
+    "th": {
+     "title": "รีวิวระบบคิวออนไลน์ผ่านเว็บแอป สำหรับร้านที่คนเยอะ",
+     "description": "สิ่งที่ควรประเมินก่อนเปลี่ยนจากรายชื่อบนกระดาษ ตู้กดบัตรคิว และแถวยาว มาใช้ระบบรอคิวผ่านมือถือสำหรับทีมที่งานยุ่ง"
     }
    }
   },
