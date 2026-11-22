@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "web-app-waitlist-review",
+   "pubDate": "2026-11-22T01:23:34.000Z",
+   "img": "img/web-app-waitlist-review.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/15f27ac4-5686-47cf-b301-842855aa73ad.webp",
+   "langs": {
+    "en": {
+     "title": "Web App Waitlist Review for Busy Locations",
+     "description": "This web app waitlist review shows what to assess before replacing paper lists, kiosks, and crowded lines with a phone-first customer flow for busy teams."
+    }
+   }
+  },
+  {
    "slug": "retail-line-reduction-example",
    "pubDate": "2026-11-21T03:32:38.000Z",
    "img": "img/retail-line-reduction-example.webp",
