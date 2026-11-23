@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "organize-crowded-store-entrances",
+   "pubDate": "2026-11-23T01:22:15.000Z",
+   "img": "img/organize-crowded-store-entrances.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/a2daaf47-a94b-470b-a4f7-37d566b09bfb.webp",
+   "langs": {
+    "en": {
+     "title": "How to Organize Crowded Store Entrances Fast",
+     "description": "Learn how to organize crowded store entrances with mobile queues, clearer arrival paths, and real-time updates that keep customers moving calmly inside."
+    }
+   }
+  },
+  {
    "slug": "web-app-waitlist-review",
    "pubDate": "2026-11-22T01:23:34.000Z",
    "img": "img/web-app-waitlist-review.webp",
