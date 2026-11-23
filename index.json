@@ -9,6 +9,66 @@
     "en": {
      "title": "How to Organize Crowded Store Entrances Fast",
      "description": "Learn how to organize crowded store entrances with mobile queues, clearer arrival paths, and real-time updates that keep customers moving calmly inside."
+    },
+    "zh-tw": {
+     "title": "店門口人潮擁擠怎麼辦？快速整頓入口排隊動線的方法",
+     "description": "用手機排隊、清楚的到店動線和即時進度通知，快速整頓擁擠的店門口，讓客人安心有序地進店。"
+    },
+    "zh-hk": {
+     "title": "店舖門口人流擠擁？快速整頓入口排隊的實用方法",
+     "description": "透過手機取籌輪候、清晰的到店路線和即時更新，快速整頓擠擁的店舖入口，讓客人從容有序地進店。"
+    },
+    "zh-cn": {
+     "title": "门店入口人流拥挤怎么办？快速疏导排队的实用方法",
+     "description": "借助手机排队取号、清晰的到店路线和实时进度更新，快速整顿拥挤的门店入口，让顾客从容有序地进店。"
+    },
+    "ja": {
+     "title": "混雑する店舗入口をすばやく整理する方法",
+     "description": "スマホの順番待ち、わかりやすい動線、リアルタイムの案内で、混雑しがちな店舗入口をすっきり整理する方法を解説します。"
+    },
+    "ko": {
+     "title": "붐비는 매장 입구를 빠르게 정리하는 방법",
+     "description": "모바일 대기, 명확한 동선, 실시간 안내로 붐비는 매장 입구를 정리하고 고객이 차분하게 이동하도록 돕는 방법을 알아봅니다."
+    },
+    "tl": {
+     "title": "Paano Ayusin Agad ang Siksikang Entrance ng Tindahan",
+     "description": "Alamin kung paano ayusin ang siksikang entrance ng tindahan gamit ang mobile na pila, malinaw na daanan, at real-time updates para kalmado ang customer."
+    },
+    "fr": {
+     "title": "Comment désengorger rapidement l'entrée d'un magasin bondé",
+     "description": "Désengorgez l'entrée de votre magasin grâce à la file d'attente sur téléphone, des parcours clairs et des mises à jour en temps réel."
+    },
+    "es": {
+     "title": "Cómo organizar rápido la entrada de una tienda llena de gente",
+     "description": "Aprende a organizar la entrada de tu tienda con filas en el teléfono, recorridos claros y avisos en tiempo real que mantienen a los clientes en calma."
+    },
+    "pt": {
+     "title": "Como organizar rápido a entrada de uma loja lotada",
+     "description": "Saiba como organizar a entrada lotada da sua loja com fila no celular, caminhos claros e atualizações em tempo real que mantêm os clientes tranquilos."
+    },
+    "ru": {
+     "title": "Как быстро навести порядок у входа в переполненный магазин",
+     "description": "Как организовать вход в загруженный магазин: электронная очередь, понятные маршруты и обновления в реальном времени, чтобы клиенты спокойно проходили внутрь."
+    },
+    "ar": {
+     "title": "كيف تنظّم مدخل المتجر المزدحم بسرعة",
+     "description": "تعرّف على تنظيم مداخل المتاجر المزدحمة عبر الطابور الإلكتروني ومسارات وصول أوضح وتحديثات فورية تُبقي العملاء يتحركون بهدوء في الداخل."
+    },
+    "hi": {
+     "title": "दुकान के भीड़भाड़ वाले प्रवेश द्वार को जल्दी कैसे व्यवस्थित करें",
+     "description": "मोबाइल कतार, साफ़ रास्तों और रियल-टाइम अपडेट से दुकान के भीड़ भरे प्रवेश द्वार को व्यवस्थित करें और ग्राहकों को आराम से अंदर आने दें।"
+    },
+    "bn": {
+     "title": "দোকানের ভিড়ভাট্টা প্রবেশপথ দ্রুত সামলানোর উপায়",
+     "description": "মোবাইল সারি, স্পষ্ট পথনির্দেশ আর রিয়েল-টাইম আপডেটে দোকানের ভিড় জমা প্রবেশপথ গুছিয়ে নিন, গ্রাহকরা শান্তভাবে ভেতরে আসবেন।"
+    },
+    "id": {
+     "title": "Cara Cepat Mengatur Pintu Masuk Toko yang Ramai",
+     "description": "Atur pintu masuk toko yang ramai dengan antrean di ponsel, alur kedatangan yang jelas, dan info real-time agar pelanggan tetap tenang."
+    },
+    "th": {
+     "title": "วิธีจัดการทางเข้าร้านที่แออัดให้เป็นระเบียบอย่างรวดเร็ว",
+     "description": "เรียนรู้วิธีจัดระเบียบทางเข้าร้านที่แออัดด้วยระบบคิวผ่านมือถือ เส้นทางที่ชัดเจน และการแจ้งสถานะแบบเรียลไทม์ ให้ลูกค้าเคลื่อนตัวได้อย่างสบายใจ"
     }
    }
   },
