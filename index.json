@@ -9,6 +9,66 @@
     "en": {
      "title": "Pickup Line Management That Keeps Orders Moving",
      "description": "Pickup line management keeps orders moving, cuts curbside and counter congestion, and gives customers clear updates without adding hardware or apps daily."
+    },
+    "zh-tw": {
+     "title": "取貨排隊管理怎麼做？讓訂單順暢交付、不再大排長龍",
+     "description": "做好取貨排隊管理，讓訂單順暢交付、減少櫃台與路邊取貨的擁擠，不必添購設備或下載 App，也能隨時通知客人進度。"
+    },
+    "zh-hk": {
+     "title": "取貨排隊管理：讓訂單交收暢順、減少人龍",
+     "description": "做好取貨排隊管理，令訂單交收暢順，減少櫃枱及路邊取貨的擠迫，毋須添置設備或下載 App，亦可隨時通知客人進度。"
+    },
+    "zh-cn": {
+     "title": "取货排队管理：让订单交付更顺畅，告别长队",
+     "description": "做好取货排队管理，让订单交付更顺畅，缓解柜台和路边取货拥堵，无需添置设备或下载 App，也能随时通知顾客进度。"
+    },
+    "ja": {
+     "title": "受け取り待ちの列を整理する方法｜注文の受け渡しをスムーズにする順番待ち管理",
+     "description": "受け取り待ちの列を上手に管理すれば、注文の受け渡しが滞らず、店頭や駐車場での混雑も解消。専用機器やアプリは不要です。"
+    },
+    "ko": {
+     "title": "픽업 대기 줄 관리: 주문 수령을 막힘없이 진행하는 방법",
+     "description": "픽업 대기 줄을 잘 관리하면 주문 수령이 빨라지고 매장과 주차장 혼잡이 줄어듭니다. 별도 기기나 앱 없이 가능합니다."
+    },
+    "tl": {
+     "title": "Pickup Line Management: Paano Panatilihing Tuloy-tuloy ang Order Pickup",
+     "description": "Tuloy-tuloy na orders, mas kaunting siksikan sa counter at curbside, at malinaw na updates sa customer—walang dagdag na hardware o app."
+    },
+    "fr": {
+     "title": "Gestion de la file de retrait : des commandes qui avancent",
+     "description": "Une bonne gestion de la file de retrait fluidifie les commandes, désengorge comptoir et parking, et informe les clients sans matériel ni appli."
+    },
+    "es": {
+     "title": "Gestión de filas de recogida para que los pedidos fluyan",
+     "description": "Gestiona la fila de recogida para que los pedidos fluyan, evita aglomeraciones en el mostrador y mantén informados a tus clientes sin equipos ni apps."
+    },
+    "pt": {
+     "title": "Gestão de filas de retirada para manter os pedidos andando",
+     "description": "A gestão da fila de retirada agiliza os pedidos, evita aglomeração no balcão e mantém o cliente informado, sem equipamentos nem apps extras."
+    },
+    "ru": {
+     "title": "Очередь на выдачу заказов: как организовать её без заторов",
+     "description": "Как организовать очередь на выдачу заказов: меньше толкучки у стойки и парковки, понятные уведомления для клиентов — без терминалов и приложений."
+    },
+    "ar": {
+     "title": "إدارة طابور استلام الطلبات: كيف تُبقي الطلبات تتحرك بسلاسة",
+     "description": "إدارة طابور استلام الطلبات تُبقي الطلبات تتحرك، وتخفف الازدحام عند الكاونتر وموقف السيارات، وتمنح العملاء تحديثات واضحة دون أجهزة أو تطبيقات."
+    },
+    "hi": {
+     "title": "पिकअप लाइन मैनेजमेंट: ऑर्डर बिना रुकावट आगे बढ़ते रहें",
+     "description": "पिकअप लाइन मैनेजमेंट से ऑर्डर तेज़ी से आगे बढ़ते हैं, काउंटर और कर्बसाइड पर भीड़ घटती है और ग्राहकों को बिना नए हार्डवेयर या ऐप के साफ़ अपडेट मिलते हैं।"
+    },
+    "bn": {
+     "title": "পিকআপ লাইন ম্যানেজমেন্ট: অর্ডার যেন থেমে না থাকে",
+     "description": "পিকআপ লাইন ম্যানেজমেন্টে অর্ডার দ্রুত এগোয়, কাউন্টার ও কার্বসাইডে ভিড় কমে, আর নতুন হার্ডওয়্যার বা অ্যাপ ছাড়াই গ্রাহকরা পরিষ্কার আপডেট পান।"
+    },
+    "id": {
+     "title": "Manajemen Antrean Pengambilan Pesanan agar Order Tetap Lancar",
+     "description": "Antrean pengambilan pesanan yang tertata menjaga order lancar, mengurangi kepadatan di kasir dan curbside, tanpa hardware atau aplikasi baru."
+    },
+    "th": {
+     "title": "จัดการคิวรับสินค้าอย่างไรให้ออเดอร์เดินหน้าไม่สะดุด",
+     "description": "จัดการคิวรับสินค้าให้ออเดอร์เดินหน้า ลดความแออัดที่เคาน์เตอร์และจุดรับที่รถ แจ้งสถานะลูกค้าชัดเจน โดยไม่ต้องใช้เครื่องหรือแอปเพิ่ม"
     }
    }
   },
