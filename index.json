@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "pickup-line-management",
+   "pubDate": "2026-11-24T01:31:28.000Z",
+   "img": "img/pickup-line-management.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/a2e22c7a-414c-416b-9f0e-aa335899c012.webp",
+   "langs": {
+    "en": {
+     "title": "Pickup Line Management That Keeps Orders Moving",
+     "description": "Pickup line management keeps orders moving, cuts curbside and counter congestion, and gives customers clear updates without adding hardware or apps daily."
+    }
+   }
+  },
+  {
    "slug": "organize-crowded-store-entrances",
    "pubDate": "2026-11-23T01:22:15.000Z",
    "img": "img/organize-crowded-store-entrances.webp",
