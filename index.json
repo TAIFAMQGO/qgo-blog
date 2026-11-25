@@ -9,6 +9,66 @@
     "en": {
      "title": "Customer Flow Management That Keeps Lines Moving",
      "description": "Customer flow management helps reduce lines, keep guests informed, and give teams a simpler way to organize busy service moments without extra hardware."
+    },
+    "zh-tw": {
+     "title": "客流管理怎麼做？讓排隊人潮順暢流動的實用方法",
+     "description": "做好客流管理，就能減少排隊人龍、讓客人掌握進度，不必添購額外硬體，也能從容應對尖峰時段。"
+    },
+    "zh-hk": {
+     "title": "客流管理實用指南：讓排隊人龍順暢流動",
+     "description": "做好客流管理，可減少排隊人龍、讓客人掌握輪候進度，毋須添置額外硬件，亦能從容應付繁忙時段。"
+    },
+    "zh-cn": {
+     "title": "客流管理怎么做？让排队人流顺畅流动的实用方法",
+     "description": "做好客流管理，就能减少排队长龙、让顾客随时掌握进度，无需额外硬件，也能从容应对高峰时段。"
+    },
+    "ja": {
+     "title": "客の流れを管理して行列をスムーズにする方法｜顧客動線管理の基本",
+     "description": "顧客動線の管理で行列を減らし、お客様に状況を伝え、繁忙時の対応を追加機器なしでシンプルに整理できます。"
+    },
+    "ko": {
+     "title": "대기 줄을 줄이는 고객 동선 관리 방법",
+     "description": "고객 동선 관리로 대기 줄을 줄이고 고객에게 상황을 알리며, 추가 장비 없이 바쁜 시간대를 더 간단하게 운영할 수 있습니다."
+    },
+    "tl": {
+     "title": "Customer Flow Management: Paano Panatilihing Gumagalaw ang Pila",
+     "description": "Pinaiikli ng customer flow management ang pila, pinananatiling updated ang customer, at pinadadali ang abalang oras nang walang dagdag na hardware."
+    },
+    "fr": {
+     "title": "Gestion du flux clients : fluidifier la file d'attente",
+     "description": "La gestion du flux clients réduit l'attente, informe les clients et aide vos équipes à mieux gérer les pics d'affluence, sans matériel en plus."
+    },
+    "es": {
+     "title": "Gestión del flujo de clientes para que la fila avance",
+     "description": "La gestión del flujo de clientes reduce las filas, mantiene informados a tus clientes y ordena los momentos de mayor demanda sin hardware extra."
+    },
+    "pt": {
+     "title": "Gestão do fluxo de clientes para a fila andar",
+     "description": "A gestão do fluxo de clientes reduz filas, mantém os clientes informados e ajuda a equipe a organizar os horários de pico sem hardware extra."
+    },
+    "ru": {
+     "title": "Управление потоком клиентов: как сделать так, чтобы очередь двигалась",
+     "description": "Управление потоком клиентов сокращает очереди, держит гостей в курсе и помогает персоналу справляться с наплывом без дополнительного оборудования."
+    },
+    "ar": {
+     "title": "إدارة تدفق العملاء: كيف تُبقي الطوابير في حركة مستمرة",
+     "description": "تساعد إدارة تدفق العملاء على تقليل الطوابير وإبقاء العملاء على اطلاع ومنح الفرق طريقة أبسط لتنظيم أوقات الذروة دون أجهزة إضافية."
+    },
+    "hi": {
+     "title": "कस्टमर फ़्लो मैनेजमेंट: कतार को लगातार आगे कैसे बढ़ाएँ",
+     "description": "कस्टमर फ़्लो मैनेजमेंट से कतारें घटाएँ, ग्राहकों को अपडेट रखें और बिना अतिरिक्त हार्डवेयर के व्यस्त समय को आसानी से संभालें।"
+    },
+    "bn": {
+     "title": "কাস্টমার ফ্লো ম্যানেজমেন্ট: যেভাবে লাইন সবসময় সচল থাকে",
+     "description": "কাস্টমার ফ্লো ম্যানেজমেন্ট লাইন কমায়, গ্রাহকদের আপডেট রাখে এবং বাড়তি হার্ডওয়্যার ছাড়াই ব্যস্ত সময় সহজে সামলাতে সাহায্য করে।"
+    },
+    "id": {
+     "title": "Manajemen Alur Pelanggan agar Antrean Tetap Lancar",
+     "description": "Manajemen alur pelanggan membantu mengurangi antrean, memberi kabar kepada pelanggan, dan memudahkan tim saat ramai tanpa perangkat tambahan."
+    },
+    "th": {
+     "title": "การจัดการการไหลของลูกค้า ช่วยให้คิวเดินเร็วขึ้น",
+     "description": "การจัดการการไหลของลูกค้าช่วยลดคิวยาว แจ้งสถานะให้ลูกค้ารู้ และช่วยให้ทีมจัดการช่วงที่ร้านยุ่งได้ง่ายขึ้นโดยไม่ต้องมีอุปกรณ์เพิ่ม"
     }
    }
   },
