@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "customer-flow-management",
+   "pubDate": "2026-11-25T01:21:28.000Z",
+   "img": "img/customer-flow-management.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/1c8ecf88-5f10-493a-a11e-87096468cb38.webp",
+   "langs": {
+    "en": {
+     "title": "Customer Flow Management That Keeps Lines Moving",
+     "description": "Customer flow management helps reduce lines, keep guests informed, and give teams a simpler way to organize busy service moments without extra hardware."
+    }
+   }
+  },
+  {
    "slug": "pickup-line-management",
    "pubDate": "2026-11-24T01:31:28.000Z",
    "img": "img/pickup-line-management.webp",
