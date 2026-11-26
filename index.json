@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "installable-web-app-queue",
+   "pubDate": "2026-11-26T01:20:45.000Z",
+   "img": "img/installable-web-app-queue.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/15fdb508-f0ea-42b9-ac07-c1860aad3e48.webp",
+   "langs": {
+    "en": {
+     "title": "Installable Web App Queue for Busy Locations",
+     "description": "An installable web app queue lets customers join from their phones, check their place, and wait anywhere - without kiosks, tickets, or downloads easily."
+    }
+   }
+  },
+  {
    "slug": "customer-flow-management",
    "pubDate": "2026-11-25T01:21:28.000Z",
    "img": "img/customer-flow-management.webp",
