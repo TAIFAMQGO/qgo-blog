@@ -9,6 +9,66 @@
     "en": {
      "title": "Installable Web App Queue for Busy Locations",
      "description": "An installable web app queue lets customers join from their phones, check their place, and wait anywhere - without kiosks, tickets, or downloads easily."
+    },
+    "zh-tw": {
+     "title": "可安裝的網頁叫號 App：人潮多的店家免下載也能線上排隊",
+     "description": "可安裝的網頁版叫號系統，讓客人用手機加入排隊、隨時查看進度、在哪裡等都可以，免下載 App、免抽號機與號碼單。"
+    },
+    "zh-hk": {
+     "title": "可安裝的網頁取籌 App：人流密集商戶毋須下載即可遙距排隊",
+     "description": "可安裝的網頁版取籌系統讓客人以手機加入排隊、隨時查看進度並在任何地方等候，毋須下載 App、取籌機或籌號紙。"
+    },
+    "zh-cn": {
+     "title": "可安装的网页排队取号 App：客流密集门店免下载在线排队",
+     "description": "可安装的网页版排队取号系统，让顾客用手机加入排队、随时查看进度、在哪儿等都行，无需下载 App、取号机或号码单。"
+    },
+    "ja": {
+     "title": "インストールできるWebアプリで順番待ち｜混雑する店舗のためのスマホ受付",
+     "description": "インストール可能なWebアプリの順番待ちなら、お客様はスマホで受付し、順番を確認しながら好きな場所で待てます。発券機も整理券もダウンロードも不要です。"
+    },
+    "ko": {
+     "title": "설치형 웹 앱 대기 시스템: 붐비는 매장을 위한 모바일 번호표",
+     "description": "설치형 웹 앱 대기 시스템으로 고객은 휴대폰으로 대기 등록 후 어디서든 기다립니다. 번호표 발급기, 종이 번호표, 앱 다운로드가 필요 없습니다."
+    },
+    "tl": {
+     "title": "Installable Web App Queue: Pila sa Phone para sa Mataong Lugar",
+     "description": "Sa installable web app queue, pumipila ang customer gamit ang phone, nakikita ang puwesto, at naghihintay kahit saan—walang kiosk, tiket, o download."
+    },
+    "fr": {
+     "title": "File d'attente en web app installable pour les lieux très fréquentés",
+     "description": "Avec une file d'attente en web app installable, vos clients rejoignent la file sur leur téléphone et attendent où ils veulent, sans borne ni ticket."
+    },
+    "es": {
+     "title": "Fila virtual con web app instalable para lugares concurridos",
+     "description": "Una fila virtual con web app instalable permite a tus clientes unirse desde el teléfono y esperar donde quieran, sin kioscos, tickets ni descargas."
+    },
+    "pt": {
+     "title": "Fila virtual com web app instalável para locais movimentados",
+     "description": "Com uma fila virtual em web app instalável, seus clientes entram na fila pelo celular e esperam onde quiserem, sem totem, senha de papel ou download."
+    },
+    "ru": {
+     "title": "Электронная очередь как веб-приложение: без скачивания и терминалов",
+     "description": "Веб-приложение для очереди: клиенты встают в очередь с телефона, видят своё место и ждут где угодно — без терминалов, талонов и скачивания."
+    },
+    "ar": {
+     "title": "طابور إلكتروني عبر تطبيق ويب قابل للتثبيت للأماكن المزدحمة",
+     "description": "طابور عبر تطبيق ويب قابل للتثبيت: ينضم العملاء من هواتفهم ويتابعون دورهم وينتظرون أينما شاؤوا دون أجهزة أو تذاكر أو تنزيل."
+    },
+    "hi": {
+     "title": "भीड़भाड़ वाली जगहों के लिए इंस्टॉल होने वाला वेब ऐप कतार सिस्टम",
+     "description": "इंस्टॉल होने वाले वेब ऐप कतार सिस्टम से ग्राहक फ़ोन से लाइन में जुड़ते हैं, अपनी जगह देखते हैं और कहीं भी इंतज़ार करते हैं — बिना कियोस्क, टोकन या डाउनलोड के।"
+    },
+    "bn": {
+     "title": "ব্যস্ত জায়গার জন্য ইনস্টলযোগ্য ওয়েব অ্যাপ কিউ সিস্টেম",
+     "description": "ইনস্টলযোগ্য ওয়েব অ্যাপ কিউ দিয়ে গ্রাহক ফোন থেকেই লাইনে যোগ দেন, নিজের অবস্থান দেখেন এবং যেকোনো জায়গায় অপেক্ষা করেন — কিয়স্ক, টোকেন বা ডাউনলোড ছাড়াই।"
+    },
+    "id": {
+     "title": "Antrean Web App yang Bisa Diinstal untuk Lokasi Ramai",
+     "description": "Dengan antrean web app yang bisa diinstal, pelanggan ikut antre dari ponsel, cek posisi, dan menunggu di mana saja — tanpa kios, tiket, atau unduhan."
+    },
+    "th": {
+     "title": "ระบบคิวเว็บแอปที่ติดตั้งได้ สำหรับร้านที่ลูกค้าเยอะ",
+     "description": "ระบบคิวแบบเว็บแอปที่ติดตั้งได้ ให้ลูกค้ารับคิวผ่านมือถือ เช็กลำดับคิว และรอที่ไหนก็ได้ โดยไม่ต้องใช้เครื่องกดบัตรคิว บัตรคิวกระดาษ หรือดาวน์โหลดแอป"
     }
    }
   },
