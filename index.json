@@ -9,6 +9,66 @@
     "en": {
      "title": "How to Reduce Storefront Line Abandonment",
      "description": "Learn how to reduce storefront line abandonment with mobile waitlists, clear updates, and faster handoffs that keep customers close and ready to buy."
+    },
+    "zh-tw": {
+     "title": "如何減少客人排隊排到一半離開？門市排隊流失的解決方法",
+     "description": "用手機線上排隊、清楚的進度更新與順暢的交接，減少門市排隊流失，讓客人留在附近、隨時準備消費。"
+    },
+    "zh-hk": {
+     "title": "如何減少客人排隊中途離開？店舖排隊流失的應對方法",
+     "description": "透過手機遙距排隊、清晰的進度更新及順暢的交接，減少店舖排隊流失，讓客人留在附近、隨時準備消費。"
+    },
+    "zh-cn": {
+     "title": "如何减少顾客排队中途离开？门店排队流失的解决方法",
+     "description": "借助手机线上排队、清晰的进度更新和顺畅的交接，减少门店排队流失，让顾客留在附近、随时准备消费。"
+    },
+    "ja": {
+     "title": "店頭の順番待ちで帰ってしまうお客様を減らす方法",
+     "description": "スマホでの順番待ち、わかりやすい状況表示、スムーズな呼び出しで、お客様の途中離脱を防ぎ、購入につなげる方法を解説します。"
+    },
+    "ko": {
+     "title": "매장 대기 줄 이탈을 줄이는 방법",
+     "description": "모바일 대기, 명확한 진행 안내, 빠른 호출로 고객이 줄을 떠나지 않고 구매까지 이어지도록 하는 방법을 알아봅니다."
+    },
+    "tl": {
+     "title": "Paano Bawasan ang mga Customer na Umaalis sa Pila ng Tindahan",
+     "description": "Alamin kung paano bawasan ang umaalis sa pila gamit ang mobile waitlist, malinaw na update, at mabilis na handoff para manatili at handang bumili ang customer."
+    },
+    "fr": {
+     "title": "Réduire les abandons de file d'attente en magasin",
+     "description": "Réduisez les abandons de file d'attente en magasin grâce à une file virtuelle sur mobile, des mises à jour claires et une prise en charge plus rapide."
+    },
+    "es": {
+     "title": "Cómo reducir el abandono de la fila en tu negocio",
+     "description": "Reduce el abandono de la fila en tu negocio con listas de espera en el teléfono, avisos claros y una atención más ágil que mantiene cerca a tus clientes."
+    },
+    "pt": {
+     "title": "Como reduzir a desistência da fila na sua loja",
+     "description": "Reduza a desistência da fila na sua loja com fila virtual no celular, avisos claros e um atendimento mais ágil que mantém o cliente por perto."
+    },
+    "ru": {
+     "title": "Как сократить уход клиентов из очереди в магазине",
+     "description": "Как удержать клиентов в очереди: мобильная электронная очередь, понятные уведомления и быстрая передача, чтобы люди оставались рядом и готовыми к покупке."
+    },
+    "ar": {
+     "title": "كيف تقلل مغادرة العملاء لطابور المتجر",
+     "description": "تعرّف على طرق تقليل مغادرة العملاء للطابور عبر قوائم انتظار على الهاتف وتحديثات واضحة وتسليم أسرع يُبقي العملاء قريبين ومستعدين للشراء."
+    },
+    "hi": {
+     "title": "दुकान की कतार छोड़कर जाने वाले ग्राहकों को कैसे रोकें",
+     "description": "मोबाइल वेटलिस्ट, साफ़ अपडेट और तेज़ हैंडऑफ़ से दुकान की कतार छोड़ने वाले ग्राहक घटाएँ, ताकि ग्राहक पास रहें और खरीदने को तैयार रहें।"
+    },
+    "bn": {
+     "title": "দোকানের লাইন ছেড়ে চলে যাওয়া গ্রাহক কীভাবে কমাবেন",
+     "description": "মোবাইল ওয়েটলিস্ট, স্পষ্ট আপডেট আর দ্রুত হস্তান্তরে দোকানের লাইন ছেড়ে যাওয়া কমান, যাতে গ্রাহক কাছেই থাকেন ও কিনতে প্রস্তুত থাকেন।"
+    },
+    "id": {
+     "title": "Cara Mengurangi Pelanggan yang Meninggalkan Antrean di Toko",
+     "description": "Kurangi pelanggan yang meninggalkan antrean toko dengan daftar tunggu di ponsel, info yang jelas, dan serah terima cepat agar mereka tetap siap membeli."
+    },
+    "th": {
+     "title": "วิธีลดลูกค้าทิ้งคิวหน้าร้าน",
+     "description": "เรียนรู้วิธีลดลูกค้าทิ้งคิวหน้าร้านด้วยระบบคิวผ่านมือถือ การแจ้งสถานะที่ชัดเจน และการเรียกคิวที่รวดเร็ว ให้ลูกค้าอยู่ใกล้ร้านและพร้อมซื้อ"
     }
    }
   },
