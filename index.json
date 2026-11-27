@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "reduce-storefront-line-abandonment",
+   "pubDate": "2026-11-27T01:25:11.000Z",
+   "img": "img/reduce-storefront-line-abandonment.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/fc9ce838-c838-49a2-a697-3a175e791b86.webp",
+   "langs": {
+    "en": {
+     "title": "How to Reduce Storefront Line Abandonment",
+     "description": "Learn how to reduce storefront line abandonment with mobile waitlists, clear updates, and faster handoffs that keep customers close and ready to buy."
+    }
+   }
+  },
+  {
    "slug": "installable-web-app-queue",
    "pubDate": "2026-11-26T01:20:45.000Z",
    "img": "img/installable-web-app-queue.webp",
