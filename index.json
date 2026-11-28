@@ -9,6 +9,66 @@
     "en": {
      "title": "Clinic Arrival Workflow That Keeps Waiting Rooms Clear",
      "description": "A better clinic arrival workflow lets patients check in from their phones, gives staff live visibility, and keeps crowded waiting rooms under control."
+    },
+    "zh-tw": {
+     "title": "診所報到流程優化：讓候診室不再擁擠",
+     "description": "更好的診所報到流程，讓病患用手機報到、櫃台即時掌握進度，有效控制擁擠的候診室。"
+    },
+    "zh-hk": {
+     "title": "診所登記流程優化：令候診室不再擠迫",
+     "description": "更完善的診所登記流程，讓病人用手機登記、職員即時掌握進度，有效控制擠迫的候診室。"
+    },
+    "zh-cn": {
+     "title": "诊所签到流程优化：让候诊室不再拥挤",
+     "description": "更好的诊所签到流程，让患者用手机签到、工作人员实时掌握进度，有效缓解候诊室拥挤。"
+    },
+    "ja": {
+     "title": "待合室の混雑を防ぐ、クリニックの来院受付フロー改善ガイド",
+     "description": "スマホで受付、スタッフはリアルタイムで状況を把握。混雑しがちな待合室を落ち着かせるクリニックの来院受付フローを解説します。"
+    },
+    "ko": {
+     "title": "대기실 혼잡을 줄이는 병원 내원 접수 프로세스",
+     "description": "환자는 휴대폰으로 접수하고 직원은 실시간으로 현황을 확인하는, 붐비는 대기실을 관리하는 병원 내원 접수 방법을 소개합니다."
+    },
+    "tl": {
+     "title": "Maayos na Pagdating ng Pasyente sa Clinic para Hindi Siksikan ang Waiting Area",
+     "description": "Sa mas maayos na arrival workflow, nagche-check in ang pasyente sa phone, live na nakikita ng staff ang pila, at hindi siksikan ang waiting area."
+    },
+    "fr": {
+     "title": "Accueil des patients en cabinet : un processus qui désengorge la salle d’attente",
+     "description": "Enregistrement sur mobile, vue en temps réel pour l’accueil : un meilleur processus d’arrivée garde la salle d’attente sous contrôle."
+    },
+    "es": {
+     "title": "Flujo de llegada de pacientes en tu clínica: salas de espera sin aglomeraciones",
+     "description": "Un mejor flujo de llegada permite registrarse desde el celular, da al personal una vista en tiempo real y evita salas de espera llenas."
+    },
+    "pt": {
+     "title": "Fluxo de chegada na clínica: como manter a sala de espera sem lotação",
+     "description": "Com um fluxo de chegada melhor, o paciente faz check-in pelo celular, a equipe acompanha tudo em tempo real e a sala de espera não lota."
+    },
+    "ru": {
+     "title": "Регистрация пациентов в клинике: как избежать переполненной зоны ожидания",
+     "description": "Удобная регистрация по прибытии: пациенты отмечаются с телефона, персонал видит очередь в реальном времени, а в холле нет толпы."
+    },
+    "ar": {
+     "title": "تنظيم وصول المرضى إلى العيادة لتبقى غرف الانتظار هادئة",
+     "description": "تنظيم أفضل لوصول المرضى: تسجيل الحضور من الهاتف، ورؤية مباشرة للموظفين، وغرفة انتظار بلا ازدحام."
+    },
+    "hi": {
+     "title": "क्लिनिक अराइवल वर्कफ़्लो: फ़ोन से चेक-इन और भीड़ रहित वेटिंग रूम",
+     "description": "बेहतर क्लिनिक अराइवल वर्कफ़्लो से मरीज़ फ़ोन से चेक-इन करते हैं, स्टाफ़ को लाइव जानकारी मिलती है और वेटिंग रूम की भीड़ काबू में रहती है।"
+    },
+    "bn": {
+     "title": "ক্লিনিক অ্যারাইভাল ওয়ার্কফ্লো: ফোনে চেক-ইন, ভিড়মুক্ত ওয়েটিং রুম",
+     "description": "ভালো ক্লিনিক অ্যারাইভাল ওয়ার্কফ্লোতে রোগীরা ফোনে চেক-ইন করেন, কর্মীরা লাইভ তথ্য পান, আর ওয়েটিং রুমের ভিড় নিয়ন্ত্রণে থাকে।"
+    },
+    "id": {
+     "title": "Alur Kedatangan Pasien di Klinik agar Ruang Tunggu Tidak Penuh Sesak",
+     "description": "Alur kedatangan klinik yang lebih baik memungkinkan pasien check-in lewat ponsel, memberi staf pantauan langsung, dan menjaga ruang tunggu tertib."
+    },
+    "th": {
+     "title": "ขั้นตอนรับผู้ป่วยเมื่อมาถึงคลินิก ช่วยให้ห้องรอไม่แออัด",
+     "description": "ขั้นตอนรับผู้ป่วยที่ดีขึ้นให้ผู้ป่วยเช็กอินผ่านมือถือ พนักงานเห็นสถานะแบบเรียลไทม์ และช่วยควบคุมห้องรอที่แออัด"
     }
    }
   },
