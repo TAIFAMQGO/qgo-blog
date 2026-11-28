@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "clinic-arrival-workflow",
+   "pubDate": "2026-11-28T01:22:24.000Z",
+   "img": "img/clinic-arrival-workflow.webp",
+   "imageOrig": "https://afocirmbqdxnkyescnev.supabase.co/storage/v1/object/public/featured-images/47cccbfb-b22e-46cc-b5ea-3e59deb0fa86/workflows/e448e9b7-713d-481b-bef3-09108a7bdc18.webp",
+   "langs": {
+    "en": {
+     "title": "Clinic Arrival Workflow That Keeps Waiting Rooms Clear",
+     "description": "A better clinic arrival workflow lets patients check in from their phones, gives staff live visibility, and keeps crowded waiting rooms under control."
+    }
+   }
+  },
+  {
    "slug": "reduce-storefront-line-abandonment",
    "pubDate": "2026-11-27T01:25:11.000Z",
    "img": "img/reduce-storefront-line-abandonment.webp",
